@@ -1,0 +1,26 @@
+<div class="container p-3 justify-content-center align-items-center">
+    <h3 class="p-3 text-center">Hello, {{user}}</h3>
+    <h6 class="text-primary">Progress: {{progress}} / 602</h6>
+    <h6 class="text-muted">Subject: #oil</h6>
+    <hr>
+    <div class="d-flex justify-content-center">
+        <p class="mt-5 border border-secondary rounded p-5">{{{tweet}}}</p>
+    </div>
+    <div class="d-flex justify-content-center mt-5">
+        <form id="form1" method="post" action="/t/{{progress}}">
+            <input id="annotation" name="annotation" class="form-control d-none" type="text" value="">
+        </form>
+        <button form="form1" type="submit" id="posBtn" class="btn btn-sm btn-success mr-5 p-2">Positive</button>
+        <button form="form1" type="submit" id="negBtn" class="btn btn-sm btn-danger">Negative</button>
+    </div>
+
+</div>
+
+<script>
+    $('#posBtn').click(function (e) {
+        $('#annotation').val('POS')
+    });
+    $('#negBtn').click(function (e) {
+        $('#annotation').val('NEG')
+    });
+</script>
