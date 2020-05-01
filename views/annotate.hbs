@@ -11,6 +11,7 @@
             <input id="annotation" name="annotation" class="form-control d-none" type="text" value="">
         </form>
         <button form="form1" type="submit" id="posBtn" class="btn btn-sm btn-success mr-5 p-2">Positive</button>
+        <button form="form1" type="submit" id="neuBtn" class="btn btn-sm btn-warning mr-5">Neutral</button>
         <button form="form1" type="submit" id="negBtn" class="btn btn-sm btn-danger">Negative</button>
     </div>
 
@@ -19,6 +20,9 @@
 <script>
     $('#posBtn').click(function (e) {
         $('#annotation').val('POS')
+    });
+    $('#neuBtn').click(function (e) {
+        $('#annotation').val('NEU')
     });
     $('#negBtn').click(function (e) {
         $('#annotation').val('NEG')

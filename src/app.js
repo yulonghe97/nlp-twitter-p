@@ -21,7 +21,7 @@ app.use(express.urlencoded({ extended: false }));
 
 hbs.registerHelper('isPOS', function(anno, options)
 {
-   if (anno === 'POS')
+   if (anno === 'POS' || anno === 'NEU')
    {
       return options.fn(this)
    }
