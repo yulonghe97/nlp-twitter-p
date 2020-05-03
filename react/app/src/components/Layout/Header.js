@@ -73,7 +73,7 @@ class Navbars extends React.Component {
               </div>
               <Nav className="ml-lg-auto" navbar>
                 <NavItem>
-                  <NavLink href="#pablo" onClick={(e) => e.preventDefault()}>
+                  <NavLink href="/annotation" onClick={(e) => e.preventDefault()}>
                     Annotation Tool
                   </NavLink>
                 </NavItem>
@@ -82,7 +82,7 @@ class Navbars extends React.Component {
                     aria-expanded={false}
                     aria-haspopup={true}
                     data-toggle="dropdown"
-                    href="#pablo"
+                    href=""
                     id="navbar-primary_dropdown_1"
                     onClick={(e) => e.preventDefault()}
                     role="button"
