@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5ce694e0.chunk.css",
+    "main.js": "/static/js/main.8bb76e47.chunk.js",
+    "main.js.map": "/static/js/main.8bb76e47.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.31ade75c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.31ade75c.js.map",
+    "static/js/2.40dc3589.chunk.js": "/static/js/2.40dc3589.chunk.js",
+    "static/js/2.40dc3589.chunk.js.map": "/static/js/2.40dc3589.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.964787df7698b4d4087154f98aefbf3e.js": "/precache-manifest.964787df7698b4d4087154f98aefbf3e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5ce694e0.chunk.css.map": "/static/css/main.5ce694e0.chunk.css.map",
+    "static/js/2.40dc3589.chunk.js.LICENSE.txt": "/static/js/2.40dc3589.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/loader.svg": "/static/media/loader.6100eaad.svg",
+    "static/media/nucleo.css": "/static/media/nucleo-icons.f82ec6ba.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31ade75c.js",
+    "static/js/2.40dc3589.chunk.js",
+    "static/css/main.5ce694e0.chunk.css",
+    "static/js/main.8bb76e47.chunk.js"
+  ]
+}

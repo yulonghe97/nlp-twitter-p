@@ -31,6 +31,11 @@ hbs.registerHelper("isPOS", function (anno, options) {
 });
 
 // ANNOTATION TOOL
+
+app.get('/', (req, res) => {
+   res.sendFile(path.join(__dirname,'../', 'public', 'build', 'index.html'));
+});
+
 app.get("/annotation", async (req, res) => {
   if (req.session.user) {
     // get user annotations
