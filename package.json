@@ -14,5 +14,6 @@
     "hbs": "^4.1.1",
     "mongoose": "^5.9.10",
     "twit": "^2.2.11"
-  }
+  },
+  "proxy": "http://localhost:8080"
 }

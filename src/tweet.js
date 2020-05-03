@@ -17,7 +17,6 @@ exports.getTweet = function (amount, tag, cb) {
         for (let i = 0; i < data.statuses.length; i++){
             const post = data.statuses[i].full_text.trim().replace('\n', ' ');
             tweets.push(post);
-            // console.log(i + '  ' + post + '\n');
         }
         cb(tweets);
     });
