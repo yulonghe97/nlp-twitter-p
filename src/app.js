@@ -19,7 +19,7 @@ const Analyzer = require('./analyzeTweet');
 
 app.use(session(sessionOptions));
 app.set("view engine", "hbs");
-app.use(express.static(path.join(__dirname, "public")));
+app.use(express.static(path.join(__dirname, "../public/build")));
 app.use(express.urlencoded({ extended: false }));
 app.set('json spaces', 2)
 
@@ -33,7 +33,7 @@ hbs.registerHelper("isPOS", function (anno, options) {
 // ANNOTATION TOOL
 
 app.get('/', (req, res) => {
-   res.sendFile(path.join(__dirname,'../', 'public', 'build', 'index.html'));
+   res.sendFile(path.join(__dirname,'../', 'react','app','public', 'index.html'));
 });
 
 app.get("/annotation", async (req, res) => {
