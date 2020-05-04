@@ -225,9 +225,9 @@ app.get("/api/getTweets/:hashtag/:amount", (req, res) => {
 app.get("/api/tagTweets/:hashtag/:amount", (req, res) => {
    if (req.params.amount && req.params.hashtag) {
      try {
-       Tweet.getTweet(parseInt(req.params.amount), req.params.hashtag, (data) => {
+       Tweet.getTweet(parseInt(req.params.amount), req.params.hashtag, async (data) => {
          // TEST, tag tweets
-         const tagged = Analyzer.tagTweets(data);
+         const tagged = await Analyzer.tagTweets(data);
          res.json(tagged);
        });
      } catch (err) {
