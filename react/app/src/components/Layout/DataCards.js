@@ -21,15 +21,15 @@ const badgeSetting = (tag) => {
   }
 };
 
+
 const TweetsData = (props) => {
 
   let tweetData = [];
 
   if (props.data) {
-    tweetData = props.data.map((ele) => {
-      console.log(ele);
+    tweetData = props.data.map((ele, index) => {
       return (
-        <Card>
+        <Card className='data-card' key={index}>
           <CardBody >
             <CardSubtitle className="py-2">
               <Badge href="#" color={badgeSetting(ele.tag)}>

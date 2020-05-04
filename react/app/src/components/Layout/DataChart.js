@@ -1,4 +1,4 @@
-import React, { Fragment } from "react";
+import React from "react";
 import { Bar, Radar } from "react-chartjs-2";
 import { Row, Col } from "reactstrap";
 
@@ -37,7 +37,7 @@ const DataChart = (props) => {
       {props.tag.toUpperCase()} Sentiment Distribution
     </h5>
     <hr/>
-    <Row className="mt-5">
+    <Row className="mt-5 mb-5">
       <Col xs="12" sm="6">
       <Radar
         data={setting}

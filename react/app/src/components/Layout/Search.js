@@ -14,41 +14,56 @@ import {
 } from "reactstrap";
 
 const Search = (props) => {
+  const [input, setInput] = useState("");
 
-  const [input, setInput] = useState('');
-
-  const handleChange = (e) =>{
+  const handleChange = (e) => {
     setInput(e.target.value);
-  }
+  };
   const handleClick = (e) => {
     e.preventDefault();
     props.setHashtag(input);
-  }
+  };
 
-    return (
-      <Fragment>
-        <Form>
-          <Row>
-            <Col md="12">
-              <FormGroup>
-                <InputGroup className="mb-4">
-                  <Input placeholder="type your #hashtag" type="text" value={input} onChange={handleChange} />
-                  <InputGroupAddon addonType="append">
-                    <InputGroupText>
-                      <i className="ni ni-zoom-split-in" />
-                    </InputGroupText>
-                  </InputGroupAddon>
-                  <Button className="ml-3" color="default" type="button" onClick={handleClick}>
-                    Search
-                  </Button>
-                </InputGroup>
-              </FormGroup>
-            </Col>
-          </Row>
-        </Form>
-      </Fragment>
-    );
-
-}
+  return (
+    <Fragment>
+      <Form>
+        <Row>
+          <Col md="12">
+            <FormGroup>
+              <InputGroup className="mb-4">
+                <InputGroupAddon addonType="prepend">
+                  <InputGroupText style={{ fontSize: "1.5rem" }}>
+                    #
+                  </InputGroupText>
+                </InputGroupAddon>
+                <Input
+                  placeholder="type your hashtag"
+                  type="text"
+                  value={input}
+                  onChange={handleChange}
+                  className="font-weight-bold text-black-50"
+                  style={{ fontSize: "1.5rem" }}
+                />
+                <InputGroupAddon addonType="append">
+                  <InputGroupText>
+                    <i className="ni ni-zoom-split-in" style={{ fontSize: "1.5rem" }} />
+                  </InputGroupText>
+                </InputGroupAddon>
+                <Button
+                  className="ml-3"
+                  color="default"
+                  type="submit"
+                  onClick={handleClick}
+                >
+                  Search
+                </Button>
+              </InputGroup>
+            </FormGroup>
+          </Col>
+        </Row>
+      </Form>
+    </Fragment>
+  );
+};
 
 export default Search;

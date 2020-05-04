@@ -6,11 +6,6 @@ import TweetsData from "../Layout/DataCards";
 export default function DataSection(props) {
   return (
     <Fragment>
-      {/* <Row>
-        <Col>
-          <Loader />
-        </Col>
-      </Row> */}
       <Row>
         <Col>
           <DataChart data={props.data.counter} tag={props.tag} />

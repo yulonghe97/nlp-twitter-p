@@ -3,8 +3,6 @@ import { Link } from "react-router-dom";
 // reactstrap components
 import {
   UncontrolledCollapse,
-  DropdownMenu,
-  DropdownItem,
   UncontrolledDropdown,
   NavbarBrand,
   Navbar,
@@ -73,7 +71,7 @@ class Navbars extends React.Component {
               </div>
               <Nav className="ml-lg-auto" navbar>
                 <NavItem>
-                  <NavLink href="/annotation" onClick={(e) => e.preventDefault()}>
+                  <NavLink href="/annotation">
                     Annotation Tool
                   </NavLink>
                 </NavItem>
