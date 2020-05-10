@@ -15,7 +15,7 @@ export default function Instruction() {
           <ul>
             <li>Input a Twitter hashtag <strong>(without #)</strong> and hit Enter</li>
             <li>
-              Wait for the system to fetch 50 tweets and analyze sentiment
+              Wait for the system to fetch 25 tweets and analyze sentiment (Typically 30s)
             </li>
             <li>
               The system will show General Sentiment, Positive/Negative Tweets,

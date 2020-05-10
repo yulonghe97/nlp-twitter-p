@@ -1,0 +1,3039 @@
+{
+	"tweets": [
+		{
+			"tweet": "Today's 1.4% gain in the S&amp;P, with 85% of the #stocks higher, reduced its weekly loss to just 1.3%--not bad for a week that saw a major financial dislocations in #oil, horrible economic numbers out of Europe and the US, and more evidence of the mounting risk of structural damage. https://t.co/mp3AcGMwLe",
+			"annotation": "POS",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "A flotilla of some 24 #oil tankers waits to unload #CrudeOil, as oil companies have run out of storage facilities in the #US and across the globe. \nOn Monday, #OilPrices slumped to unprecedented levels, amid a collapse in demand caused by the #coronavirus #outbreak. https://t.co/IXopWyK4uk",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Mizuho's Paul Sankey predicts oil could hit -$100/bl. \nWhy?\n\nA flotilla of Saudi #oil tankers is en route to the US, with 7x the amount of oil the US typically imports in a month. \n\nAmidst low demand &amp; limited storage, this Saudi \"oil bomb\" could send oil prices plunging, again.",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Per a prior tweet,the #oil price debacle early this week was due to imbalances in both physical and financial space ... and the subsequent recovery reflected the easing of the financial imbalance. This @markets chart, showing the change in USO, shows how the oil #ETF has adapted. https://t.co/YNHjjXX6RS",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "#oil -- rally is holding but we're down 8 out of the last 9 weeks.  Storage swelling onshore, so exploring offshore options -- data and elements provided by @Samir_Madani with thanks! #OOTT https://t.co/IwdADrDMro",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Oil-Directed rig count - Permian: 246.  This is the lowest since we had exactly the same number on Dec 9, 2016\n\n- US: 378. This is the lowest since July 2016\n\n-Texa: 231. This is the lowest since Aug 2016\n\n- The decline since early March: 304\n\n#oil #shale #Rigs https://t.co/6tblAPfzjp",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "A picture worth a thousand words \nUS oil-directed rig count declined by 60 to 378\n\nPermian -37\nEagle Ford -7\nWilliston -7\nOthers -5\nCanda Woodford -3\nDJ Niobrara -1\n\n#oil #shale #Rigs https://t.co/f2eBplyOIa",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "President Putin spoke over the phone with Federal Chancellor of #Germany Angela Merkel. Broad agenda included coordinated intl efforts to fight #coronavirus, peace settlement in #Ukraine, #Syria and #Libya, as well as situation on global #oil market. https://t.co/gP1ZycaGHw",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Crude #Oil is up almost 50% during in the last two trading days. Extreme #volatility makes it virtually untradable. Also, the supply-demand imbalance and storage capacity limitations are by no means solved. https://t.co/kQodB2AeHM",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Great chart via @RobinWigg. 150 years of #oil prices and the bizar level we saw this week. https://t.co/LrIThJlnOj",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Satellite data show 'highest emissions ever measured' from U.S. #oil and #gas operations @ScienceAdvances https://t.co/jB4lNwl0XN",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "US oil rig count declined by  60 to 378 \n#Oil #Shale #Riga https://t.co/3yfgSo1dZW",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "At the current pace, the estimated storage capacity in #Cushing could be full in less than three weeks. #oil https://t.co/CYrT78Ijeh",
+			"annotation": "POS",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "There was a time when the US federal government became a rancher ...  \nWill the US end up having its own national oil company? \n\nShould the US government take over all the oil companies that invoke \"national security\" as a reason to get what it wants?\n#oil #shale https://t.co/Y9pNdzLu3A",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "The global #oil industry is being decimated by the #COVID19 pandemic. There is no time to lose in building a new, post-carbon industrial revolution https://t.co/9dcjUTOYqL by me via @BostonGlobe",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "#Oil prices accelerated growth https://t.co/C3tBXtFKCO https://t.co/FTE0nfiSFI",
+			"annotation": "POS",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Who's responsible??#COVID19 #Clorox #ChinaLiedPeopleDied #coronavirus #endthelockdown #FIFA20 #JIMIN #MAGA #NeverBiden #Oil #PressBriefing #yoga https://t.co/4wUgmEvHK6",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "I think @realDonaldTrump is out of cash to help the jobless Americans during #COVID19 #Lockdown. I suspect there is no money left that he can give away especially after #US #Oil crash.Americans are not seeing any checks as yet.1st it was PPE,2nd it was test kits &amp; now its NO cash",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "#Russia is the world’s biggest loser from #oil’s crash, and that’s reason to worry \n#OOTT #OPEC \n https://t.co/rYjFgzJvtQ",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "US chem stocks rise as oil recovery continues ⬇️ \nhttps://t.co/MfDGGUbV18\n\n#icis #oilcrash #oil #crude #covid19 #coronavirus #petrochemicals #chemicalindustry",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Daily Outlook : #Oil rises, but ends wild week lower as coronavirus slashes fuel demand #USD edges lower but stimulus uncertainty keeps euro gains capped #FX #Commodities #Nikkei #Kospi #Hangseng https://t.co/JZRuKGgtnf https://t.co/ZIjuShVxO6 https://t.co/ArFLjXO1dL",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "#Pipelines to be used as oil storage? \n#Oil #WTICrude \n\nhttps://t.co/3e0fsrDy02",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Oil bounces after Trump uses the 'oldest Middle East oil trick in the book' to kickstart prices #BrentCrude #OIL  https://t.co/7jRkdrIFuH",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "expiring cheap #oil idiots \n#ClimateCrisis https://t.co/vBVdMtqShM",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "#USO trade from the other day. Averaged ~12x #spx #oil https://t.co/AKqmeNzzv5",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "#UnitedStates #Oil Fund Says #CME Ordered It to Limit Futures Positions \n#OOTT #OPEC \n https://t.co/5jZHFnZ8H6",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "GETAnalysis: The #RelentlessDamage from global #EconomicLockdown #CollapsesDemand in #Oil, triggering a #RippleEffect in #StockMarkets \nhttps://t.co/LGy1w9y78p\n\n#MarketFutures #OilPrices #WallStreet #Stocks #FridayThoughts #FridayReview #FridayMusings #FridayReads #FridayFeeling",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "BEST INTERNATIONAL ANALYSIS at @24horas_rne @adelgadoRne &amp; @SandraUrdin 24/04/20. A conversation about #COVIDー19 #USA #Ramadan2020 #Oil with @CarlosMalamud &amp; @PedroRodriguezW --- https://t.co/yQVdugWxUN vía @rtve --- @UCOMILLAS @IB_Franklin @FulbrightSpain @FundConEspEEUU https://t.co/JEOSAspVNj",
+			"annotation": "POS",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "ON THE BRINK OF DEFAULT-Argentina's yield curve is inverted with high negative slope--&gt;short-term problems (within 1-2 years) #yield #Argentina #ArgentinaUnida #Argentinos #Argentine #Default #bonds #bond #markets #market #economy #economics #EconomicCrisis #Oil #Greece https://t.co/G9bVomidFI",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "You won't believe what some states are paying for gas right now! Find out what you can expect to pay for your next fill-up... \n#oil #oilprices #oilandgas #gasoline https://t.co/U4d60fTdCn https://t.co/8XHrVnHM9B",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "#Oil price update: $21.80 📉  \n(#Brent $Crude) #oilprice source https://t.co/p0TIqjN4Kc",
+			"annotation": "NEU",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "lol this is epic #oil #markets #crypto #btc #bitcoin #wti #WTICrude https://t.co/RL5TVoDkoS",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Macquarie Infrastructure up 3.8% = $82.1 million gain. $MIC has made notable gains in 8 of the last 23 trading sessions. \nhttps://t.co/r6zZRETPDW\n\n#oil #refining #marketing #stockTips #stockMarket #trading #investing https://t.co/YvNw0O8ex0",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "US tight oil output \nNet Growth:\n2016   ⬇️479k b/d\n2017   ⬆️508k b/d\n2018   ⬆️1,564k b/d\n2019   ⬆️1,215k b/d\n2020 (upto May)  ⬆️189k b/d \n\n#OOTT #Shale #Oil https://t.co/Cnaerz1daC",
+			"annotation": "NEU",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "@michaellebowitz The best way to help would be to end this damn #lockdown \n#oil #gas",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "🛢️ Get your oil “CAPPED OFF” at our service department! Schedule your service appointment  online TODAY ! 💻 #service #online #mazda #oil https://t.co/ivK75CBuc4",
+			"annotation": "POS",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "so... whats the difference?? #WTI #BRENT #OOTT #OIL https://t.co/NpTb2lany8",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "North Dakota regulators confirmed reports that Continental Resources, the state’s top #oil producer, has shut in nearly all its Bakken output as it tries to navigate an unprecedented recent drop in #crude prices. \nRead the full story here (free): https://t.co/jSIi3p5zuM #OOTT",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Shedding Light on Russian #Oil Taxes \nEnergy Intelligence takes a close look at the new excise tax and \"buffer mechanism\" that Russia rolled out for motor fuels last year.\n\nRead the full story here (free): https://t.co/GAztZk2Glv #OOTT",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Alternative asset class returns update. For all the financial advisors allocating to #oil products as diversifiers while giggling at the #bitcoin advocates. Perhaps that wasn't the kind of diversification you were looking for. cc @RealityShares @BlockforceCap https://t.co/JxUWmGOsDo",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Trinidad and Tobago's Natural Gas Reserves have been in steady decline since 2000. At the current rate of Production, Trinidad and Tobago has approximately 8 years of Natural Gas left, based on Proved Reserves alone. #TrinidadandTobago #naturalgas #gas #oil #gecf #opec https://t.co/zUrg4Mpi5K",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "#Oil prices have peaked since the turn of the century due to falling demand https://t.co/HniiIjoEW2 https://t.co/MoQE9OhGp8",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Watch \"America’s Radioactive Secret | Toxic Waste from Oil-and-Gas Wells | Extinction Rebellion\" on YouTube https://t.co/U3i64Wfe22  Oh dear, looks like many Americans are damned. #Trump is useless. We in the UK will be too if we allow #Fracking #oil #radioactivewaste",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Market Wrap by @CoinDesk  #Oil rebounds as #crypto makes gains, especially #ether\n\nhttps://t.co/FUDc7lnRdg\n\nhttps://t.co/LRO1ZuDzqt is the best platform to build NO-code #cryptocurrency #AutoTrading bots.\n\n#Bitcoin #BTC #Blockchain #Ethereum #ETH #Trading #Investing #Market #XRP",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Got some Burrito money thanks to @WolfOfWeedST options strategy. 2 for 2, no complaints \n$INO hit a nice lunch time trade from $0.30 to $0.50 based off a test of $15\n\n$OXY grabbed some Lottos@ $0.06 for EoD move; and sold at $0.13 $cl_f #oil https://t.co/Ek6eTWq0PS",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "https://t.co/I0q48G6Q8e - New Premium #DomainNameForSale Short  (5 letters), popular (.COM) \nAuction (buy now): https://t.co/z9h8CrhfwD\n\n#btc #gold #startup #business #cash #bank #Litecoin #cryptocurrency #finance #blockchain #bitcoin #oil #gas #digital #crypto #startups https://t.co/zgNHR1Vof4",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "I had to “go out” for stuff today and ended up needing gas in the #MidWilshire area.. with #OilPrices in the #NEGATIVE👈🏽#WHY is it STILL $4.99 a gallon for fuel in the middle of L.A.⁉️Where, btw, WE FARM OUR OWN #OIL in #California🖕🏽👁",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "https://t.co/MeB7bqyfsi - Premium Domain Name for Sale! 12 years old Gambling domain name. \nAuction (buy now): https://t.co/cm0pNpKL0F \n\n#GrandBonus #DomainNameForSale #Casino #Poker #cryptocurrency #crypto #blockchain #Btc #oil #gas #Litecoin #Grand_Bonus #Grand #Bonus https://t.co/e6fRQqqd3W",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "@TheMuddySchmuck @travisc2003 @luismen1991 I am not anti-nuke. but a lot of people are. we cannot just say we can wait until everyone together agree to switch to full nuclear. the combo of 4 that I mentioned can power all humanity with out the deadly 3 #oil #gas #coal.",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "GETAnalysis: #Oil #Futures contracts #DroppingLikeStones to #HistoricLows, taking #StockMarket sentiment with them \nhttps://t.co/WuqYjTymOP\n\n#FridayThoughts #FridayReview #FridayFeeling #WallStreet #JuneOilFutures #Trading #NegativePrice #FridayNight #FridayReads #FridayVibes",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Hmm. Storing oil on freighters at sea for weeks or months. I wonder what could happen? \n#Oil spill anyone? https://t.co/AXzmTZ3yxk",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Shorting $OIL again at $17. \n#oil #oilprice #stocks #oilcrash #recession",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "How COVID-19 Caused the Oil Crash of 2020 https://t.co/s1On7useUq #oil #coronavirus",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "#Bullish H&amp;S on $AGN. It is trading above a strong resistance after breaking out of a giant #bullish flag. \n#Futures #options #StockMarket #SPX500 #TSLA $NFLX #AAPL #googl #spy #oil #gas $spx $rut $comp $mu #bearish $BA $MSFT $GS $GLD $BAC $AAL $GC_f $DAL $DIA $AMZN https://t.co/CCWqmoaP59",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "USA - possible partial #nationalization of #oil companies.  #OilMarketCrash https://t.co/Fr6yiVPaz4",
+			"annotation": "NEU",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "#Dow #jumps more than 200 points as #oil #extends #rebound from @CNBC  https://t.co/WaJX4p3gJB",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "This #oil storage problem is growing fast. The inventories isnt just 1 big tank of oil, their spread all over the world, smal and big. In some parts of the world it could be full, others take longer. If its full some places there are already catastrophic problems.\n #tankers #oott",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "With the oil prices plummeting, it’s critical that #oil and gas companies have real-time insight across their business. Learn how Grupo R uses intelligent technologies to keep on top of its business https://t.co/WUswMbszJA via @Forbes https://t.co/JkUtjAjhoU",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Not sure where @smh business are getting their index numbers from, but they need a different source as they look like an almost total collapse : as in S&amp;P/ASX 200: 5068 (5243); A$ : 60.7(64); #gold : 1608 (1727) ; except for #oil almost 24(17) ....hmm early April ?? https://t.co/D6VsKq3K6R",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Just A Few Weeks To Go Before We Are Full &amp; Back Down Again In #Oil Prices - Goldman Sees Global Oil Storage Full In 3-4 Weeks; Expects Another Oil Price Crash. https://t.co/DydTpd8TOv https://t.co/aXP8Qnrtcj",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Looking at top 10 consumers of #oil $WTIC by country conceals the fact that many mature economies have managed to reduce oil consumption by considerable amounts: https://t.co/zIgfMrItMx",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "#Oil price update: $22.00 📈  \n(#Brent $Crude) #oilprice source https://t.co/p0TIqjN4Kc",
+			"annotation": "NEU",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "How #oil and #water create a complex #conflict in the #Niger Delta https://t.co/o2DwTNZfJ0",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Another section of BMO chief economist Doug Porter's note on #COVID19's #economic impacts, this time focusing on #inflation #QE #oil #fiscalstimulus #cdnecon #usecon #GlobalEconomy https://t.co/XC0fpx9AEt",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Latest news in the USO saga... #oil \nU.S. Oil Fund Says CME Ordered It to Limit Futures Positions\n\nhttps://t.co/AqxDU6LVuW",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "China's Resumption of Air Travel Points to Tenuous Recovery \nFind this and our other top headlines on Covid-19 and Energy here: https://t.co/6UvtyZ5pga #energy #OOTT #oil #Covid_19",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "In Q1 US steel imports of total &amp; finished products down 21% &amp; 25% y/y 🏗But get this, finished steel products w/ major import growth were ones w/ #oil industry applications (+129%)\n\n#oil #mining #oott #stocks #energy #Commodities #metals #economy  https://t.co/fAInSgXIMM",
+			"annotation": "NEU",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "The old Middle-East-Trick of the #POTUS won't work for a long time. $Oil #Oilprice will decrease again...nobody needs the stuff and no one knows where to store it! #Oil #CoronavirusLockdown #DJI #Trump #Iran",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Tonight, the CEO of Nordic American Tanker joins @JimCramer’s to discuss how the company is in a position to take advantage of the #oil surplus in a volatile energy market. https://t.co/1pWGMj19a0",
+			"annotation": "POS",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "#Oil prices pulled #equities down boosting safe-haven assets like #preciousmetals, but stabilizing oil prices #Friday helped #stocks close in green while #gold &amp; #silver pulled back. #Unemployment data showed 4.3M new claims bringing total to over 26M since #coronavirus outbreak",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "One-third of North American #oil exploration and production is hedged at an implied sales price of $52 a barrel, our #energy &amp; #finance analyst Tom Wilson tells @WSJ. Where does that leave companies for the remainder of 2020? \nRead the full article: https://t.co/r8trnLLNis",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Oil bounces after Trump uses the 'oldest Middle East oil trick in the book' to kickstart prices https://t.co/RkA1PHmMFt #oil #trump #news https://t.co/mTNIpvdp1O",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Did anyone not expect the #COVID19 pandemic to create a massive glut of #oil in the world? \nNext time there is a pandemic, cities are locked down &amp; travel restrictions are imposed. It might be a little smarter to cut production in advance knowing demand would eventually collapse. https://t.co/iOFIkDIZWe",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Oil-storage facilities are filling up at a “monster rate,” as producers race to shut down wells in face of crumbling demand  https://t.co/5tqeYdizpO via @WSJ #oil #economy",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "#Oil’s Well that Ends Well #shippingindustry #energy https://t.co/CvbLHXGQy4",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Airplanes are grounded \nVechiles are in garages.\n\nRailways are closed.\n\nIs there any other option for #Oil to not dump?",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "#Stocks Stall at #50DMA, #Gold Continues Record Move, #Oil Capitulates down... https://t.co/qH99TLqhYE via @YouTube $SPY $DIA $QQQQ $GLD $GDXJ",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "91.28% account gains after 10 days.  \nHandle: \"DreamStalker\"\n\nUnfortunately Beta test ended and accounts restart today. \n\nSame handle and created a new fund on PrimeXBT.\n\nSign up below to trade and/or track my progress!\n\nhttps://t.co/Q4PVcyw5Gx\n\n#bitcoin $btc #crypto #forex #oil https://t.co/uKzwKWIfGA https://t.co/MFRkilD0Dc",
+			"annotation": "POS",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "U.S. drillers cut most oil rigs in a month since 2015 https://t.co/c3NYgRweFj #Business https://t.co/eQQT8822Zi #U.S. #drillers #cut #most #oil #rigs #in #a #month #since #2015 #  664",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "49 tankers laden with 245,000 barrels of oil stranded in Mexican ports https://t.co/VhNpPJdrWh #Business https://t.co/eQQT8822Zi #49 #tankers #laden #with #245000 #barrels #of #oil #stranded #in #Mexican #ports #  31",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "US oil rig count now only +46 (+14%) compared to 2016. Rate od weekly rig decline remains consistent. #OOTT #oil #WTI #OPEC https://t.co/NQemw49jy8",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "#petrolPrice update for #Traralgon  United - Princes St $1.00 \nCaltex - Princes St $1.10\nColes Express - $1.10 \nUnited - Shakespeare St - $1.00 \n#petrol #oil #OilPriceWar \n#OilMarketCrash #oilcrash \n#oilprice",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Continued problems with the #oil🛢️futures market could be on the horizon because there's a shortage of facilities. @CoinSharesCo's @dannylmasters discusses #OilPrice and volatility in @Sebsinclair1989's @CoinDesk article 👇 https://t.co/dmLtKWC4zw",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "The #Oil market pushed off the bottom: how long to wait for price recovery? https://t.co/xI89yY2jj4 https://t.co/gm9T0v3mc5",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Trump criticized major banks' unwillingness to fund certain #fossilfuels projects, after two announced this week that they wouldn't directly support #oil and #gas #drilling in the #Arctic. https://t.co/HhqNMEbomc #Alaska",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "My bit on #oil after a wild week. https://t.co/papSZO6M9u",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Great picture as always @tonykarpinski one day #London will return to scenes like these #oil #oilpainting https://t.co/WKbv6PYC9o",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "#OIL #OOTT #WTI  I have given up the idea of trading WTI before 5/1 or even 6/1. When the brokers are scared to death like injured animals, it may take a long time for them to calm down. Usually, it's a good time to take a vacation but I cannot go anywhere now. https://t.co/xVF8THqCeo",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Evil 👿 911, 2002, 44”/48” unstretched. .\n.\n.\n#tminism #paint #earlywork #brigetbardot #art #artist #painting #canvas #artist #newyorkartist #oil #surrealism #faces #artistlife #911 #worldtrade #remember #tm #towers https://t.co/GJP9P431oR",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Remember To Complete The #Fuel #Oil Quality And Safety Survey Before 6 May @BIMCONews #marinefueloil #maritime https://t.co/GHgb4s3Fdy",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "The price of crude is down 70%-plus just this year, and one #oil major has already cut its #dividend. Who's going to be next?  \nhttps://t.co/rTokjvy450",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "And if he does that, #GNA may quickly take control of not only west but also #oil fields in the south west which will provide the necessary funding &amp; speed up deployment of more #Turkish made weaponary + possibly even a #TSK military base (s.a. Watiya) \nhttps://t.co/UszKtVq7W3",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Look at this: \n#OIL https://t.co/KSCpY4bmJW",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "We aren't addicted to #oil, but our #cars are. - James Woolsey",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Is the #oil crash over? #OOTT https://t.co/YznZNKyT1x",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "@Holy_Helicity @BadfishRanch @alghadouri_ That my friend is the right question .. I had the same question .. however I can hypothesize .. it seems that either a) many are worried about and #oil event during expiry (unlikely in my mind) or b) someone unwound huge phys / fin risk in their statarb portfolio and got 🤬!",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "\"The administration is also considering taking financial stakes in exchange for some loans, and some firms might be asked to reduce production.\" I wonder how industry would feel about what it may be asked to do if administration changes &amp; feds have a stake #oott #oil #shale https://t.co/hZ4CGNqSgu",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Alaska Oil Take Huge Hit https://t.co/2okMwE0JJJ\n\n#alaska #oil #alaskapipeline #alaskaeconomy #oilprices #fueleconomy https://t.co/h4EokHR4qq",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "U.S. drillers cut most oil rigs in a month since 2015 https://t.co/c3NYgRweFj #Business https://t.co/eQQT8822Zi #U.S. #drillers #cut #most #oil #rigs #in #a #month #since #2015 #  451",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "49 tankers laden with 245,000 barrels of oil stranded in Mexican ports https://t.co/VhNpPJdrWh #Business https://t.co/eQQT8822Zi #49 #tankers #laden #with #245000 #barrels #of #oil #stranded #in #Mexican #ports #  655",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "#OIL #OOTT #WTI Is Monday Effect reliable? \nIt appears to be the case usually but WTI is a volatile market, thus that phenomenon can only be treated as a high possibility only. https://t.co/qiD9VQedH0",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "For investors trying to buy ADS Crude Carriers $adscme. Its not that hard,it will be worth it. There are many US investors already in. \n\n#shipping #tankers #vlcc #shipping #OOTT $FRO $ADSCME $DHT $EURN $HAFNIA $TNK $OET $HUNT $NAT $STNG $INSW $TNP #oil https://t.co/o5tHVsXopw",
+			"annotation": "NEU",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Some companies profiting from the #oil glut, Teekay Plc annualized #FCF of $400m jumping to annualized $650m as fierce demand for crude storage has led traders to pay top dollar for tankers. https://t.co/Kr4FDR98C4",
+			"annotation": "POS",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "@dailystar #oil priceless  US dollar crashing at a humongous rate \n#UK economy crashing at unrepairable rate of years",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Russia Cuts European Sea Ports Oil Exports To 20-Year-Low #Russia #oil  \nhttps://t.co/3t4GYk7OIH",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "#Mnuchin Considers #Bailout Program for highly leveraged #Oil Companies to Offset Effects of #Covid19 #Pandemic, Supply Glut https://t.co/tUx5iLQZ3r",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "#Shipping #Quarterly early-bird special: We reiterate our view that #oil #tanker #shipping short-term looks good, while medium-term looks bad. Read more in our upcoming report, incl scenario analysis \n#OOTT $FRO $ADSCME $DHT $EURN $HAFNIA $TNK $OET $HUNT $NAT $STNG $INSW $TNP https://t.co/zrFcXeSaWK",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "#BurningTreesForEnergy To drive #ElectricVehicle \n\nMeanwhile\n\nThey #dumpingOil in the ocean\n(To keep pressure on the #oil field)\n\n#economics \n#GreenDeal \n#biomass",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "#OIL #OOTT #WTI I don't trade #Brent thus cannot comment on its price action. Even if I had studied Brent, I wouldn't know the delivery price. https://t.co/za8YWVoA2E",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "US chem stocks rise as oil recovery continues  https://t.co/qVdKWmZqnJ\n#icis #oilcrash #oil #crude #covid19 #coronavirus #petrochemicals #chemicalindustry",
+			"annotation": "POS",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "“The collapse in #oil just confirms my view that the #globaleconomy is in very bad shape,” said Momtchil Pojarliev, head of #currencies at BNP Asset Management in New York. https://t.co/NR7DOwJ6JN",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "#OIL #OOTT #WTI  Every week I have to block quite a few ppl who are not welcome on my turf when they post nonsense, hearsays, or braggings tiny gains. Among them, 9 out of 10 ppl are non-followers. https://t.co/jK15qXyaJg",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Cuts in #oil production will have a disastrous effect on small #energy producers in the US https://t.co/z05uReePKu",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Global #oil supplies may be 6% less than expected by 2030 because of delays to investments by energy companies in response to falling crude prices due to the coronavirus crisis. -Reuters (Summarized by Agolo) https://t.co/Wnje4NGBQ5",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Drowning in riches... #oil #OilMarketCrash https://t.co/4M83ptU23p https://t.co/9xByVm9GAE",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "#Oil-producing nations – especially the smaller ones – face a squeeze that could turn out to be a short recession or something deeper and more prolonged. https://t.co/rXfKAwaAYo",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "In a strong #gold market, mining companies continue to find financing, with offerings this week from Bluestone Resources Inc. $BSR.v, @VictoriaGold $VGCX, and low-volume oil junior @JerichoOilCorp $JCO.v. Read our breakdown here: https://t.co/ugtGNmj4ps \n#metals #silver #oil",
+			"annotation": "NEU",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "#OIL #OOTT #WTI  This is caused by the scared brokers and has nothing to do with fighting the #Fed. https://t.co/3VPZVlZFHT",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "If you don’t know whats happening over at @RebelsCrypto with the launch of their new crypto trading room you need to check it out. Catch my friends @jonnajarian and @chrisjreichel as we talk #crypto #Oil &amp; more. #bitcoin $oil #cryptotrading #stocks https://t.co/nRxYRSxEeC",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "#OIL #OOTT #WTI  It's #contango, not bidding up. https://t.co/y5jjsdZLtX",
+			"annotation": "NEU",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Oil prices plunge into negative territory in historic coronavirus-driven collapse #oil #coronavirus #COVID19 #energy #investors #Pandemics #economy https://t.co/XdRjE5jK5t",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "#OIL #OOTT #WTI  Turns Out #Trump Owes Tens Of Millions To The Bank Of #China, Because ... Hunter Biden? https://t.co/KOwD7siOjA",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "My latest podcast is out: Hedge Fund Tips with Tom Hayes – Episode 17  #Biotech #Earnings #Energy #Estimates #FederalReserve #FinancialTimes #FoxBusiness #Industrials #Investing #Oil #Positioning #Sentiment  You can listen to this week's podcast here: https://t.co/KmWjglqxvp https://t.co/PPUnb4ncaN",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "#OIL #OOTT #WTI  #Trump Owes Tens of Millions of Dollars to State-Owned Bank of #China From Real-Estate Deal, Says Report https://t.co/QjXQ54NsD8 via @thedailybeast",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "#Venezuela'n #Oil Price Falls To $9.90, Lowest Level In 20 Years https://t.co/u5qGxrXa3Q https://t.co/TqZKe5YeHR",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "#OIL #OOTT #WTI  #DonaldTrump reportedly owes tens of millions to the Bank of #China https://t.co/PEsFMbHvQ7",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "@PurtiIndia Ans) Nachos #PurtiOil #SfurtiKiBaatPurtiKeSaath #CookingOil #Oil #Tasty #Contest \n\nJoin guys @SakkibH \n@mohamme64301216 \n@SirajMuhammadai \n@KiranTejasai \n@ahmad_shaeed \n@Shah38952395",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "#Venezuela's #Oil price falls to $9.90, lowest level in 20 years https://t.co/0Ga197dF1z",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "We are RESTOCKED on concentrates/extracts from 710Labs! The best hash in the game is always available at our location! ⛽🚨🔥☄🌱🙏🏼🙌🏼🍯 #smoke #dabs #dabsrus #errl #wax #concentrates #extracts #medicine #oil #thcoil #hash #melt #rosin #resin #liveresin #sauce #diamonds #dablife",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Idk who wrote this but it’s just so accurate #Oil #OilPrice #Crudeoilprice https://t.co/NqkYbSudss",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "#OIL #OOTT #WTI  Breaking News!\n#Trump's deep financial debt to #China 🔥 https://t.co/iixLYvgk0e",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Weekly #Gold #Silver #Oil Commodity Prices and Indices https://t.co/KXW9BKdkSZ https://t.co/KaNwXfD4CF",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "As of last week (04/17) there was room for 31,259,000 barrels @ Cushing. Lets's see how full it got this past week. #USOIL #Oil  #OilPrices #oilandgas #Saudi #opec #opec_plus https://t.co/ZKFWw1ZbDh",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Oil refineries in China, the world’s biggest crude importer, may increase processing rates to near last year’s average levels this month, providing hope to a global market that has suffered from coronavirus #oil #energy #crude https://t.co/mWKrW9MQLB",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "#oott #contango #tankers  #OilCrash #oil \n#FloatingStorage\n$fro $dht $oet $hunt $stng $eurn $tnk $dssi $insw $nat $tk $nna $pxs\n\nOil could soon fall to -$100 per barrel: Energy analyst\n\n- Paul Sankey, managing director at Mizuho Group",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "I published some insights on Q1 2020.  #reflections #insights #oil #energy #tech #realestate #Covid_19 \n\nhttps://t.co/BxeeJ5upIf",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "What just happened to the price of #oil ? #negative #US42 #WTI time to #leaveitintheground  https://t.co/ny9kQaHm3o",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "OIL &amp; GAS INDUSTRY REPORT 2020: A comprehensive list of reports from reputable sources on the oil &amp; gas industry and related technology | https://t.co/TncHo5AuNq | #oilandgas #lng #lngtanker #oil #oilfield #energy #energyoutlook #energyindustry #renewableenergy #energyprofile",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "#Oil prices accelerated growth https://t.co/C3tBXtFKCO https://t.co/IDU92VgFtF",
+			"annotation": "POS",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "@BorisJohnson @RishiSunak I hope Britain's Government is buying cheap #oil while it's a cheap #OilPrice even if only for emergency services &amp; military stockpiles ???",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Who could possibly drive rebound in #oil consumption? Here are the top 15 marginal consumers of oil. Some (UK, Spain, possibly US) have peaked and will not contribute to growth going forward): https://t.co/kMGOea6asv",
+			"annotation": "NEU",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "The US is doing their 2008 socialist, but not socialist thing again. Credibility? Zero. #oil #markets #Hypocrites #USA #uspolitics #cdnpoli https://t.co/WnXAAzMXGe",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "@AmbJohnBolton there’s too much incentive for one of these #Opec+ Sites to get hit either by #FalseFlag or outright attack to bring #Oil cost up until economy starts up.",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Will Trump go to war with Iran to save America’s oil industry? https://t.co/fgHh1ecOHa #nlpoli #cdnpoli #oil",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "What appealed to me when colleagues @AxiTrader brought me in as a commentator after +25 y of pure spec and mkt making #Oil #gold #forex ( I still trade) I like helping our clients deal with chaos through a traders lens, getting in front of  $hit storms is key to save $$ #OOTT👇 https://t.co/N8ThOQAWg6 https://t.co/HBtif1b1Dm",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "#Oil prices plummet with storage facilities near capacity. #Diversification in sectors and assets classes is very important. Read more here: https://t.co/9YeH467yLa https://t.co/8mws0igKp0",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "#Oil price update: $21.67 📉  \n(#Brent $Crude) #oilprice source https://t.co/p0TIqjN4Kc",
+			"annotation": "NEU",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "HFT VideoCast – Stock Market Commentary and Weekly Recap – Episode 27  #Biotech #China #ConsumerDiscretionary #ConsumerStaples #Earnings #Energy #Estimates #FederalReserve #Financials #FoxBusiness #Investing #Oil #Positioning #Sentiment #StockMarket #Techn https://t.co/2yspAFhMX1 https://t.co/vQUcApIjNR",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "The Battle of Albuhera ⚔️ Elena Bondar: Oil-on-Canvas https://t.co/2kb7q3hVWT\n\nPolish Lancers attacking the Colour Party of the 3rd Buffs at Albuhera in the Peninsular War. After the original painting by William Barnes Wollen.\n#Battle #Albuhera #Albuera #ElenaBondar #Oil # ...",
+			"annotation": "NEU",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "#Oil storage: Good read on $FRO   \nhttps://t.co/IVyzctjehP",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "#TechnipFMC up 4.0% = $159.9 million gain. At $4 billion marketCap, $FTI represents 21.0% of the $19 billion #oil #gas #equipment #services industry. \nhttps://t.co/kpLEMTxeWm\n\n#stockTips #stockMarket #trading #investing https://t.co/XInw8nNsAs",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Sonoro Energy Ltd Announces Reliance on the Temporary Extension to Public Company Filing Deadline \nTickers: PINX:SNVFF, XTSX:SNV\nTags: #Oil&amp;Gas\n\nCalgary, Alberta - TheNewswire - April 24, 2020 - Sonoro Energy Ltd (the \"Corporation \"or \"Sonoro\") (TSXV:SNV… https://t.co/gEDYK6pY7d https://t.co/1dtPHG1Ycl",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "#Russia is the world’s biggest loser from #oil’s crash, and that’s reason to worry https://t.co/vftEdsj6Bp",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "#OIL #OOTT #WTI  Donald #Trump's empire owes $211 billion to state Bank of #China https://t.co/ieWRPTtd23 via @MailOnline",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Thai’s PTT  to slash #oil output up to 25% to offset demand drop https://t.co/yFOudg6owT via @eog_asia",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "#COVID19 #pandemic deaths by country ▶️  ALL 🌏 195,920\n▶️ #US 🇺🇸 51,018\n▶️ #Italy 🇮🇹 25,969\n▶️ #Spain 🇪🇸 22,524\n▶️ #France 🇫🇷 22,278\n▶️ #UK 🇬🇧 19,566\n▶️ #Belgium 🇧🇪  6,679\n▶️ #Germany 🇩🇪 5,723\n▶️ #India 🇮🇳 780\n@JohnsHopkins\n#coronavirus\n\n$ES $SPX $NDX \n$SPY #CAC #DAX\n#Oil #Nifty",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Double whammy of revenues &amp; fees: With #OPEC+ deal, #Iraq #oil production cuts are ~1 mbpd. Some must come from IOC fields, but Iraq still must pay IOCs. Contract structure means Iraq gets benefit of high prices, but bears risk of low https://t.co/kYPkz1bnjT, via @iraqoilreport",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Gulf Coast working storage will reach capacity week ending July 10 at 8 mmb fill rate average of last 4 weeks. 9.9 mmb fill this week slightly less than 10.2 mmb last week.\n#OOTT #oilandgas #oil #WTI #CrudeOil #fintwit #OPEC https://t.co/0XM5YkFnMH",
+			"annotation": "NEU",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "@etoro @yoniassia Is that a way to treat customers #lily_mlm? #ignore #etoro #trading #finance #forex #oil #btc https://t.co/QTb9YlcRVL",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "#OIL #OOTT #WTI  So long as major production cuts don’t happen while capacity remains, the price of oil will remain tied significantly to how much storage is left. \"We’ll see more breakdowns based on really unique financial moments related to the financial contracts in crude.” https://t.co/Y9ercr4mtj",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "@siciid_deni @WHO @US2SOMALIA @EU_in_Somalia @FPHassansheikh @voasomali @AbdirizakOm @AbdikerM @NBerlangaEU With all respect Mr.@siciid_deni is convinced that his political group running Puntland will succeed on making Somali Republic a \"#Confederate #Nation-State\"where every sub-Clans\" has its #ClanEnclave and ownership of resources like #OIL &amp; #GAS. @FPHassansheikh @HESharifShAhmed",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Why not do it, you have already taken the country to full socialism for the rich already. #oil https://t.co/IGC751WRN8",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "for Those who are not in the oil sector:   \n”Cannibalism” is common in the oil sector. We  will see more stories in the media about it in the coming months\n\nThe country that ranks #1 in the world in ”Cannibalism” is Iran! \n\n#Iran #oil https://t.co/snZJIuAQmH",
+			"annotation": "NEU",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Illicit #coal sales are #essential for #NorthKorea’s national revenues. Coal processing &amp; transport is a labor intensive process – much more than for #oil. And more nations than #China are involved.",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "#NorthKorea relies on smuggled #oil &amp; gas. That hasn’t changed. Imagine the disaster if #Covid_19 ran thru the merchant fleet, spread to the Chinese merchant fleet, then  to other countries' fleets via illicit exchanges at sea. When seamen return home, more outbreaks would occur.",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "#Alberta #pension manager loses $4-billion on #oil #gas investment bet gone wrong - The Globe and Mail https://t.co/aR3Xu9K9j2",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "#OIL #OOTT #WTI  Hall noted that the recent panicked selloff was largely focused on storage capacity running out in #Cushing, #Oklahoma. He pointed out that storage facilities in West #Texas are below 50% capacity, with #Europe and the #MiddleEast each at 60% capacity as well. https://t.co/N8H0ZRrrCZ",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "'America’s Radioactive Secret | Toxic #Waste from Oil-and-Gas Wells' \"#Oil-and-gas wells produce nearly a trillion gallons of #ToxicWaste a year.\" | @ExtinctionR https://t.co/x7ZiCcmVIn #FossiFuels-#footprint #pollution #publichealth",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "#OIL #OOTT #WTI  \"Oil prices could remain under pressure, according to satellite imagery analysis\" https://t.co/1J9NVGWSd1",
+			"annotation": "POS",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Can Futures Determine the Future Price of Oil? #oil #markets #OPEC #futures\nhttps://t.co/BGCs0YQS0j",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Is it a good time to trade #oil ? #investment #trade #makemoney #shares https://t.co/Owm31RckSb",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Oct 2020 US crude production is now forecast to be -2.5mbd compared to earlier estimate. #EIA #OOTT #oil #WTI https://t.co/gSzYIEFppF",
+			"annotation": "NEU",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "SMXX #nsfw #nude #slowmotion #oil #pov #thick #thighs #mycock #balls #fat #hairy #fupa #bellykink #chubbydaddy #black #bi #bear #2020Vision https://t.co/N2BHVFxqrE",
+			"annotation": "NEU",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "🇺🇸 #USOilPricesOutlook. April 2020 | https://t.co/fRtbZ6sXmY 🛢️ #Oil prices will remain very low in 2Q20, but will recover in 2H20 as the worst of the 🦠 #pandemic is left behind https://t.co/hMpJIoRWvj",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Over 200% $OAS trade in 48h!  \nLook how compressed it was on the daily on 4/22.\nIt was a fun trade! #Oil https://t.co/itQbpNSDd7",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "The easiest thing for any satellite  is to capture a smoke over Siberia.  \nIf the Russian oil companies start burning crude to reduce surplus, the whole world will see it live on TV screens \n#oil #Russia\n\nOld picture of Forest fires in Siberia https://t.co/3MBdjuGYUv",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "😎 The Ultimate Self-Adhesive Kitchen Oil-Proof Sticker has finally been released! Use on all your kitchen surfaces, make your kitchen a healthier place! 👩‍🍳 -\nCheck it out 🔎\nhttps://t.co/xEvjkJpSYR\n-⁠\n#foil #oil #oilproof #stickers #kitchen #cooker #cooking #healthier https://t.co/2hZGboUlsW",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Explainer: #Oil ETPs - the perils of trading crude like a stock - Reuters https://t.co/3fJXGlVBPc",
+			"annotation": "NEU",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "#Oil price update: $21.67   \n(#Brent $Crude) #oilprice source https://t.co/p0TIqjN4Kc",
+			"annotation": "NEU",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "@MostlyPreston @sqcrypto Just remember, the price of #oil went to '0' before #Bitcoin did",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "\"Will Shale #Oil Survive a Restructured Oil Market?\" \nLot of self reflection are sure to be coming from the oil industry in the months/year to come-- wonder when we look back later on if we'll find it made any actual difference, though\n https://t.co/L9KiOVm3Iz\n#EnergyTwitter https://t.co/QmgeX5shpe",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Sold my #DOLLARS 2day, aiming for an upmove in $EUR &gt; diagonal my raw levels r there\nStrength in $BTC and markets might confirm this thesis, that we have a (temporary) bottom in $EUR. Could also mean higher commodity prices #GOLD #OIL \nI do miss 1 important thing: GREEN VOLUME https://t.co/SBsWZ32iUg",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "@anelsona re #FossilFuel \nFor context US #oil\n\n- 3% global proven reserves\n\n- uses 20% daily #global consumption\n\n- imports 10 mb/day 👈👈👈\n\n- Oil powers ~90% #transportation\n\nWe’re NOT #energy independent\n\n#fossilfuels NONRENEWABLE\n\nOnce exhausted GONE FOREVER\n\n#FridayThoughts https://t.co/IKpww0IzkY",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Canadian oil producers are the most affected globally by the COVID-19 demand hits with supply cuts seen surpassing 1.1 million barrels a day in the second quarter #oil #energy #crude https://t.co/Urv7M7NICr",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Day 42:  #portraitstudy Here are a few more #OilPortrait that I didn’t get to share with you all! (Those are the first ones I did before I started posting anything)\n#oilpainting #oil #oilpaint #oils #oilportrait… https://t.co/QEPiWJmcwQ",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "@PurtiIndia Ans) Nachos #PurtiOil #SfurtiKiBaatPurtiKeSaath #CookingOil #Oil #Tasty #Contest\nJoin \n@blessedkamal\n@witty_vishal\n@pinkyk1980\n@3Madhvi\n@acidkidrock\n@avii4ever\n@Sanjiv_34\n@surajsahu32 \n@mysterioussu \n@SingerUsha09",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "@MattWolfAB I would Laugh at Your Ignorance but the Economic &amp; Environment Costs of your  Stupidity are Too Much  \n#AB #Oil is Now Worth next to ZERO as the \"Sale\" Price is \n$25+ LESS than 'Production' Costs .. Just a \n Money  Burning Pit Now",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "#Oil shut in’s don’t have 1:1 effect upon #natgas supply because much associated gas is flared anyway it is stranded from pipelines and users. Frankly recent bump in gas prices counter to demand outlook and less levered to oil supply #ONGT https://t.co/UpfL3TwaDO",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "We are welcoming #Ramadan with our Attar #oils and the tradition of #sufi masters who created amazing blends  to awaken #spirituality and #heighten #mysticism.\n\nRamadan #Mubarak to all!\n\n#oil #spirituaLMovement #spiritualgrowth\n\nhttps://t.co/HN0ivRJiUH https://t.co/1n6dBbKhtx",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "I've just added a new artwork, \"Perennial\" to my @artfinder shop via @artfinder #oil #painting #art https://t.co/UmlIa06udq",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "#Biden is shameless! Despite fossil fuel pledge, Biden still taking money linked to #oil industry. #2020election\n\nhttps://t.co/6c5FrZ2PJJ",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "First #greentech victim of #Oil prices and #COVID19 pandemic - @Airbus and @RollsRoyce cancel their E-Fan X hybrid-electric RJ100  https://t.co/EXPzmwzj9M",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "How #Oil Prices Went Subzero: Explaining the #COVID-19 Oil Crash https://t.co/veJ5kjAnvh",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "What a good week to be in the #oil tanker business $NAT $STNG $TNK $TNP $TK #OOTT https://t.co/5Cem2qUUAv",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "In progress... #inprogress  Quarantine time 🍀🧘‍♀️📿 🎨 \n#painting #painting🎨 #paint #oil #oilpainting #art #artist #artistsoninstagram #artistsanpedro #artistlosangeles #sanpedrocalifornia #losangeles #california #quarantine #quarantinelife #quarantinepillowchallenge #quarantine https://t.co/Ida79S02kJ",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Quarantine speed paint “Findings II”\n#oil https://t.co/cWqqUzTYAv",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Quarantine speed paint “Oferta”\n\n#oil https://t.co/wOZMAKkWYW",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "I can say that Crown Prince Mohammed Bin Salman has led one of the most historical deals in #Oil market ️. https://t.co/yOOdXbJAin",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "ALERT🚨: We have received several calls regarding questions about disinfectant use and #COVID19. \nThis is a reminder that under no circumstances should any disinfectant product be administered into the body through injection, ingestion or any other route.",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Please don't drink bleach or isopropyl alcohol to remove #COVID19 from your saliva. \nPlease.",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "JUST IN! Unbelievable FBI Raids medical facility that was providing high dose IV VITAMIN C THERAPY for #COVID19 patients.  https://t.co/NzgPThrKnz",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Researchers of NASA develops ventilator  prototype in just 37 Days \n#COVID19\n#NASA\n#ventilators https://t.co/GgL565V9BT",
+			"annotation": "POS",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "@FLGcommunity Selfless hands. Heartfelt help.#MillionMaskChallenge #FB #COVID19 protection is a click away.",
+			"annotation": "POS",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "I just published \"Looking again at COVID-19 Across the United States\" https://t.co/A9Qob85LST #covid19 #coronavirus #datascience #datavisualization #epidemiology",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": ".@realDonaldTrump running from cameras today. Also no rallies. Perfect we don't need to listen to him anyway. \n#COVID19",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Today appears to have the most new USA #COVID19 cases yet (38,474). In good news / bad news, more testing = more positive results. Oh, and also because it's spreading like mad.  By Monday we'll be at 1 million cases total. Buckle up, my buttercups. https://t.co/WH9zqkkPWb",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "The world's rich economies have a responsibility to respond to #COVID19 by investing in a resilient, low-carbon and just future for all.  We must build back better. Read more in my new oped with @cnbcafrica: https://t.co/Dc3pSlHpJA",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Happy Ramadan folks! Day 1 of fasting!\nWalking to work, rural locum in #northwestterritories #fortsmith\nThe snow melted and the sun came out! #RamadanMubarak #northernwork #Covid_19 #COVID19 #PPE #selfisolating #SelfIsolation https://t.co/1I90Vv35lo",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Everything's gonna be fine.🇹🇭 It's not the end of the🌏 Just count your blessings. Keep going.🤘 #Covid19\n#Lockdown\n#nature\n#TwitterNatureCommunity https://t.co/hQlXQ95kpS",
+			"annotation": "POS",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "@VashH3 Selfless hands. Heartfelt help.#MillionMaskChallenge #FB #COVID19 protection is a click away.",
+			"annotation": "POS",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "This was a fun article - power usage comparisons to show our changing habits during lockdown. Via @nationalpost  #QuarantineLife #COVID19 https://t.co/P1kY5OKnPB",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Shanghai Logs No New #COVID19 Cases https://t.co/xvfcrwGaET https://t.co/2YqP014iSA",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "#China's April car sales rebound! Daily sales hit 31,000 during the first three weeks. The China Passenger Car Associations notes: 7% y-o-y dip, but an improvement over March with a 47% y-o-y fall. #COVID19 https://t.co/omUIesXoOH",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "@DrShelleyRoss Selfless hands. Heartfelt help.#MillionMaskChallenge #FB #COVID19 protection is a click away.",
+			"annotation": "POS",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Hey @DavidMalpassWBG @KGeorgieva no country should have to choose between protecting their citizens from #COVID19 and paying their debts. I believe it's time to #CancelTheDebt and support a bold emergency response #GlobalCitizen",
+			"annotation": "POS",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "@skyycat2 I'm so sorry to hear about your dad. #COVID19 is a horrible monster that robs us of our loved ones. Praying for you and your family. 🙏❤🙏",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Between 18 Mar—10 April 2020, over 22 million Americans lost their jobs. Over the same 3 weeks, my co-authors &amp; I find in a new study for the Institute for Policy Studies, US billionaire #wealth increased by $282bn—an almost 10% gain. #COVID19\n#capitalism https://t.co/8eKBUNhATF",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "#COVID19 Update April 24th. https://t.co/95AoAqNSrm",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "@soledadobrien Omg.  Created controversy by suggesting humans ingest poison and that the sun will help cure #COVID19.  Wtf is controversial about that?  It's not controversial, it is 100% lunacy.",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "@iran_policy #Iran’s Regime Pays #IrgcTerrorist Quds Force Mercenaries 5 Times More Than #Iranian Nurses A simple comparison:The $200 monthly salary paid to an Iranian nurse is a fifth of the $1,000 average salary of IRGC mercenaries in #Syria #COVID19 #coronavirus\nhttps://t.co/614AlU3P0L",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "I’m awaiting for the start of the Lysol Challenge.  #COVID19 #corona #TrumpDisinfectant",
+			"annotation": "POS",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Independent contractor for pet services &amp; student graduating this semester with a degree in psychology. Had an offer retracted to work for an incredible non-profit when #COVID19 happened and lost all of my clients. #helpyourneighbor @yashar https://t.co/Tt6ncxnpDe",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "@LaurD123 Selfless hands. Heartfelt help.#MillionMaskChallenge #FB #COVID19 protection is a click away.",
+			"annotation": "POS",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Thank you to all the Frontline Workers who risk their lives everyday  \n#TwoAmericans #LincolnProject #Sacrifice #Responsibility #VoteBlue2020 #COVID19 https://t.co/34nPQhyw4j",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "@julieannayoga Oh, I'm from the US also...just lucky enough to not live there right now.  Unfortunately most of my family still do...which is terrifying to watch from here. \n#StayHomeStaySafe \n#COVID19 is no joke.",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Drive-Through #JobFair Draws Hundreds of #JobSeekers [Video] - @WLOX: https://t.co/qAt5lvRIUK  ~ @ExpressProsBLX  #jobsearch #jobhunt #COVID19 https://t.co/H1WcKxkYtD",
+			"annotation": "NEU",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "The GOP is enacting #COVID policies that are extremely cruel &amp; racist. My next for @zoramag: \n\"[R]acist and xenophobic elected officials...have the knowledge &amp; the power to slow the spread of #COVID19  but simply refuse to do so.\" #coronavirus #StayHome \n\nhttps://t.co/kS1dmAyIo3",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "be the first one!  when https://t.co/WcIoPBZF8y open!\n\nhttps://t.co/PKirJryK32\n\n#mask #N95 #KN95 #KF94 #KF80 #besafe #socialdistance #corona #covid19 #respiratormask #healthy #USA #CANADA #유학생긴급배송 #마스크 https://t.co/KpTGCq6bUp",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Rodger Goodell is the fakest human being I've ever seen. He can't even dreg up a once of emotion during after all these messages during this national crisis... I hate that human being. #NFLDraft #Covid19 #StlNFL #RiggedNFL",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "@KevinMKruse With so many dead, sarcasm is not what we need from the leader of the free world. @POTUS #LaughingStockOfTheWorld #COVID19 #testing",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "“They said, ‘Give us one day,’ and it was up and running.” \n#UCRiverside Extension provides 41 beds for front-line health care workers worried about exposing their families to #COVID19.\n\nhttps://t.co/3kx9HT7rcK",
+			"annotation": "POS",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Things were going well...hopefully in two weeks..deaths don't multiply.. #COVID19 https://t.co/WoVOx3rQLG",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "How to make A Business Continuity Plan for COVID-19? \nRead post: - https://t.co/aLub53BJMX\n\n#BusinessIdea #BusinessContnuity #Covid19 #TNT https://t.co/rOWsBjQLhS",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Divided by the cars we drive. United by the scrubbers we use. Take joy in the journey and #SayALittleYay with Orion Choco Pie. #OrionChocoPie #Covid19 #SocialDistancing\n\n#stayhome #quarantine #staysafe #yummy #delicious #chocolate #dessert #tasty #snack https://t.co/rBlFn1mDF2",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "We salute our #PayworldHeroes who are proud to serve the nation during the COVID-19 crisis.  \n#SalutetoPayworldHeroes #EssentialBankingServices #EssentialServices #AEPS #MoneyTransfer #WorkFromHome #businesscontinuity #covid19 #lockdown https://t.co/PgBVJiTK4B",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "I emailed my 72 year old dad to wish him Happy Birthday. He emailed me back to let me know about the surprise party 5 little old ladies at his 55+ complex threw him. I asked about quarantine. He said, BUT ITS A BIRTHDAY. I swear he's doing it on purpose.  #COVID19 #elderly",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "#RoanokeVA health department stated that largest number of #COVID19 outbreaks in area started with funerals. The 1st death was woman who attended a funeral &amp; 60 people were exposed. Suddenly, people are having public funerals at gravesides in defiance of #StayHome. How selfish!",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "COVID-19 threatens decades of progress on global poverty, @UNUWIDER report says @DEVEX https://t.co/3NSEhLH8vs @UNDP @PNUDLAC @UNDESA #COVID19 #coronavirus",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Remembered About Earth Day  #gpsc #upsc #talati #mamlatdar #binsachivalay #juniorclerk #seniorclerk #governmentjob #clerk #gujaratgovernment #sarkarinaukri #StayHomeIndiaWithBooks #competitiveexams #cmogujarat #lakshcurrentaffair #covid19 https://t.co/duqqTd9Ygq",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Stockpiling drives up sales for @Nestle, which reported its best quarterly sales growth in nearly 5 years: https://t.co/2HLcbZ6jp8  #coronaviruspandemic #coronavirus #coronavirusoutbreak #covid19 #foodnews #foodindustry #nestle #sales https://t.co/X4LLtPdFe8",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Luzerne County rejected a request from the Pennsylvania Health Department to sign a non-disclosure agreement in return to giving more information about #COVID19 patients to 9-1-1, including addresses. #firefighters #EMS #coronavirus https://t.co/ljD5Y9HpoK",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Pandemic Poses Challenges for Data Center Construction, Supply Chain: Over time, COVID-19 risks could impact construction schedules, new capacity delivery. #datacenter #cloud #construction #COVID19  https://t.co/sLItdN9Ysi",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "@WayneDupreeShow Heart disease, diabetes, #COVID19",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "COVID19 Stats for Réunion as of April 25, 2020: \nTotal Cases: 412\nNew Cases: no data\nTotal Deaths: no data\nNew Deaths: no data\nTotal Recovered: 300\nActive Cases: 112\nSerious/Critical Cases: 2\nTotal Tests: no data\nTests/1M pop: no data\n\n#coronavirus #COVID19",
+			"annotation": "NEU",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "You were created for a purpose. Don't let the media dictate your destiny. A world changing life is within your control #AustralianLandscapes #URLoved #StraighOutOfCamera #covid19 #IsolationAssistance #CovidKindness #massisolationproject #JesusLovesYou #ThereIsHopeintheRedLetters https://t.co/dgdb88ccKT",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Continue to support the Meeting Street Artisan Market vendors ONLINE, during the #COVID19 Crisis. Shop now: https://t.co/GLWvxxmQZN #shoplocal #supportlocal #socialdistancing https://t.co/nLCMW1DMyK",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "An excellent article by ⁦@apoorva_nyc⁩ on #COVID19 antibody tests, the problem with false positives and the challenge of using them for policy decisions. \nShe also had a wonderful segment on the ⁦@BrianLehrer⁩ show today on the same subject. https://t.co/BwKw7unAF9",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "How about a #facemask signed by the Red Headed Stranger? Bidding starts tomorrow. https://t.co/65O33OW16E #COVID19 #coronavirus @WillieNelson https://t.co/MmjF6vaa5F",
+			"annotation": "NEU",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "New COVID-19 Data at 2020-04-24 10:30:01 pm EDT #Coronavirus #COVID19 https://t.co/nPRS6WIN3Y",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "#COVID19 deaths in #Scotland 79 percent higher than official figures \nhttps://t.co/YU81lFLYKS",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "The southeast Asian #methanol market faces the growing challenge of weakening fundamentals as the regional #Covid19 lockdown situations worsen in key countries | #ArgusPetchems  \nRead the story: https://t.co/y4UmdYFeFk\n\nFor more coronavirus news, visit: https://t.co/dmx0cjEA3J https://t.co/HsIimiYux0",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Businesses must prepare now for the long haul of #COVID19 suppression if they are to survive in a changed economy. https://t.co/XrOrjJI9cn",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "@Ambreen62986028 Good news. Gulf Countries have assured India that they won’t let some fake tweets create discord in relations. PM Narendra Modi has spoken to 9 West Asian leaders on #COVID19 till now. India is sending #Hydroxychloroquine to Saudi Arabia, Bahrain, Oman, Qatar, Egypt &amp; Palestine.",
+			"annotation": "NEU",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Ignored by contractors, fed stale food: Report exposes migrant workers' plight in B'luru https://t.co/e7KGHSPk5s \n#अंधेर_नगरी_चौपट_राजा\n#ModiLeadingTheWorld\n#Lockdown2withoutPlan #LockDown\n#MigrantsOnTheRoad #PMCares #India #CoronaVirus #COVID19 #CoronaVirusTruth\n\n#COVIDIOTS https://t.co/rPxmY4RkcG",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Busy husbands thinking :  “Office boss was better. At least earlier we used to have a weekend.” 🤓 #CoronaUpdate #COVID19 #lockdownextension #Lockdown21 https://t.co/wgX0wA5ZyE",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Are you in #LaoPDR? Do you need psychosocial support?  \nTo mitigate the impact of #COVID19 we are supporting a major psychosocial initiative to help those most vulnerable. \n\nWe are helping run critical hotlines that can help you. \n\nFind out more ➡️ https://t.co/U6OioW0gQF https://t.co/mxIPieXLgJ",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "The Scariest Pandemic Timeline | If the flu and coronavirus hit at the same time this fall, America might have a longer, more severe lockdown https://t.co/rIaRp9HWVl #COVID19  #coronavirus #lockdownextension #pandemic https://t.co/DRk1wmCknm",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "\" The Coronavirus Effect: Jobs That Will Be Added &amp; Lost \" CLICK HERE TO READ: https://t.co/rSD1BxXHNn\n\n#CoronaVirusUpdate #CoronaCrisis #COVID19 #workformhome #workingfromhometips #JobSearch #jobseekers #CareerSkills #careertips #careersolution #SocialDistanacing #Jobs https://t.co/67LybWFWQZ",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "#Covid19 #PinkEye Researchers found coronavirus in a patient’s eyes — days after it left her nose https://t.co/rGheecvZD0",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "E-Commerce Stocks Soar With Pandemic Gains Seen as Long-Lasting https://t.co/nMUdiJg56y \n#pandemictech #coronarvirus #coronaviruschina #covid19 #Covid #corona",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "After recovering from #COVID19, Leilani Krause is returning to work at Treyton Oak Towers to care for residents. We need to rally around our #LTCHeroes who are risking their lives to care for seniors! https://t.co/illWcWhEHr",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "With flights grounded and scientists kept off of the ships,  #weatherForecasts and #Climate research are taking a hit\n\n#weather #data #ClimateChange #COVIDー19 #Covid19 #COVID2019 https://t.co/G8TsQzFauU",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "In Pics | Could #smoking help fight #COVID19? #France tries to find out   \nhttps://t.co/x8H2rEJMxE",
+			"annotation": "NEU",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "In addition to physical distancing, one of the most effective ways to protect yourself and loved ones from #coronavirus is washing your hands with soap and water. \nTogether, we can slow the spread of #COVID19. https://t.co/nyxDPxaG5S",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Researchers at IIT Delhi’s Kusuma School of Biological Sciences have developed an affordable #COVID19 testing kit approved by the Indian Council of Medical Research (ICMR). #CoronavirusUpdate https://t.co/vxAcuFD8Cs",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Get #breakingnews and the top #stories impacting your #community straight to your inbox - every morning. Sign up for FOX5's \"The Morning Brief\" now at https://t.co/dEfT3RhLzk! #COVID19 #coronavirus\n#TheMorningBrief  \n#FOX5Atlanta https://t.co/p5w3Dfyj0q",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "#China's April car sales rebound! Daily sales hit 31,000 during the first three weeks. The China Passenger Car Associations notes: 7% y-o-y dip, but an improvement over March with a 47% y-o-y fall. #COVID19 https://t.co/io2JpodjKK",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "WHO cares about a #COVID19 vaccine? Well, not the US apparently. \nhttps://t.co/ctrWJzFM7C",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "#Coronavirus: America's reckoning - US correspondent @CordeliaSkyNews explores the impact of #COVID19 on the most powerful country on earth. \nWatch in full 👇\n\nhttps://t.co/XZsR93Lgiy",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Meet the collab team behind vernacular #COVID19 info primer https://t.co/zsPL1OsRUq",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Tamil Nadu's @ThirupurP recently released a video to spread awareness about the importance of staying indoors and wearing a mask when stepping out to buy essentials, and it has gone viral on the internet with various misleading claims #coronavirus #COVID19\nhttps://t.co/Yvp6uHRHWv",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Thanks to rapid global expansion, Netflix is now ramping up production in countries that are easing restrictions. \n@NetflixIndia #Netflix #Covid19 #Coronavirus #Lockdown https://t.co/ghqFQtCyJI",
+			"annotation": "POS",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Meet Beela Rajesh, an IAS officer and Health Secretary of Tamil Nadu  who is leading the state's fight against #COVID19. She has ensured that all the preventive measures are being followed strictly. #CoronaWarrior #SaturdayMotivation  https://t.co/8s1jl5DaeC",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "We will overcome this together! Be safe! Keep your family and colleagues safe! \n#actioncoach #businesscoach #shajikuriakose #covid19 #coronavirus #besafekeepsafe #bepositive #becalm #BeKindToEachOther #together #overcomeadversity #togetherwestand #togetherwecanmakeadifference https://t.co/QyTwwuOl9Z",
+			"annotation": "POS",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Business Mentor: Working amid the threat of #COVID19 https://t.co/RwnaRxrWuK",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Typically brilliant @Rukmini piece: \"A range of hundreds of indicators show a worrying disruption in India’s basic health services in March 2020 as local administrations pivoted to contain the spread of #COVID19\" https://t.co/0WgBxjnHEl https://t.co/zecUdJzWVY",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "#COVID19, let's be responsible and stop the spread. #SamvedanaTheHappinessHospital https://t.co/IN1Q8OAjop",
+			"annotation": "POS",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "New🚨Song🔥“Smoke💨” wit my slat🤧 @bankroll_brm FLOOD Da COMMENTS‼️(💨) I’ll drop it tonight 😈🔥 I promise💯 no🧢 \nI kno y’all been waiting😩4 Swag🐐too drop🙄 Y’all ready🤯🙌🏽 #quarantine #covid19 😷we got whole tape dropping 🔜… https://t.co/NfDSaEdzc7",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "#powerofonefoundation, #onolb_nonprofit, and @OC_FoodBank have partnered during this #COVID19 crisis; they are working together to combat hunger in our #SantaAna and #OrangeCounty #communities. \n@ShopMainPlace is their #EFA site for this Saturday, April 25, 8:00a to 2:00p. https://t.co/sEJGdowsYP",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "@WhiteHouse @VP A Oximeter measures Blood Oxygen, costs $70 USD and common in regional hospitals for patients vitals. This tiny device should be made available to ALL Nursing Homes to check for possible #Covid19 infected patients o2 level. Anyone with 90-100% O2 is not infected https://t.co/NFTUfGCunU",
+			"annotation": "NEU",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "That's alot of Ohio and Hamilton County 932 confirmed and 557 deaths and no recoverd 15,169 in oh #COVID19 #coronavirus #HamiltonCounty #ohio #cincinnati #Cincinnatiohio #UnitedStates #fox19 #fox19news #foxnews #coronavirusupdate https://t.co/tr1ZAC5Txw",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "#Respect  \"Angela Merkel has repeatedly warned that Germany must not rest on its laurels even if the infection rate has dropped, saying it is still \"on thin ice\". Germany had .. 33.9 ICU beds per 100,000 inhabitants compared to 8.6 in Italy and 16.3 in France\" #COVID19 #โควิด19 https://t.co/suAnUNDqex",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "This is #Covid19, not Covid-1 folks 😂😂😂, Dr #Trump’s advisor says. Fast forward to 1:47. Trump Attacks the WHO &amp; Kellyanne Can’t Count to COVID-19 | The Daily So... https://t.co/z4e3qUyxZo via @YouTube",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "#Oct16 AMLO meets #Microsoft #Gates #WHO #Oct17 AMLO shows El Chapo's son Ovidius / OVID\n#Oct18 #Event201 #Plandemic\n#Oct19 Dr Shi places #SARSCoV2 at Wuhan fish market\n\nOVID = Ovis =Sheep\n19=Surrender\n#COVID19 = Sheep Surrender\n#Coronavirus #COVIDー19\n#TheGreatAwakeningWorldwide",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Are you getting desperate? Have the #coronavirus quarantine and other measures made you feel like the walls are closing in? Find hope now! Jesus and Dirt is available FREE in Kindle Unlimited or with a trial of Audible. https://t.co/0NsTYhynNh #Hope #Jesus #quarantine #COVID19",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "The government’s actions are clear pointers that #COVID19 is not the only danger #India faces  https://t.co/29COLCd16q",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "In case of #covid19  aka #WuhanVirus the initial value was +ve, i.e. &gt; 0, in PRC when everyone else's was 0... I.e. it starts in China... then then x(0) &gt;0 in 🇮🇹 .... why not its neighbours🇨🇭🇬🇷🇸🇮🇭🇷?  🇨🇳business connections! Leather industry... Chinese villages in N Italy?..",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "The media has notably omitted any mention of @realDonaldTrump correctly stating that the virus does not survive in heat. #covid19 #coronavirustruth #plannedemic #CabalTakedown",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Register here https://t.co/sxxOveIujd \nFor FREE Webinar on Topic \"Master of Banknifty options\"\n\n#financenews #helpinghands #covid19 #investing #markets #globalmarket #socialmedia #investments #coronavirus #aliceblue #webinarseries #webinars #freewebinars #webinar #learning https://t.co/AkV1LlzSiX",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "#COVID19 I’ll do your nails https://t.co/QTfVOhIOjA",
+			"annotation": "POS",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Dahil Extended ang ECQ. Stay at Home and Stay Safe from Covid-19 \n#pinoy #marikina #marikeño \n#StayHome  #staysafe \n#COVID19 #Ph",
+			"annotation": "POS",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "#powerofonefoundation, #onolb_nonprofit, and @OC_FoodBank have partnered during this #COVID19 crisis; they are working together to combat hunger in our #SantaAna and #OrangeCounty #communities. \n@ShopMainPlace is their #EFA site for this Saturday, April 25, 8:00a to 2:00p. https://t.co/QpUew2y7qa",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "The kuffar who wouldn't be king, doesn't realise that a royal heir is considered infidel scum. Quit trying to be the best dhimmi in Christendom, Charlie. #Covid19 Prince Charles pays respects to Muslim NHS workers in video marking the start of Ramadan https://t.co/bKxTFdcwpE",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "oooh \nThe 5-month-old daughter of a New York firefighter dies from coronavirus\n#covid19\nhttps://t.co/FxImf8dSkI",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "@SenKamalaHarris The government MUST cancel #StudentLoans NOW People are going bankrupt behind it because of the compounding issues of the #COVID19 #pandemic #bankruptcy #debt",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Calgary Emergency Management Agency Chief Tom Sampson said four months is a long time to mandate cancellations, but it helps the city offer clarity. https://t.co/6iKQWFU2zR #yyc #COVID19 #COVIDyyc",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "It’s time to stop demonizing plastics. Look at this company in Pa. Braskem, with 45 dedicated employees who volunteered to live at the plant for 28 days to make plastics that go into PPE #COVID19 https://t.co/u3qsykAfiY",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Hey @Keene_Sentinel do an actual public service and retweet this after the misleading headline confusing people on the importance of PPE to stop #COVID19!! People deserve solid information not condescension and poor exposure management advice.  Lots of science that’s PRO PPE!! https://t.co/sPX1KdKs7m",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "New Stem Cell Therapy From Australia Against #COVID19 #Stem_Cell_Therapy #Jalen #Ravens #Hurts #TrumpIsALaughingStock Watch New Update:-https://t.co/e3qnj7V0I7 https://t.co/C13cXrigdt",
+			"annotation": "POS",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "@ss_suryawanshi All, report this account as tweeting #FakeNews  with @Twitter  #COVID19 #coronavirus #PalgharMobLynching #palgharpolice #PalgharLobbySilence #Palghar #PalgharIncident #palgarh #PalgharLynchingKaSach",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "So only 68 current cases of #COVID19 in Victoria . Can we get to Zero? Amazing achievement. Well done @ScottMorrisonMP @DanielAndrewsMP @MartinPakulaMP and all Victorians that have done the right thing https://t.co/ExXR7iija8",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "@AmyMcGrathKY If it weren't for the GREAT people of this country SPEAKING UP &amp; making a big To-Doo about #BrettCrozier &amp; the injustices he endured - This wouldn't be happening so #GodBlessAmerica &amp; the Human Spirit #StandUnited Always #coronavirus #COVID19 #Covid_19 @USNavy #USNavy",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Don't forget to access #superfastbiz's free How To practical guides to help provide advice and info during #COVID19  All available now in our online info hub 👉https://t.co/yVr1YGLW22 https://t.co/diOmQLtYDe",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Thailand reports 53 new coronavirus cases, one new death \nhttps://t.co/3prEtjxZML\n\n#ThaiPBSWorld #COVID19 #Thailand https://t.co/KFnOwz28nT",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "🔵 Fight #covid19 🦠Check Info via @bernd_montag @SiemensHealth 👇 \n@NevilleGaunt @postoff25 @fogle_shane @archonsec @Dahl_Consult @DrJDrooghaag @enricomolinari @victoryabro @ashoknellikar @shicooks @techpearce2 @baski_LA @Dkell999 @Joanross_biz @sulefati7 @CurieuxExplorer https://t.co/woP8iNio0U",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "@RainaBrands To the extent that female political leaders are performing better than male leaders against #COVID19, it may be because women are expected and have learned to be more democratic leaders, more collaborative and more compassionate communicators.",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "One more death reported from Kashmir .  An elderly person dies at SKIMS hospital Bemina .\n#COVID19 #CoronaUpdate #CoronavirusLockdown",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "His campaign rallies were the one place he could go to escape, albeit temporarily, the irrational hatred spewed by the Trump Derangement Syndrome-infected mainstream #FakeNews media. And now the deep state even took that from him thanks to their #COVID19 bioweapon being..",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "We will have the cure soon #MAGA #COVID19 https://t.co/nvaXYzJrmG",
+			"annotation": "POS",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Good morning,  I''ve been away from  #Ghana Covid19 Relief Support for a self quarantine for the past 14days. \nNow, the Lockdown is over but the need for PPEs has increased as our #Covid19 positive cases increasing by the day. We please need your donation…https://t.co/DOdEw1RzN3",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Sale by E-commerce companies will continue to be permitted for essential goods only. \nSale of liquor &amp; other items continues to be prohibited\n\nNo shops to be permitted to open in hotspots/containment zones: @PIBHomeAffairs \n\n#lockdown #Lockdown2 #COVID19 #COVID",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Body language 101 Watch reaction of Dr Deborah Birx.\n\n#Covid19 #coronavirus #bodylanguage https://t.co/nzT6LiIvnH",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Worried about your regular health checkup. Our Blood Collection Officer follow all precautionary norm while collecting sample from your doorstep or Call us 9810981083 #StayHome #StaySafe #COVID19 #BharoseWalaCheckup #HindustanWellness Hindustan Wellness https://t.co/TXMGEYfUPb",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "@SpeakerPelosi demands you must do what she says, but look at her hands!! She is doing everything to infect herself and spread infection to others (if already infected). #CCPVirus #covid19 https://t.co/dSHG7hiJD0",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "\"The notion that early intubation avoids use of CPAP or NIV, therefore decreasing risk of viral transmission with the use of PPE, is debatable\"\n\nArulkumaran et al. Use of NIV for patients with COVID-19: a cause for concern? Lancet Resp Med 2020\n\n#COVID19\n\nhttps://t.co/VfFEEpXgiY",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "@MartinRemains @birdonthewire3 @dantomlin1 @BBCNewsnight @belle_codes @Sir_David_King The problem is that only can we not trust the media now, we certainly can’t trust anything that comes out of this Govt mouth-and its reluctance to ditch the obsessive secrecy that permeates Whitehall even on something so important as #Covid19 &amp; #Sage only makes things worse.",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "With decision-makers literally making life and death choices, the contrast is stark between the empathetic, informed and rational, and the weird, wacky and reckless. My take in @ScotNational #coronavirus #COVID19 https://t.co/nvhbNRUR0I",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "How to practice Social distancing in Mecca? Cling to each other. #COVID19 https://t.co/SBdIJzkFFs",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Notice that all these western Human Rights group like @hrw @amnesty harping on Asian countries refusal accept illegal immigrants during pandemic #covid19 ...pls stop this hypocrisy. US build a wall to stop illegal immigrants. How many illegal immigrants u accepted? None, right?",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "The second weekly @TIAC_AITC 'State of Tourism in Canada during #COVID19' report is out, produced by #Twenty31 - fact based evidence providing answers for #DMOs on 3 key topics: when will containment happen?; will tourism return?; what will it look like? @DestinationCAN https://t.co/N1LSRcgF9X",
+			"annotation": "NEU",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Not all Heroes Wear Capes!! \nHuge thanks to Shubhangi for sharing her story with us, your story motivates us to go beyond our limits and work for the society. \n#ProudToBeSRVian #SilverliningBySRV #Corona2020 #COVID19 #FightAgainstCOVID https://t.co/UtpgRSLca0",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "@RuthieSky After the Lysol incident, they better do something...I’m sure the people around him are on pins and needles waiting for the first #COVID19/Disinfectant related deaths to hit the media. They can’t help but be worried about the ammo this is giving the #Biden2020 election campaign.",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Guinness record holder Rajesh Burbure, along with son Vaibhav and daughter Dhanshree, performs in Nagpur to create awareness against Covid-19. #Lockdown #SocialDistancing #COVID19 https://t.co/O3bRp20Ttf",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Kudos to the Ukrainian men and women fighting on 3 fronts. - war with Russian mercenaries in the #Donbas,\n- war against raging wildfires in #Chornobyl, grass and forest fires in Zhytomyr Oblast (both stll smoldering),\n- war against #COVID19.\nThank you! https://t.co/TSc71R0nx8",
+			"annotation": "POS",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "I want to be able to do that for people. I'm glad there are people who can and do. Stupid IRS...😒\n#COVID19 \n#PeopleHelpingPeople \n#KindnessMatters",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Lucknow: Uttar Pradesh Chief Minister Yogi Adityanath holds a meeting with chairpersons of 11 committees of the state to combat #COVID19. https://t.co/iCOAk9tFfq",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "What is boiling in #Asmera...??? \nSomething big is been cooked, the runaway of the westerners is not just for #COVID19.\n\nWatchout #Debretsi, Watchout  #Tigray..🛰🛰🛰\n\n#Wedi_Afom #EPLF #PM_Abiy vs #TPLF \n\n#Eritrea 🇪🇷 #Ethiopia 🇪🇹 https://t.co/K73Muh4Hzp",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Chinese scientist study found two types of the new coronavirus strains..... #China #Shanghai #Wuhan #COVID #CoronavirusOutbreak #COVID19 #COVID2019 #CoronavirusChina #Covid_19 #Coronavirus #COVIDー19 https://t.co/kmFgEXXdB8",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "I just donated to the #COVID19Fund to support @WHO's response efforts to the global #COVID19 pandemic. Join me to help combat this growing global threat to people's health and well-being: https://t.co/rKHithKmRZ",
+			"annotation": "POS",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Would be really rad if @DiGiorno would hit a magic button that increased the amount of pepperoni on their pizzas by like 50%, I mean we can do 6 pepperonis on a single pizza during these tough times right? #pizza #COVID19 #Covid_19",
+			"annotation": "POS",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "5Member team of GovtofIndia came to #Surat;Team had meeting with Local-State govt official via Video Conference on situation of #Covid19 in Surat. Day back @HMOIndia took serious note about Surat.@CommissionerSMC @OurSMC @collectorsurat @CP_SuratCity @GujHFWDept https://t.co/TONCzMIBwv",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Nice project by Yuanfang Guan: \"Subtyping #covid19 Therapeutic Research Findings\": \nhttps://t.co/2Sb7Uc5Wh7 https://t.co/cfGd7btB2H",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "The United States on Friday witnessed its lowest novel coronavirus daily death toll in three weeks \n#COVID19 #Coronavirus",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "USA with 39.0k New Cases (37%) and 2.0k Deaths (31%). 3m cases by Monday, 200k deaths by tomorrow.\nEcuador had 11.5k new cases, a 103% increase. 😱 \nRussia (5.8k) and Brazil (4.0k) also big.\n#Covid_19 #Covid19",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "We need to stop under-calling whats an “aerosol generating process” &amp; err on side of safety otherwise more #HCW #HCP will suffer &amp; die: protect our non-medical colleagues with full AGP #PPE #COVID19  \nExclusive: deaths of NHS staff from covid-19 analysed https://t.co/RuoLKSH14z",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Watch and be enlightened. 'The New Owner of the World' by Pastor Apollo C. Quiboloy \nhttps://t.co/U6yJqU95dT via @YouTube @PastorACQ \n#ApolloQuiboloy #KingdomofJesusChrist #COVID19 #StayHome #coronavirus #lockdown",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Covid monster illustration in process🧬🧫🧪☣️ #covid19 https://t.co/UAZwPhKPQg",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Chile's drought devastates ranchers, farmers - ABC News via @ABC - https://t.co/6b270ahksA #putaendo #chile #COVID19 #sequia",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Have we all forgotten the lesson of The Emporor's New Clothes? If one has dangerous pathological liar as a leader, would a crisis of this magnitude not be the time to replace (or at least censor) them? #COVID19 https://t.co/XsWEUCmx2j",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "I hav alwys believd this whn ppl raise the slogan ' Save The Earth'-the EARTH DOESN'T NEED SAVING, it's us who do! Whn we ignore othr cues frm nature, we're hit upon by the deadliest, to make us sit bck n thnk, WHAT LIFE REALLY IS? @narendramodi @UNEP @wef #COVID19 #BeatTheVirus https://t.co/Ac2XQXVS46",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "I'd bet 💰 that trump will try to take credit for how well #California is handling the #COVID19 #pandemic 🙄😏 \n#PresidentNewsom https://t.co/B0mlwk3D0n",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "@bobsaget I told some kid I haven't had hair this long since we skated. He said street or vertical?\nI said, just fix my sprinklers.#hairstyle #COVID19",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Not all Heroes Wear Capes!! \nHuge thanks to Shubhangi for sharing her story with us, your story motivates us to go beyond our limits and work for the society. \n#ProudToBeSRVian #SilverliningBySRV #Corona2020 #COVID19 #FightAgainstCOVID https://t.co/7h8BsNtBKI",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "🗓️Friday, April 24, 2020 \n🚨 #Genome #Scientists found that the explosion of #CORONAVIRUS - #COVID19 cases in New York State - #NYS resulted largely from Infected People who flew in from #Europe NOT #China.\n\n@CDCgov @WHO\n\n@QuickTake @Business\n\n@HubBucket @ProsumerSoft https://t.co/q1M1cCbRdK",
+			"annotation": "NEU",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Share Please! \n#QAnon #TheGreatAwakening #TheStormIsUponUs #COVID19 https://t.co/PvBmvI5OBF",
+			"annotation": "POS",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "#Coronavirus detected on particles of air pollution   #corona #covid19 @milieudefensie https://t.co/7v9JQFMblC",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "My sister in law is a nurse at UW medical center in Seattle and works COVID unit. She told me that there are young people dying. Healthy 23 year old, 29 year old father of two...it’s not just old and sick. #StayAtHome #COVID19 #WashingtonState #staythefuckhome",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "122 577 people infected, 22 245 deaths and 43 493  people recovered from #coronavirus #covid19 in France 🇫🇷 \nFind below the report situation of the 24th of April to follow the evolution of the #pandemic in France 📉\n\nHere is a link to access to the PDF: https://t.co/QMdM3M3G6b https://t.co/EJkOISPGJp",
+			"annotation": "NEU",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Grieving children don’t stop grieving because of a pandemic. #COVID19 #facts #hurtingchildren @c_grief @KidsGriefRelief https://t.co/0n83rt4L22",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "@Ebinular Was searching for Covid-19 news in VA and saw your tweet.  \nHope this helps--#Covid19 testing in #Richmond area: \nhttps://t.co/52ttMShBws",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Thanks @UNDRR for highlighting the urgency to look into building more resilient &amp; stronger communities post-#COVID19.  \nSee link to a copy of our article on @PreventionWeb below!\n\n#PreventionSavesLives https://t.co/ttgKoiFEKY https://t.co/BQKb1XsM32",
+			"annotation": "POS",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Appreciations fall short to the superheroes working relentlessly and saving the human race from a pandemic like COVID19. A big salute to their dedicated selfless service from everyone at the Zonta Family. #mohua #swachhbharatmission  #Superheroes #Pandemic #COVID19 #Coronavirus https://t.co/1A41Cd9gS0",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "WTF #COVID19 @Channel4News @piersmorgan @chunkymark #COVID19 follow the money #ToryCriminalNegligence  #HerdimmunityIsMurder https://t.co/o6k6eXTfKd",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Ppl are scared, giving up hope, &amp; untrusting of our governments current action(or lack of) \nPpl are reacting out of anger, fear &amp;desperation. Remember to be human first; be kind first. We're all struggling Capitalism is all of our enemy.\n#COVID19 amplified problems already there.",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "I Would like to make an announcement that Ophthalmology Congress 2020 is Converted into a Webinar Conference. Interested members mail us at ophthalmologycongress@meetingsnexpo.com\nhttps://t.co/n2mYzhCpeu #ophthalmology #Ophthalmologists #COVID19 #Professors #Stayhome #Staysafe https://t.co/K3gbnVMsh2",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "The #COVID19 #pandemic is spreading rapidly, with new updates flying in every minute. As the situation evolves, many #smallbusiness owners are unsure of what steps to take to #mitigaterisk, protect employees and support customers.  #smallbusinessowner #socialdistancing\nPart- 1/2 https://t.co/Vk5PNqtMOx",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "🔫🤠🍁CANADIAN BANDITS! ON THE RUN FROM GERMS!🍁🚓🐎 \n🇨🇦 All three of us girls bought bandanas and wore them as PPE! We had a gay ol' time 🤣 too much fun!! 😂\n\nVIDEO ⏯ https://t.co/o0YXqJm7Lb\n\n#PPE #Bandanas #outlaws #Funny #Comedy #Canada #Covid19 #Coronavirus #maskchallenge https://t.co/FZKb0C8u7O",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "‘The #coronavirus challenge could be the opportunity of a better future’ via @Mike_Fabricant @Telegraph  \n‘Turn a challenge into an opportunity, I always believe. The challenge of #Covid19 could be the opportunity of a better future’ Inc: for #SocialCare\nhttps://t.co/eIyDoIJHN9",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Kerala High Court said govt must take steps to protect the privacy of people &amp; seek their consent before sharing data #COVID19.  Wonder why is @ShashiTharoor (Head of Parliamentary Standing Committee on IT) silent on the Sprinklr issue, when his party members are raising concerns",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Some fool in my neighborhood is shooting off a gun, over and over again. Maybe he's a mossback who believes something like what some people in Louisiana did 180 years ago, that cannon fire could shoo away yellow fever \"miasma.\" Next maybe he'll challenge #COVID19 to a duel.",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "#COVID19. i was misled as manipulated to prove for another direction - that is OK.\nWith science data prepared , still i got the same answer -\nTruth as it is, can be explained from several aspects - all applies.",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "#CoronavirusOutbreak | ‘Entire nation except Congress supporting government during #Covid19’: @PrakashJavdekar \n#Watch https://t.co/Uz5oAHAggx",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Updated Day End April 24, 2020. \nPunjab Islamabad numbers came in around 230am.\n\n#Pakistan #COVID19\n\n****\n\nMortality Rate \n\nPakistan 2.1%  ↔️\n\nKP at 5.2%  🔽\n\nKARACHI at 2.6% 🔽\n\n****\n\nRecovery Rate \n\nPakistan 23.1% 🔼\n\n****\n\n785 new cases added 🔼 https://t.co/iFgEGSXM3T https://t.co/GfMwy8MQij",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "We at Indian National Congress firmly believe in the ideology of expressing &amp; initiating a dialogue that can affect the country's people &amp; hence questions the Central Government's decision of continuing the wasteful expenditures. Is it justifiable..? #COVID19 @INCIndia https://t.co/Lomh82cHnE",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "There are few things I’ve ever felt this strongly about in my life.   What choice do you like?  Massive loss of life and a decimated economy;  or massive loss of life and a return to the new, economic normal. You have to choose... there is no middle. #COVID19 #HerdImmunity",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "#COVID19 is caused by vaccines | Dr Judy Mikovits, PhD https://t.co/xs8UP3Bnku via @YouTube",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Hey, new to Twittard. My name’s Lucas. I guess that’s it for now. Don’t forget to dip that baby in some Listerine. #COVID19 #new #iamnew #follow",
+			"annotation": "NEU",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Confirmed cases of #COVID19 increased by 111,801 cases globally on April 24, surpassing the previous single-day high of 101,566. https://t.co/LjqbeeiDnB",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "@BBC3CR Legitimate alarm bells ring with revelation of unprecedented role in officially independent SAGE committee #COVID19 meetings of controversial non scientist No10 adviser Dominic Cummings. Not least given secrecy over SAGE members&amp;refusals to publish minutes&amp;advice details",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Mask up - Slow the spread #COVID19LK #Covid_19 #COVID19 #lka https://t.co/rILzyb1AV4",
+			"annotation": "POS",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "1 new death in Montserrat  \n[6:12 GMT] #coronavirus #CoronaVirusUpdate #COVID19 #CoronavirusPandemic",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "World leaders on Friday pledged to speed up work on tests, drugs, and vaccines to treat novel coronavirus and share them with the rest of the countries, but the United States did not participate in the initiative launched by the @WHO \n#COVID19",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "My heart is heavy today. 😔 \nThe ripples of grief associated with the loss of so many of my international colleagues striking home.  \n\n #UltimateSacrifice #COVID19\n\nWe will always remember them 🖤 https://t.co/ZnvCHRoJZR",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "We are being lied to every single day. Flattening the curve my ass. #COVID19 #Canada #Lies https://t.co/c22AylpR9i",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "This 4 days #TNLockdown has no logic. #COVID19 needs at least 2 weeks #lockdown which whole of TN is in already.\n\nThis sudden 4 days lockdown makes people go for shopping to stock things which completely wipes out all the advantages achieved by the lock down so far.",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Special Assistant to PM for Information and Broadcasting  @Dr_FirdousPTI Tweet  (2/2)\n\n#APPNews #FirdousAshiqAwan #Pakistan #PMIK_RealWarrior #Media \n@MoIB_Official\n #COVID19 #CoronaUpdate #Covid_19 https://t.co/2tShYGlFE8",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Together with @theRCN, we're urging the country to observe a minute’s silence at 11am Tuesday 28 April to remember all the health, care and other key workers who have lost their lives to #COVID19 #NeverForgotten #IWMD20 https://t.co/F56tUhmZCN",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Special Assistant to PM for Information and Broadcasting  @Dr_FirdousPTI Tweet  (1/2)\n\n#APPNews #FirdousAshiqAwan #Pakistan #PMIK_RealWarrior #Media \n@MoIB_Official\n #COVID19 #CoronaUpdate #Covid_19 https://t.co/pWc807vT9h",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Give $2000/month to every American  #moneyforthepeople #covid19 #CongressPassUBI \n\n- Sign the Petition! \n\nhttps://t.co/W2xnYQEaEb via @Change",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Years ago, a disease spread that affected millions of bats and died due to fungi living in caves. Why not use these fungi in experiments to eliminate the virus? Because the coronavirus\nIt is found mainly in the blood of bats and does not fight these fungi🧐\n\n #COVID19",
+			"annotation": "NEU",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "PRAYER BULLETING FOR COVID-19. \npray that: God's fire will fall in our nation. God's fire will burn all rubbish of COVID-19 in our nation. Fire will visit all the covens of the wicked in our nation. #Covid_19 #COVID19 #African #Europe #Asia #NorthAmerica #SouthAmerica #others",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "@CBSNews #Abbott Labs Rapid 5 min Test .Fujifilm #Antiviral Drug #Avigan that's Effective Against #COVID19 #CORONAVIRUS  #Hydroxychloroquine #Azithromycin #Zinc #Remdesivir #KALETRA \n#Signs reminding us\n #WearMasks #MASK4ALL\n\n https://t.co/x75pSQCDxN",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Real news, virucidal UV light nano tech on the horizon! People need to inform themselves.Please🇨🇦look for the answers beyond msm if you are still cognizant &amp; capable of study &amp; independent thought! #COVID19 #CovidAB #CoronaVirusCanada #Scheer #TrudeauMustGo #GreatAwakeningCanada https://t.co/cWQcMypEuH",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "And, you fuckers want to protest to get your hair done and to buy shitty, overpriced capitalist bullshit. Look at this baby! You aren’t pro-life if you can look at him and say, “Naw, my pedicure is more important than his life.” #COVID19 #StayAtHome https://t.co/nYFrZ1V84L",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "@GovMikeHuckabee I beg of you to please take you and your family out and about with all these protesters.....stop spewing and and actually do what you say.....travel on down to @georgia Getty up partner or whatever they say just get there and show your face #COVID19 https://t.co/32cLyH9tvX",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "gassings, death camps using crematoriums, 11 million displaced, barrel bombs, etc. and perhaps you can’t end entirely the war. However, you can end the atrocities. You can hold the people accountable. It will be bad to know US planes flew over death camps and m nothing. #COVID19",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "@vertumotors @dailytelegraph @thetimes @LogisticsBCA has not stopped spreading #COVID19 \nThey are delivering cars with #coronavirusuk \n\nAll surfaces carry #coronavirus\n\n#cars are #COVID #weapons #bca",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "We all learn everything with time. It's just about the efforts. Let us know what you have learnt in this quarantine. #JREvents\n#JREIC\n\n#covid19 #coronavirus #fightagainstcovid #Quarantine #extendedlockdown #lockdown2 https://t.co/ruymilHEKK",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "the therapist is standing in a room of unused ventilators as he says: \"all this talk you hear on the news about governors and everybody else having shortages of ventilators, it's not true.\" \n#COVID19",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "The ⁦@HiltonHotels⁩ tonight, as seen from my building’s back courtyard. Had to clamber on to a ledge so I could just barely make out the SF beneath the ❤️. #SanFrancisco #CoronavirusPandemic #AloneTogether #COVID19 #wemissyou, #CityOfHeroes! https://t.co/ZfLxQgc8Wi",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "These American protesters wearing hazmat suits, masks and shields, claiming #COVID19 is a hoax is dumber than 100, 000 @realDonaldTrump clones combined..",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Surely #COVID19 #testers should be wearing a #visor as well as glasses/goggles &amp; mask. Footage on @BBCBreakfast of a young, soldier lad wearing only a mask &amp; flimsy specs. He was about 6\" away from suspected covid +ve person. Give the laddie a visor please!! Reduce viral load",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "OH....  NO 🙃❗❗ The lives of some 270 hundred #elephants🐘🐘🐘are hanging⛓️ in the balance⚖️due to the #COVID-19 outbreak. \n\n#Botswana 🌍: Reinstate #Elephant #Hunting Ban During #COVID19 Pandemic https://t.co/hKl82PotPP \n@XR_SouthAfrica \n@ExtinctionR  @xrgambia",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Briliant piece on coping with #COVID19 in Wuhan.. And, (as an aside) a quote to remember,\n\"Misfortune tests the sincerity of friendship.” https://t.co/6Vo46V8RtH",
+			"annotation": "POS",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "@noid_p @Banks429 @KeishaBottoms In my county, #Covid19 is killing 10% of those testing positive. Most of them were not \"already dying.\" \nEven for those few who were, to deliberately hasten the death of another human being is not expedience - it is murder.",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Useful Idiots Podcast latest episode, featuring Senator @ninaturner (who's running for President). Buckle up and enjoy this great episode if you need your spirits lifted in any way, shape, or form! Yay @kthalps &amp; @mtaibbi. https://t.co/syIkVofITp #ninaturner2024 #notmeus #COVID19",
+			"annotation": "POS",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Death toll due to #COVID19 mounted to 06 in #JammuAndKashmir (05 #Kashmir, 01 #Jammu), as an elderly man from Tangmarg #Baramulla dies of #coronavirus in #Srinagar hospital today. The patient was admitted in the hospital on 13 April this month .. @news24tvchannel",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Southern California Sikhs ‘a godsend’ for those in need during the coronavirus pandemic \nScores of Sikh community volunteers at Riverside Sikh Temple in Jurupa Valley have been distributing about 1,400 meals daily for the past four weeks. #COVID19\n\nhttps://t.co/fZ7cz8MLIC",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Five of the countries most at risk from famine in 2020 https://t.co/JrmyFiiPJw #covid19",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "#COVID19 and it's impact on Indian #Securities.  Our new blog is out now! \nRead blog on https://t.co/ilRrtWj2FE\nAuthor: Amarjeet Tiwari\nAmarjeet.tiwari@carerisksolutions.com\n#indianeconomy #finance #covidimpact #oilindustry #hydrocarbons #petroleum #riskmanagement #banking https://t.co/Q3xDEyuQOt",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "@judgejosie “Pure Baloney”: Zoologist Debunks #Trump s #COVID19 Origin Theory, Explains Animal-Human Transmission https://t.co/n6uSOQqnqt",
+			"annotation": "NEU",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "“How to fudge #COVID19 figures”— a subject for a webinar by #WestBengal govt? https://t.co/rIMpKAAUtS",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "#Covid19 Live Update: \n#Bulgaria +46 cases,  +4 recovered\n#ElSalvador +13 cases,  +3 recovered\n#Hungary +60 cases,  +12 deaths,  +57 recovered\n#Kyrgyzstan +9 cases,  +23 recovered\n#Tanzania +15 cases, \n#US +526 cases,  +24 deaths,",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "@AdhikariMaha Sir now PAIN due to #COVID19 , TODAY 5Yrs of #Earthquake &amp; 4Yrs of OUR COMPLAINT-1 to @RastraBank . Please persecute @CitizensBankIn1 ,(giving Nepali #Consumers 9Yrs of PAIN) as per COMPLAINT 1 &amp; 2(Doc 01/03-4pg) @Annapurna_Post @RameshLeads @Himalayabiraj @dmlinp https://t.co/lNhRW23SH6 https://t.co/DiPtQwnBjk",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "#COVID19 whoever takes the corona vaccine is dumb dumb lol they finna insert microchips inside of u and control u by using the new iphone or sum shi lol have fun ❤️🍪",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "@MikeAda69588676 @FreshWhittaker @GmamaBear_ @miss_simone247 @Penguin_SYLS @misshellca @medwoman1 @BrokeRoca @pookietooth @missjulialee @TonyTatano @TrumpSugar @HouseOfJames2 @PoliticsPot @camp_terrence @PersevereEver @tifinblm @SpaceForceBravo @ic_lib @newsjunky2 @akvawe66 @Rose52413 @antiquelove1234 @GoofyGary7 @RushvilleRockit @DogloverMmat65 @Dennisabm @everything_says @cloudzzz757 @JohnnyNowhere @JayCory7 @gaybunnypup @LisaNicholo @Markholiday13 @flyjibs @Michell45129550 @Vixen95Trish @me1047 @imvala @VP @realDonaldTrump @realTuckFrumper @realDonaldTrFan @HKrassenstein @HillReporter @mcspocky @phil_mckraken @GOP Trump circus doing everything possible to identify drugs as #COVID19 cures bcs otherwise stuck with a vaccine. Antivaxers a large group in trumpville.",
+			"annotation": "NEU",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "#MyCityNTL page-04 #amarujala #Nainital #Haldwani \n#Corona #COVID19 https://t.co/GKI1C37VtV",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "#Whattodo in #Lockdown2 ? https://t.co/bbROaGuSXg . #Read! Have a fresh mind. #SayAware of the latest developments. #Freebooks #StaySafe . #StayAwareStaySafe  #nutrafy #nutrafywellness #covid19 #coronavirus #thingstodo #whattodo #read #lockdown2 #Audible https://t.co/YUQNLT5wrT",
+			"annotation": "POS",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "#JammuAndKashmir death toll rises to 6 as 72-year-old man, who was Positive with #Covid19, Died at SKIMS Medical College hospital.",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "@TimesNow @TelanganaCMO @KTRTRS @TelanganaDGP @TSMAUDOnline @CommissionrGHMC @cpcybd @hydcitypolice @RachakondaCop\n\nSir, MHA allows reopening of all shops across the country with certain conditions.\n\nAre these relaxations not applicable to #Telangana state (excluding #COVID19 hot spots)?",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "This Too Shall Pass...#COVID19 Can't Stop Us...Only Pause Us. We Will Play Again... \n#TJLoveThoughts",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "To our Caregivers fighting #COVID19 around the world - #ThankYou to all of you! https://t.co/bmwggLgJ3i",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Do not believe the liberal #FakeNewsMedia regarding #Hydroxychloroquine &amp; #ZPak not being effective. Most doctors in #NYC are prescribing hydroxychloriquine and are satisfied with results of helping patients with #Covid19. @MarkSimoneNY @realDonaldTrump @VP https://t.co/i21JffDKdl",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Hi @swedishPM the world urgently needs a vaccine against #COVID19 — but funds are running out. Will you step up support to @CEPIvaccines and @gavi to help eliminate #coronavirus worldwide?",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Today, I wrote a Love Letter to Healthcare Workers https://t.co/qRL1bcIBXT #covid19 #healthcareworkers #alonetogether #caregiving",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Not to sound like a Karen but wow the park and playground in Box Hill gardens has like 200 people in it! I thought @VictoriaPolice monitored that sort of stuff during #COVID19",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "STAY THE FUCK HOME. THE SOONER THIS SHIT IS OVER THE SOONER WE CAN BE OUT DOING SOME FUCK SHIT. SOME OF US NEED TO BE OUT OF OUR DAM HOUSE ALREADY. #StayAtHome #COVID19 https://t.co/xpHw18GhA7",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Thanks to @Cristiano @Ibra_official @lewy_official @JoshuaKimmich @leongoretzka_ for your initiatives to fight #COVID19 and all supporters who donated so far! Together #WeWillWin against the virus! ⚽ Who is next to step up? @FIFAcom @UEFA #GlobalCitizen",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "@thouse_opinions #RIP With over 50,000 people dead in US so far, why is there no public access website with a list of the names? #coronavirus #covid19 https://t.co/pSJltQgm2b",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Bizarre on so many levels. Killing off their voter base..... #BorisJohnson &amp; Conservative support is from the elderly!  #Brexit voters.\n\n#coronavirus #covid19 #r4Today #BBCr4Today https://t.co/Yw0Bp52HWM",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "#AnthonyFauci has blood on his hands. #FauciTheFraud #COVID19 #Covid_19 #COVIDIOT #CoronaUpdate #Oklahoma @GovStitt @TalkRadio1170 @newson6wxguy @KRMGtulsa @KarenLarsenKJRH https://t.co/CDjIdypWGh",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": ".@JustinTrudeau @KarinaGould — viral outbreaks anywhere are a threat to people everywhere. Will Canada pledge new funds to @Gavi to deliver vaccines and help protect the poorest countries from #COVID19 and other deadly diseases? We can only #DefeatDiseaseTogether.",
+			"annotation": "NEU",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Our Nation Prayer Healing Viras Was A Keep Our Staff Medical Hospitality For better Care we Community Philippines We as one For shares We Thank You Pray Christ in Since COVID 19 Hope Thank You To Forntliners #LigatsPilipinas #Salamat #COVID19 #Forntliners",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Frontliners at roadblocks should drink eight glasses of water daily  \nhttps://t.co/2xH79rJr1E\n\n#covid19\n#movementcontrolorder \n#ramadankareem https://t.co/9Oy9GQ8T0Q",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Thor Dark World X-Men Dark Phoenix\nAmazing Spiderman\nIron Man 2\n\nLots of @MarvelStudios MCU movies to record &amp; watch on @FOXMoviesPH during this #COVID19 extended quarantine till May 15\n\nBut I don't feel like watching them\nI prefer down-to-earth movies than campy superhero movies",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Anchoring #cognitive_bias occurs when an individual depends too heavily on an initial piece of information offered.  Now that we know more about #COVID19 (&amp; its medical/societal consequences), mitigation of #anchoring requires our joint personal, collective, &amp; societal attempts. https://t.co/dYbEaEDdWz",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "You seriously couldn’t make this stuff up if you tried. 🤦‍♂️🤦‍♂️🤦‍♂️ #DonaldTrump #TrumpLiesAmericansDie #COVID19 #coronavirus #bleach - Revealed: leader of group peddling bleach as coronavirus 'cure' wrote to Trump this week https://t.co/HKmEeYH2Vx",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "PRAYER BULLETING FOR COVID-19. \npray that: All strongmen against our nation will be visited by GOD to do the right. GOD will take over all the affairs of this nation. #Covid_19 #COVID19 #Europe #African #Asia #NorthAmerica #SouthAmerica #others",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Infographic on #COVID19 status of #Odisha upto 24th April, 2020. https://t.co/PS2U5ADRw7",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Two patients who recovered from #COVID19 will donate their plasma at the BMCRI. \n#PlasmaTherapy #Bengaluru \n\nhttps://t.co/gjTkb3ggeo",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "@Sharmanamika exactly! Pretending won't help.. I understand to open economy if we have a vaccination or treatment for #Covid19 . But we don't, a very risky move.",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "🤣😂 🐡🚶‍♂️🚶‍♂️🚶‍♂️\nNow we walking fish, I can't #done\n#walkmyfish #Espana #COVID19\n#CoronaVirusUpdate\nCNN: To get around stay-at-home orders, Spaniards have been walking some unusual 'pets'.\nhttps://t.co/RIQb7edzUd\n\nvia @GoogleNews",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "https://t.co/DWxZ0kHlQF is firmly committed to making #eCommerce accessible for all #SriLankan businesses, big or small. Sign up and set up your own eCommerce #website on https://t.co/DWxZ0kHlQF within just minutes.  \n#ownwebsite #Coronavirus #COVID19 #covidoutbreak https://t.co/mUstgLITZY",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Wow: a hot take worthy of The arsing Canary at their most festering. I can't imagine for a second that you're a doctor. \nSilence then, you dimwitted sex case.\n\n#COVID19 #stayhome #savelives #shutup",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "#Covid_19 : The death toll due to #coronavirus in Indore city of #MadhyaPradesh, one of the #COVID19 hotspots in the country, has reached 57 with two more persons succumbing to the infection, an official said. #CoronaVirusUpdate #CoronavirusPandemic  https://t.co/hbqnaCOdp7",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "⛽ @exxonmobil producing hand sanitizer to donate to health workers and first responders #CoronaWorld #CoronaVirus #COVID19\nhttps://t.co/57t4sdhLMP",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "@realDonaldTrump START FIRST WITH @WhiteHouse AND OPEN IT BACK UP FOR TOURS. LEAD BY EXAMPLE FOR THE #AMERICAN PEOPLE. I nominate @MELANIATRUMP @KarenPence @IvankaTrump and @DonaldJTrumpJr to volunteer as the first tour guides. #GetBackToWork #covid19 @CDCgov @Mike_Pence #OpenUpThePeoplesHouse https://t.co/SVYVHuouym",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "GET LIVE #COVID19 UPDATES. THE FASTEST SOURCE AVAILABLE. THESE ARE UPDATED QUICKER THAN TV NEWS. UPDATED HOURLY 24/7 PLUS AN INTERACTIVE MAP.\nGO TO https://t.co/d6WGpeqs7A\n https://t.co/5gesW5jkMc 97\n#FridayThoughts",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Gov Cuomo said yesterday on national tv that antibody tests showed a 14% infection rate &amp; death rate is .5% in NY. In other states there has been similar results. WHY ARE WE STILL IN LOCKDOWN?! 😠 #CoronavirusPandemic #COVID19 #novelcoronavirus #pandemic #coronavirus",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "\"I forgive you everything, without exception, if you will only promise to reappear.” \nAn ode to New York City. #NewYork #NYC #COVID19 #coronavirus https://t.co/9zbGa2pvEN",
+			"annotation": "POS",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Support our mission to provide hot meals to homeless in Los Angeles County. #COVID19 Relief  https://t.co/DiEbVq81zB https://t.co/HR9JbtPIig",
+			"annotation": "POS",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "As at 24th April, Nigeria has recorded #COVID19 confirmed cases in 27 states and the Federal Capital Territory \nIn the last 24 hours,number of new cases increased by 114. Number of deaths increased by 1\n\n5 cases previously recorded in Lagos, are now recorded as Ogun state cases",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Remote Courts initiative. #COVID19 #DigitalTransformation https://t.co/eWfDYi6Wco",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "A 98-year-old soul contributes with her kindness towards humanity. \n#PositiveNewsCorner #Coronavirus #Covid19 https://t.co/z7cGciHDSZ",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": ".@KenyanTraffic : Have you carried your hand sanitizer? WEAR a mask when visiting public places. Stay home. Social distance/self isolation. Avoid gatherings. #COVID19 is real. FYI: DO NOT DRINK OR INJECT YOURSELF WITH DISINFECTANT...#StaySafe \n— RustyCase™ (@Rustycase) April 25,",
+			"annotation": "NEU",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Good read #COVID19 #antibodytesting https://t.co/cD74QJ4OUq",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Pick of the Day https://t.co/W8Wkjq1g0z\n#DonaldTrump #disinfectants #Sunlight #health #medicine #UnitedStates #NovelCoronavirus #COVID19 #COVID19USA #CoronaVirusOutbreak #CoronaVirus #COVID_19 #COVID19outbreak #COVID19Pandemic #CoronavirusPandemic https://t.co/1vWUcneaJC",
+			"annotation": "POS",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "FLIPPING ALL NIGHT AND DAY✅💕 COME FLIP WIT DA PRINCESS OFC😌💋  #CovidRelief #Cashappblessing #cashappflip #CashAppFriday #cashappmethod #COVID19 #freemoney #support #TogetherWeCan #support #community #badbitch #princess #beauty https://t.co/9Z2LYHtCsx",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Oh dear Lord, NO but it is happening because of Trump's irresponsibility.  #VoteTrumpOut #VoteThemAllOut2020 #CoronaVirusUpdate #COVID19 https://t.co/KVj0U5x3St",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Young and middle-aged people, barely sick with #COVID19 , are dying from strokes. Doctors sound alarm about patients in their 30s and 40s left debilitated or dead. Some didn’t even know they were infected.\nhttps://t.co/6VspPeHNWQ",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "#COVID19 has given us ample free time. An idle mind is devil’s workshop, so we should keep ourselves busy. Best engagement for mind is to read the Holy Scriptures, listen to lectures of devotees, so we come out of this lockdown as a better spiritually enlightened person. HK",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Global Tenders / RFP For Corona Virus Supplies To Fight COVID-19 Fetch more&gt;&gt;&gt;https://t.co/NVZ1I5AH6E\n#breathing #CoronaPandemic #CoronaVirus #Coronavirus #cough #COVID19 #COVID-19 #NovelCorona #Nucleicacid #pulmonary #Quininesulfate #Ribonucle #RNA #VirusPandemic #CoronaUpdate https://t.co/PtD8g1OeK6",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "That wasn't sarcasm but okay...and if you have to call a health line to ask for guidance on if disinfectant injections are good for you? There's something wrong with you. #covid19 #covid19usa",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "The closure of liquor shops in Sri Lanka until further notice would enhance demand for illegally brewed liquor &amp; harm මතට තිත campaign. The alcohol sale during the #COVID19 presents us the possibility of a total prohibition of alcohol. Will it affect the Government revenue #lka ? https://t.co/dCyNwqzcWC",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Keep an eye out for my most recent interview coming out, until then, here’s a little snippet: #bitcoin #coinsource #cryptocurrencies #COVID19 https://t.co/xukrfUUVAl",
+			"annotation": "POS",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "#COVID19 : Struggling to run your business and stay sane while sharing a space with your partner?  \nThese habits can help boost success and productivity.\n\n#entrepreneurship\n\nhttps://t.co/m4h6PRbAW8 https://t.co/dVS3Ps1y3X",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "LIFE Under Lockdown | Panglao Bohol | Philippines https://t.co/CtoA5pPQIC via @YouTube #Islandlife #coronavirusdeutschland #Covid_19 #COVID19 #virus #island #sea #whitesand #ocean #naturephotography #Philippines #pinas #panglao #bohol #water",
+			"annotation": "NEU",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Here’s what we know about the drug, the trial and the similarities between critically ill patients of sepsis and #COVID19. @SaakhiChadha https://t.co/YaIOzuENVY",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Make sure you don't leave it to the last minute to fill your prescriptions at the pharmacy. Call ahead if you're worried they might be out of stock! 💊 \n#COVID19 #COVID19Kindness",
+			"annotation": "POS",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Many people are turning to #livestreaming  to try to gain some sort of income during this #COVID19  pandemic, but is it a viable source of income? Let's talk about it. https://t.co/hqlTDbLZRM \n#twitchstreamer #mixerstreamer #youtubegaming",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "via @NYTimes what a horrible idea #COVID19 #LeadershipMatters ⁦@NYGovCuomo⁩  https://t.co/1NsTz25SoB",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "@QuickTake 🚨 @NYUgrossman's #Research shows that MOST #CORONAVIRUS / #COVID19 cases in New York City can be Traced Back to #Europe, NOT to #China \nArticle\n\n🖥️ https://t.co/1qiAK67LcN\n\nWebsite\n\n🖥️ https://t.co/JBeAIAS5b3\n\n@CBSNews @HubBucket\n\n@ProsumerSoft @CDCgov https://t.co/arfySEZruB",
+			"annotation": "NEU",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "-win for sea animals and humans, a scuba diving group is turning plastic water bottles that once polluted oceans into face masks for people to protect themselves against the #coronavirus. #COVID19 https://t.co/pINGGNnAJc",
+			"annotation": "POS",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "#Update: #VarunDhawan contributes to daily wage workers of the entertainment industry [#FWICE]... #AshokePandit took to #Twitter to thank #Varun for his contribution yesterday, on his birthday. \n#COVID19Pandemic #CoronaVirus #Covid_19 #COVID19 #IndiaFightsCorona",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Whilst we were praising Akufo Addo and slamming Buhari. Actions NOT words. #COVID19 🇬🇭🇳🇬 https://t.co/ksjKETZuCT",
+			"annotation": "POS",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Don't buy any new cars #ProtestLockdown  #COVID19 #CapitalismIdiots #Crash2020",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "#UN #HumanRights Chief Michelle Bachelet is alarmed at the hostile environment some political leaders have created towards the media: the free flow of information is vital, the public has the right to know about #COVID19. \nLearn more: https://t.co/zhNH9PPHEw",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Building a #startup can take a lot of time and #investment. Disputes or non-payments can hold your #project and products from progress. Court and Judge will risk your #business and #company. Don't risk it any further! Visit : https://t.co/zaXOqZRmrQ\n#TruthAwaitingJustice #covid19 https://t.co/E4MCmGInsd",
+			"annotation": "POS",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "'The New Owner of the World' by Pastor Apollo C. Quiboloy https://t.co/4U50UPtFCs via @PastorACQ #ApolloQuiboloy #KingdomofJesusChrist #COVID19 #StayHome #coronavirus #lockdown",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "'We nursing home staff are being sent to war with no armour in the coronavirus battle' #COVID19 the battle Nursing Home Staff are fighting  https://t.co/rByjy07Omp",
+			"annotation": "POS",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Q-Con '20 | International Leo Conference ~ Catalyst for Change. \nLIVE on Facebook - https://t.co/kjGLzO5e6D\n\n#LeoDistrict306A2 #PiliyandalaLeos #SLTCLEOS #KalubowilaLeos #LCofGuwahatiCosmopolitan #LCofUniversityofZimbabwe\n#SriLanka #India #Zimbabwe #Botswana #Covid19 #QCon20 https://t.co/wZgawSsPX9",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Voice mssg goes viral,of Woman,70yr old #Abj based grandma, #SalmaAhmed,accusing @NCDCgov &amp; @KanostateNg of negligence,for d demise of her son-in-law frm #Covid19. Worried on d fate of rest fmly in Kano. Appeals for public help. @GovUmarGanduje @MBuhari @DrAhmedLawan @femigbaja https://t.co/ET6ML98fot",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Of course it was. Media that took it seriously were either very gullible or were weaponizing #COVID19 statements.  \n#2020election https://t.co/RZ7Kgw5lnz",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "With 11 new imported cases reported on April 24, total #COVID19 cases from abroad in the #Chinese mainland reached 1,629.   \n🇷🇺Russia: 646\n🇬🇧UK: 310\n🇺🇸USA: 166\n🇫🇷France: 88\n🇪🇸Spain: 87\n🇮🇹Italy: 55 https://t.co/1osboKqJTP",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "@MichaelCoudrey @justonepatriot Ohhhhhh, that's why we have #EmptyHospitals and #DancingNurses...  \nGo outside I'm the sunlight and the 'virus' is dead before you get to the hospital \n🤣🤣😋😂😂🤣😂 \n\n#FilmYourHospital 😉\n\nExposing the #COVID19 Great Global #Scamdemic\n\nhttps://t.co/iXvIV4aDlV",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Insightful blog from @hamarquette that underlines that #covid19 responses need to be politically informed and grounded in the local context: https://t.co/IqpivL5lUZ",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "R1 #pathologist night shift in the battlefied against #covid19. From labs to wards. Finally a break a dinner at midnight with my IM team. #redeployment #covid19Canada #cavabienaller #Battlefield #covexit https://t.co/vhx0Df9lkS",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Spread and dynamics of the COVID-19 epidemic in Italy: Effects of emergency containment measures https://t.co/UyTLmbFrun\n#COVID19 https://t.co/iFoJBLCTds",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Dripping with April by @LazarSamantha https://t.co/7iIRDbGvQ8 #Poetry #Spring #NationalPoetryMonth #Quarantine #COVID19 #COVID #Coronavirus #CoronavirusQuarantine #NaPoMo",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "And in the profiteers alert corner, France allows farmers to spread sludge (shit) right up to people's home. Strange #COVID19 emergency measure. https://t.co/Ny0AyzvMav",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "scary😳🙈✨ \n#meme #funny #jokes #tiktok #memesdaily #lol #cringeworthy #scary #COVID19 https://t.co/3tMTuq5GmZ",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Continue practicing everyday preventive actions.  \n#GangotreeSweets #Precautions #Guidelines #coronavirus #quarantineandchill #QuarantineLearning #QuarantineActivities #CovidOutbreak #COVID19 #StayAlert #StayHome #StaySafe https://t.co/Nl1MZWqP91",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "An #Estonian solution on how to #trace #covid19 while respecting #privacy!  #tracking #eestonia https://t.co/DUmTg3EpM7",
+			"annotation": "POS",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Trump got his feelings hurt man so fuck this dude go drink some #disinfectant  and get back to normal bitch #COVID19 #TrumpIsALaughingStock",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "...I think I'm going to join @UKLabour #coronacrisis #coronavirus #COVID19",
+			"annotation": "NEU",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "I just found out Tom Brady is in the buccaneers...the corona virus became the rock I was living underneath since march. #COVID19 #football #TomBrady #RobGronkowski",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Do your own research #COVID19 #Plandemic2020 https://t.co/hpuuoeaHVv",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Stay tuned to our website for special #COVID19 news and the impact on NYC and the tech industry https://t.co/bUQoiT1lsQ #technologynews #nyclocal #nyclockdown #iot #bigdata #RealEstate #technologies https://t.co/gZNM8Yg0OL",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "As Allegations of Mistreatment and Unsafe Conditions Mount, Amnesty International Declares It Stands With #Amazon Workers..#Covid19  https://t.co/HDvcoFYntD",
+			"annotation": "POS",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "@DefenseBaron @malinablue It’s ridiculous that Trump can just force himself on the cadets at #WestPoint for some stupid photo op because we all know Trump’s commencement address will suck. Oh the timing! Terrible #COVID19 hot zone!",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Protect the ones around you by taking care of your #health 🙌 \nFollow these general measures to boost your immunity power and reduce the risk of being infected by #COVID19.\n\n#IndiaFightsCorona @moayush @MoHFW_INDIA @MinistryWCD https://t.co/q2Sct1ya2K",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Who doesn‘t want to be embraced? Who doesn‘t want to be called by name by someone smiling with delight? (@perichoresismin ) @wmpaulyoung #AmazonWishList #BLEACH #COVID19 #daddy #FridaysForFuture #Germany #HomeOffice #hope #Iran #Jets #Jesus #lol #MAGA #people #Survivor https://t.co/3LFLz3WiLk",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "A dog in Suduwella, Ja-Ela had tested positive for COVID-19.  This is likely to be the first of its kind in the country.\n\n#COVID19 #coronavirus #CoronavirusOutbreak #COVID19SL #COVID19LK #SriLanka #lka",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Combat Covid with priceless ideas from Healthcare Leaders. We're going LIVE - grab your coffee @ join us. \nhttps://t.co/Xh9th8VvvJ\n#covid19 #voiceofhealthcare #Covidunity #Coronaawareness #CoronaOutbreak #vohglobal #healthcare2020 #paneldiscussion #healthcareprofessionals",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "@davidmweissman Why you shocked exactly? Can you finally see what MANY people could see a LONG time ago?! Good morning and welcome to reality #Covid_19 #COVID19 #coronavirus",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Cool photos showing just how much #AirQuality has improved in major cities around the globe due to the #coronavirus #lockdown  #AirPollution #breathe #lungs #smog #enddieselnow #BreatheEasier #climatecrisis #COVID19  https://t.co/uP9VMXJ33K",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "An exciting weekend as so many innovators are helping to #HacktheCrisis!#EUvsVirus #COVID19 https://t.co/FAdMnaeu3q",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "New blog post: https://t.co/m25h80QYvb #COVID19",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "SARS-CoV-2 testing: a roundup of novel PCR developments #COVID19outbreak #COVID2019 #COVID19 #bioprocessing #biotech \nVisit : https://t.co/hpRkKjH2tJ\nhttps://t.co/nTvi7u6xQu",
+			"annotation": "POS",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Our first food distribution by the #VeilomaniFoodBank at Nabua Muslim League Community was a success. \n#TeamFiji #Fiji #FijianConsumerRights #FCCC #COVID19 #Veilomani https://t.co/S8gX0DxqdS",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Podcasts: \nTax Justice Network @TaxJusticeNet\nTaxcast for April 2020\nhttps://t.co/9RIX6Zrvu6\n\nPavlina Tcherneva @ptcherneva\nBuilding Resilience – The Case For A Job Guarantee\nhttps://t.co/vjqT1SgQjJ\n\n#corona #COVID19 #EconomicCrisis #MMT #TaxTheRich #bailouts #tax #economics https://t.co/w505BMvBnb",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "#China Approves Third #COVID19 Vaccine for Second Phase of Clinical Trials https://t.co/YXMSxTWC1Z",
+			"annotation": "POS",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "#Travis County, #Texas #COVID19 case counts and death tolls - updated with numbers on 4/24. #austintexas #ATX https://t.co/Zm9vhoBFW8",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "● NEWS ● #projectcensored on #coronavirus as #distraction ☞ Episode 79 – The News Stories Buried by #COVID19 and Terrorism with Dr. Ashley Larson - Along The Line Podcast https://t.co/1luwtzrlaB",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "4)  Video of the press conference\n52 min. Englisch, subtitles available\nhttps://t.co/kRQLpmyhIP\n#COVID19 #COVIDー19 https://t.co/4GEK04Wn5S",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "BREAKING: More antibody tests in Miami proving how not very lethal #COVID19 is. https://t.co/RG2r6yjnzf",
+			"annotation": "POS",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "@Ben__Rickert We STRENGTHEN OUR IMMUNE SYSTEM  ... NOT JUST #TESTING FOR COVID-19 !!! Vitamin D and Sunlight -boost our #IMMUNE SYSTEM to fight #COVID19 #CORONAVIRUS per Immunologist Dr. SHIVA https://t.co/n8tSjIX7E9\n\nNOT VACCINE that doesn't work on #RNA-VIRUSES  !!!",
+			"annotation": "POS",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Defeat the common enemy.. Achieve the common goal..\nUnity is your best ally and,\nBigotry your worst enemy !\n\n#Covid19 #Corona #sonnetattempt #poem #എന്തരോന്തൊ #Unity https://t.co/OsEXjkaaUc",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Only standalone shops are allowed to open.  Shops in a market complex will remain closed.\n\n#COVID19 https://t.co/7oqzA9issd",
+			"annotation": "NEU",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "DT, 1&amp;1, O2 and Vodafone: COVID-19 impact in Germany...interesting report from MedUX...#covid19, #DT, #O2, #telefonica, #vodafone, #Germany, #1and1, #medux, #customerexpereince, #qos, #connectivity, #broadband, #deutschetelekom https://t.co/6PiQYMESoh",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": ".@USNavy #USSKidd #destroyer #navy #coronavirus #COVID19 #USSTheodoreRoosevelt:: 18 Sailors of USS Kidd Destroyer Found Coronavirus-Positive, Navy Suspects More  https://t.co/OtJvqnZeXV https://t.co/7Ppjo1vjEW",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Its interesting that so many folks I know think that once the #COVID19 crisis is over, we'll go back and pick up our lives just where we left off. I suspect the same folks likely think that the US will go back to being how it was, right after Trump leaves office #pathdependence",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "@UnsignedChat Us and @aka_natrat @alyasa_gk @IAMWARFACE @minus_cube @The1Shez @wyattpauley for the #CovAID2020 #DesolateDays song to raise money for those affected by #COVID19  \nHere it is\n\nhttps://t.co/wDLwnr5Hux",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "John (@realJohnJericho) &amp; I, light a flame for our #world! We light a flame 🔥 for all our brothers &amp; sisters 🌍. Faith 🙏🤲, Hope 🕊️, Love ❤️, &amp; Peace ☮️.  How's everybody? Feel free to check in. #StayAtHome #WeAreAllInThisTogether #WeAreAllOne #coronavirus #COVID19 #pandemic https://t.co/FaBL2GnbCg",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "#Tanzania has a #Trumpian president. He has been calling for prayer gatherings for the prevention &amp; cure of #Covid19.   \nThis is what happens when #science &amp; scientists are relegated in public decision &amp; policy making. https://t.co/s7xr1gi35F",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "#CoronavirusUpdate | 70-year-old man from Tangmarg in Jammu and Kashmir dies; Union territory's death toll reaches six, say officials \n#COVID19 #coronaupdatesindia #Coronavirus https://t.co/DBjetaofBl",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Anyone else’s #covid19 cough taking a long time to disappear? https://t.co/A3EcSHD3Xi",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "UPDATE #COVDATE \nState-wise footprint of #COVID19.\n\nThe wide gap between most affected State and other States shows that there is a factor in Maharashtra that has been successfully contained in other States.\n\nAny guesses on what that factor is?\n\nhttps://t.co/c0pWaHYsCr https://t.co/rrB1LJwFtQ",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "The coronavirus pandemic has certainly stunned our generation.  As recommended by WHO and the CDC, enter to find tips that help prevent the spread of COVID-19. \nhttps://t.co/BIR81XuMFM\n\n#COVID19 #coronavirus #pandemic #socialdistancing #stayhome #selfisolation #quarantine https://t.co/ejHOPwtjjO",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Wonderful session on Enabling Agile Manifesto in #RemoteAgility by #Anusuya Ended up with message #StayConnected #StayAware #StaySafe \n#Meetup #Xebia #Agile #Transformation #remoteworking #Covid19 #VirtualMeetup",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "@giles2905 @CharlieHicks90 @Rudy48053087 @kid_alabama @VeuveK @JamessReality @cathyby @quark15 @Jones85231187 @Holdstk @07glen @David_Vaporium @NielsOckelmann @butlerrichard2 @MattAdkin @BeowulfSchaefer @Swen28002 @thegrimbarian @Jag11814459 @chrisgregson123 @MattFingersArni @Chris_not_a_bot @Charlie_45uk @IanGianni @Davidmetroland @vpleasantries @WasOnceLoved @mindedmusically @dw2essex @JohnRya13591294 @lisamariahoenig @brianbloop2 @european_kate @resiguru @davidjamesrobe4 @MarkInNorthWest @CharithRuckmal @f505eb72b9cd493 @GentlemanGeorge @castradeva @d5_rss @Ciolfilicious1 @BrexitGone @Begentle50 @cretin_the @CONSMILITIA @obsessedmuch1 @geor97 @Lilyladles @bernerlap No, I’ve seen the polls. The GE result &amp; #COVID19 catastrophe have changed the narrative. But we are still in a sweet spot: still in transition; still with frictionless trade. People think if this is what Leaving feels like, then it’s fine with them.\n\nThe reality is yet to bite.",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "@HbAlpaca Yes eradication of #COVID19 could take 2 years.. we should be aiming for 'control' of the virus and lifting resistrictions",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "@ramyz986 @UmarMv @niyaf @Faisalnaifaru Actually no. Not possible by the UV ray spectrum in sunlight (as far as current studies). UV spectrum must be modified to kill #COVID19",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "As we are adapting to #COVID19 quarantine measures, sharing household chores among partners becomes ever more important.  \n@unwomenmoldova https://t.co/xCHYJesvfy",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "\"CYBER SECURITY BEST PRACTICES\" - WORK FROM HOME  \nHome Network Security\n\n#CyberSecurity #networksecurity  #WorkFromHome #COVID19 #COVID19Lockdown  #StaySafe #cyberdefense #Stravacyberlabs https://t.co/HxTbeLpmrp",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Trump’s Temporary Halt to Immigration is Part of Broader Plan, Stephen Miller Says: “The first and most important thing is to turn off the faucet of new immigrant labor — mission accomplished,’’ \n#immigrationpolicy #newimmigration #covid19\nhttps://t.co/epbjbPnfhe https://t.co/gYjXN6dqrI",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Hope In The Worldwide Storm! Full video -&gt; ​https://t.co/cwChSPBrNO​ ​#30days30videos​ ​#MessageToChristians​ #MusicLov3rz\n#WW ​#Philippeans1v12​ ​#CoronaVirus​ ​#COVID19​ ​https://t.co/LnzMq8LN4O\n-",
+			"annotation": "POS",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "#FactCheck 🔎 Was a man in Texas forcibly vaccinated against #COVID19? No ❌  https://t.co/gZKG3PtxJC",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "MHA clarifies on midnight order on sale of liquor, tobacco, cigarettes and on hotspots/containment zones; read full clarification \n@HMOIndia #MHA #Coronavirus #CoronavirusLockdown #COVID19 #LiquorBan #AlcoholSale #CigrettesBan #ECommerce @MoHFW_INDIA\n\nhttps://t.co/9Ko4TReA5W",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "#ICYMI Chinese student donates masks to locals, police, hospitals in UK #COVID19 🇨🇳🇬🇧 https://t.co/HpkafunCK3",
+			"annotation": "POS",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Chinese suppliers of faulty rapid kits say they are ready to cooperate with Indian agencies \n#COVID19 #Coronavirus \n\nhttps://t.co/kuCiWJgWMO https://t.co/OLLJ5H0W82",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "#Trump signs $484-billion #coronavirus relief bill \n#COVID19 \n\nhttps://t.co/4vi451ug2M https://t.co/Qko308VuJ0",
+			"annotation": "POS",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Could genetics play a role in the severity of COVID-19?  https://t.co/uRhBFp2whG #COVID19 #COV_19 #coronavirus #Sundaymorning #23andme #genetics",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "#US #COVID19 response is like 3rd world. https://t.co/zlpf0YvKFc",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Young people with coronavirus are dying from strokes - The Washington Post #COVID19  https://t.co/ahMsBb4LCS",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "@washingtonpost Papers show that #covid19 started in the US since last November.",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "@ReopenNY @NYGovCuomo ... #COVID19 in New York, not because children are being beaten to death in Texas (the state from which the data you are \"sharing\" is from), nor because you are all that concerned that children are dying from it in New York. If children's lives meant all that much to you, you ...",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Glad to see the narrative beginning to change, despite huge resistance still... #COVID #COVID19 https://t.co/CbVgcM0JBl",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Remembering some of the 50K Americans killed by #COVID19  https://t.co/mqtPbRElZ9 #WeRemember",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Delhi: Union Group of Ministers (GoM) meeting over #COVID19 underway at Health Ministry. https://t.co/20QxnD00c9",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "More Podcasts: \nSteve Keen @ProfSteveKeen\nCorona bailouts – for main street or Wall Street?\nhttps://t.co/0RBA1YQkLQ\n\nMichael Hudson: US coronavirus ‘bailout’ scam is $6 trillion giveaway to Wall Street\nhttps://t.co/xGFszKmzdr\n\n#economiccrisis #Corona #Covid19 #Finance https://t.co/uowIcNpXQ7",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Socially distant. \n📸 @singaporemaven \n\n#extendedcircuitbreaker\n#CCB #Circuitbreakersg #MySingapore #Singapore #SGUnited #COVID19 #stayhome #StayHomeMusings #seeninsingapore @ Marina Bay Singapore https://t.co/38BQ2MNABq",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "In a tweet, @priyankagandhi said, \"Many people have expressed concerns about the method of testing in #UP. Transparency is a big thing in the fight against #Covid19. Society and the government together can defeat this epidemic. In this context, I am sharing some tips here.\" https://t.co/zHITXHjqPc",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "@FredTJoseph #covid19 #rentrelief Hello. I'm a natural born US citizen. I'm a Respiratory Therapist. I'm still working but it is hard to make ends meet w/4 kids @ 🏠. We are ineligible for the stimulus check because we are a mixed migration status family! Please help if you can. $cnx217",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Today We are going to tell you that how can we perform #PrivilegeEscalation with #Zip command. #cybersecurity #BugBountyTips #infosec #linux #pentest #Covid_19 #COVID #COVID19 \nhttps://t.co/SYamkx8BTC",
+			"annotation": "NEU",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Dissecting This Weeks S&amp;P 500 #Earnings - https://t.co/jNustGfnaC #UIX #Coronavirus #COVID19 #Economy #Investing #MARKETS #MidasLetter #MidasLetterLive #News #SP500 #Strategy #Tech #Trading https://t.co/Yb4RcRGNGf",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "This is how Muslims are being treated. I hear it from people close to me that they have no right to stay in India. I'm ashamed as hell! No politician to blame but just humanity which has cease to exist #Islamophobia_In_India #Islamphobia_In_India #COVID19 https://t.co/nLIIZMPgMx",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "📣📣 25 April 2020 -- An update from the Thai government regarding #Thailand #COVID19 situation, reporting from CCSA at Government House \nSpeaker: Mr. Natapanu Nopakun, MFA\n\n&gt;&gt;&gt; https://t.co/bEssz5Isyf &lt;&lt;&lt;\n\n#WashYourHands #StayAtHome",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "#covid19 #coronavirus #coronavirus2020  A global problem\n#stayhome #staystrong #protectnhs \n#protectkeyworkers #protecthealthworkers \n#protectfrontlineworkers \nSocial distancing save lives https://t.co/1m0IKfbeiO",
+			"annotation": "POS",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "😂😂😂😂 This is gold!\n#StolenFromFacebook #COVID19 #StayHome https://t.co/iftaiVgJBZ",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Bought and paid for. Astroturfers. Sheesh. #COVID19 #COVIDIOTS https://t.co/un0rvoTmYD",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Take a sneak peak from our Director of Sales and Marketing, @Derek__James, and one of his most recent interviews pertaining to #COVID19 and #Bitcoin. https://t.co/4kDhrlGByb",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "This is the story to me.  If we don't sort out the \"animal\" part -- our relationship to animals, food, the environment -- we are right back here again... \"'We did it to ourselves': scientist says intrusion into nature led to pandemic\" #Covid19 #pandemic    https://t.co/Q3B7uD0RPi",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Update: ranking of countries by total number of reported deaths from #COVID19, and growth of that in the 24 hours before midnight GMT.  China reporting 0%, Brazil 11%, all 10 other countries 2-4%. https://t.co/L7rlhrafBk",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "●Sale by E-commerce companies will continue to be permitted for ESSENTIAL GOODS ONLY. ●Sale of liquor &amp; other items continues to be PROHIBITED as specified in the National Directives for #COVID19 management.\n\nNO SHOPS to be permitted to open in hotspots/containment zones https://t.co/NrkNDgHRll",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Coronavirus Outbreak: Myths and Facts \n#COVID19 #COVID19Myth #COVID19Fact #Corona #CoronaVirus #StayAtHome #StayHome #HandWashing #HandWash #CoronaVirusMyths #CoronaVirusFacts https://t.co/xTtRAnuVQq",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "#COVID19 demands a united response, and delegates at the @UN are rising to the challenge, building on a strong tradition of dialogue and collaboration -- @UN Secretary-General @antonioguterres on International Delegates Day  \nhttps://t.co/yWma4Ygq0o",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "925,758 #COVID19 cases in the United States as of 2 am, 4/25/20. 52,217 Americans are dead. And there's no end in sight. This is what you'll be known for @POTUS @realDonaldTrump. Much of it was brought on by your incompetence, egotism, ignorance, &amp; spite. You'll never escape it.",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Nationwide outbreaks of Leptospirosis, typhoid &amp; dengue have been reported in #Fiji. #COVID19 restrictions have been changed: there is a curfew from 10pm to 5am. Social gatherings are allowed, but only for 20 people or less. Places of worship are closed. https://t.co/8flCXLSe2R",
+			"annotation": "NEU",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Beyond being a lawless, corrupt President, he has totally screwed the pooch w/ his completely inept #COVID19 response.  \nThe GOP betrayed their #OathOfOffice by acquitting him. \n\n#VoteBlueNoMatterWho https://t.co/lHehopYsqN",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Allow wine shops, small hotels to open: Raj Thackeray “Important for state to earn revenues, remain self-reliant”\n.\nhttps://t.co/fJqMZNqMga\n.\n#economy #Maharashtra #Mumbai #relaxations   #lockdown #healthcare #epidemic #coronavirus #COVID19   #RajThackeray #UddhavThackeray #MNS",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "OSG claims inmates are better protected inside jails citing New Bilibid Prion Hospital's 500-bed capacity with a 1 bed to 60 population ration, better than outside. \nFACT-CHECK: NBP inmate who died of COVID was sent to RITM in Alabang after exhibiting #COVID19 symptoms.",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "The real UK death toll is likely to be around 45,200. \n#coronavirus #COVID19 #BorisJohnson #Trump #indyref2 https://t.co/12JaE9mwIr",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Makers of #Lysol Warn Against Ingesting #Disinfectants - The New York Times. This is necessary b/c #Trump theorized about these substances curing #COVID19. What a mess.  https://t.co/A7HTlTu4Uz",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Let us all extend our support and care towards the #HealthCareWorkers combating the #COVID19 risking thier own lives to save the people of this nation from the life-threatning #coronavirus https://t.co/BxNqpuv34M",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Dettol tells people not to inject disinfectant after Trump suggestion #COVID19 #Dettol #DonaldTrump\nTwo top household brands in the UK and US, Dettol and Lysol, have issued a statement cautioning against the use of their cleaning products to treat coronav…https://t.co/58DuhFpD5F",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "@Expedia has 263 #Complaints. I’m not surprised. Try another company next time. #AirlineCancelledFlights #COVID19 #Pandemic.",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "As long as this quarantine is in place, the code COVIDFREE will be available. Take advantage and get that 15% off of any item on https://t.co/rk2KHHWWpa \nOrder online and #StayHome \n\n#COVID19 #smokers #sale #medicalmarijuana #cannabis #medicalcannabis #CannabisCommunity #weed",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "You really can tell who didn't pay attention in their compulsory biology classes. #COVID19",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "'Its very worthwhile to consult your doctor when you have #Covid19 symptoms'#HelenRees Executive Director of the #WitsReproductiveHealthAndHIVInstitute at WitsUniversity  tackles #FrequentlyAskedQuestions about #Covid_19 on #SAfmJetSetBreakfast",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Facebook   #covid19",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "Your Leaders Are Corrupt and biggest hypocrites in history\n#COVID19 #Covid_19 #COVID #Biden2020 #BidenAbrams2020 #WuhanVirus #BlueIsPoo #BernieBros #BernieBrosForTrump #Bernie #StayAtHomeOrder #StayHomeStaySafe #lockdown #chloroquine #WalkAway https://t.co/BWY0ajbDDI",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "#covid19: Say what @SpeakerPelosi? Intubation can be an acute airway emergency in itself. &amp; yet we have more ventilators than Imelda Marcos had 👠👟🥿 @CeliaFarber \n@Cernovich \n@RedPill78 \n@med1cinewoman \n@rsbellmedia \n@jonrappoport \n@santilli_pete \n@Jordan_Sather_ https://t.co/tK4IuNwKQb",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "My clock is set! Yours should be too! @healthevoices We  represent pretty much every #ChronicIllness Including #HIV #Aging &amp; now we have #COVID19 adding challenges...I'm in Day 46 #StayHome Please Join Us! https://t.co/lgO1DbMD8l",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "@libijian2 @ipd_newsletter This blame game can end if UNESCO forms a panel of impartial scientists to ascertain  d origin &amp; nature of #COVID19 H/e #WHO seems 2 hv changed its tone a lot after US stopped its funds @WHO Chief now emphasizes lockdowns more than their economic fall out for poor states",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "I know everyone is focused on #COVID19, we should also focus on the #ClimateCrisis, millions of people will be coming to Illinois, cities like Chicago. We need to prepare for this crisis and make sure that Black and Latino families don’t get displaced in the process. #BLM #Juntos",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "The ⁦@NationalAmc⁩’s ⁦@SfisoNtombelaDr⁩ writes in this free online issue of ⁦@FarmersWeeklySA⁩ that the impact of #COVID19 on agriculture will be worsened by the fact that the sector was already posting negative growth before the outbreak https://t.co/DOXYiQ57sb",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "🇸🇦 #PIF @FIIKSA Governor Yasir Al-Rumayyan gives his insight on the nature of the current #COVID19 crisis, during the FII Institute’s first virtual event. #ImpactOnHumanity  #MESP https://t.co/CKzWN0lsyp",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Stuck indoors? Read 'Nature and Wellbeing in the Digital Age: How to feel better without logging off' #selfisolation #covid19 https://t.co/gKQNY0MO4I",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Wearing a face mask won’t protect you. \nBut it protects everyone around you.\n\nIf we all wear face masks in public, we save lives.\n\nWe save jobs.\n\nWe save America.\n\nWear a mask:  Become America’s protector.\n#YouAreTheSolution\n#BeACovid19Warrior #ProtectAmericans #Covid19 https://t.co/c2UAd7J5YY",
+			"annotation": "POS",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "@Octomemes1 @Tractor444 Disinfectant has been injected into us for years!  @realDonaldTrump  check out the vaccine ingredients.  And they didn't even tell us what they were doing.\n#COVID19 https://t.co/Oc4qfO0xMM",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "@WhiteHouse @realDonaldTrump Gov Cuomo said yesterday on national tv that antibody tests showed a 14% infection rate &amp; death rate is .5% in NY. In other states there has been similar results. WHY ARE WE STILL IN LOCKDOWN?! 😠 #CoronavirusPandemic #COVID19 #novelcoronavirus #pandemic #coronavirus #scamdemic",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Hey friends! Stuck in your restricted place during this critical time, do you think of helping the Front End Warriors of #COVID19? 750 Ad Healthcare is determined to donate necessary equipment to the hospitals/doctors/nurses and you can put in your share. https://t.co/Sjg75cnXOY",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "@ericarhodes Can't really call anything under #COVID19 quarantine the \"Best,\" per se -esp. w/beach closed w/temps in 90's- but yr LIVE running commentary on @instagram while walking thru the forest/woods this wk was best/funniest original thing I've seen/heard the past 6 wks. So there's that! https://t.co/xItbml68WN",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "@UNEP A role to play. Let’s show kindness and unity.\n#COVID19 #coronavirus #UnitedNations #natureorbitfoundation https://t.co/aRZMxs2jrs",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "So cool 👍 Artificial Intelligence Bot answers questions on coronavirus issues with the help of the staff of the City of Espoo here in Finland.   #covid19 #ai  #staysafe #gotanyquestions https://t.co/UAdjWK9G8K",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "#COVID19 continues to perplex, with increasing stroke due to blood clots in young patients.... vitally important to get to hospital quickly.  @AmbulanceVic @normanswan @strokefdn @VSTprogram  https://t.co/GArg5FTYiV",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "*Distribution of cash prizes* Every category will have three winners each. 🎉\n\n☑️Register now at submit@thevisualhouse.in\n\n#TheVisualHouse #CreateAtHomeByTVH #WhereVisionariesWork #coronamemes #JantaCurfew #socialdistancing #covid #Covid19 https://t.co/9qmFjb2SNG",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "This is excellent. A VERY quick way of recording learning/teaching/reflection during busy #COVID19 times when you might not be working in your current specialty. #OneNBT #TeachLearnReflect https://t.co/DA55CUZmf8",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "An etymologist has clearly been quarantined too long. I am happy for the result.   \nYou probably won’t read the phrase “quell unrest” the same way again. Or a number of other #COVID19 words, either.\n\nhttps://t.co/rgS2s0T1M6",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "#COVID19 #PuertoRico🇵🇷 Deaths\nMarch=8\n\nWeekly April\nApril 1-7=23↗️65%\nApril 8-14=45↗️49%\n*April 15-21=43↘️4%\n\nDaily\n4/22=67↗️36%\n4/23=69↗️3%\n4/24=77↗️10%\n\n*Some #COVID19 patients had been double-counted: #NYTimes\n\n#StayHome",
+			"annotation": "NEU",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "While we’re distracted by the UK Government’s poor performance on #COVID19, they continue to drive for the hugely damaging #NoDeal #Brexit. One could almost believe the conspiracy theories Britain running down the clock in Brexit talks, says Michel Barnier https://t.co/7PT6vwibqu",
+			"annotation": "NEG",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "\"Instead of murmuring and complaining, work to excel on the job and pray for favour.\" ~ @UCBMedia  \n#COVID19 #StayAtHomeAndStaySafe #WorkFromHome #Accelerate #BeDeliberate #HRwithEM",
+			"annotation": "POS",
+			"programAnno": "NEG"
+		},
+		{
+			"tweet": "Overall zone-wise detailed status of COVID-19 cases in Chennai ... #Chennai #TamilNadu #Covid19 \nhttps://t.co/eHaa32mV59",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "China's inactivated #COVID19 vaccine entered the second phase of clinical trial on Friday, according to its developers. 96 persons in three age groups have received the vaccine in the first phase of clinical trial as of April 23 and the vaccine has shown good safety so far... https://t.co/d0JnnWKvG8",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "🥴🥺 ? Global Economy 2020 ? 🤯 https://t.co/UhyTZnOX7h #coronavirus #covid19 ... WE TRIED TO ACHIEVE WORLD DOMINION, BUT WE BROKE THE WORLD! CAN WE PLEASE HAVE ANOTHER ONE?",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "For pandemic like #covid19, Prophet #Muhammad would underscore importance of compassion towards others, adhering to law of the land, exercising social distancing, service to humanity &amp; most importantly turning to God with renewed humility. https://t.co/qNYutMevoQ @muslimsforpeace",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Chartered Accountant and Financial News Commentator, Sinesipho Maninjwa joins @JacobMoshokoa to discuss oil, the stability of the rand and the global economy. \nTune into #DSTV channel 405 for more. We are also available on Showmax.\n\n#Covid19 #Newzroom405 #WeekendDawnOn405 https://t.co/O58JgsLEEx",
+			"annotation": "NEU",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "@antonioguterres @MariaSTsehai if we can work together with other interested countries who works tirelessly to find #COVID19 vaccine we’ll be able to find a vaccine but by putting aside our ideologies and political affiliation especially Geo-politics and encouraging our scientist through technical support",
+			"annotation": "POS",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "#Facebook’s #latest #ripoff #product is a #Zoom #clone called “#Rooms”   https://t.co/YJ2OCgBwD0 via @voxdotcom #News #Coronavirus #COVID19 #COVID #Testing #SocialDistancing #MessengerRooms #ZoomRipoff #VideoChat #Houseparty",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "When the government was persuaded to change its policy and follow #SAGE advice the damage was already done. They'd already implemented a hard to stop herd immunity #covid19 policy.",
+			"annotation": "NEG",
+			"programAnno": "POS"
+		},
+		{
+			"tweet": "Video @coview19 with us on YouTube Coview - A scratch from UTOPIA\nVideo contribution from https://t.co/2ZpL9ekDoM - workgroup feminist perspective\nhttps://t.co/bOw9awYFoA (English)\n\n#feminism #utopia #coview #covid19 #Feminismus #Utopie https://t.co/yfKIP2FF4Q",
+			"annotation": "NEU",
+			"programAnno": "NEU"
+		},
+		{
+			"tweet": "#HARD TALK UK  Pointless complication.\n#Conservatives are such dorks.\n#RedTape #Overcomplication #Covid19 https://t.co/C7bHrfUwny",
+			"annotation": "NEG",
+			"programAnno": "NEU"
+		}
+	],
+	"computerCount": {
+		"POS": 320,
+		"NEU": 160,
+		"NEG": 123,
+		"POS_SAME": 120,
+		"NEU_SAME": 75,
+		"NEG_SAME": 62,
+		"POS_ACCU": 0.6779661016949152,
+		"NEU_ACCU": 0.3694581280788177,
+		"NEG_ACCU": 0.27802690582959644
+	},
+	"annotatorCount": {
+		"POS": 177,
+		"NEU": 203,
+		"NEG": 223
+	},
+	"accuracy": {
+		"DIFF": 346,
+		"SCORE": 0.42620232172470973
+	}
+}

@@ -51,6 +51,14 @@ const DataChart = (props) => {
             display: false,
             position: "top",
           },
+          scale: {
+            ticks: {
+                beginAtZero: true,
+                min: 0,
+                stepSize: 1
+            }
+        }
+
         }}
         />
       </Col>

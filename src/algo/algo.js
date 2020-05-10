@@ -1,79 +1,164 @@
 path = require("path");
-require('./db.js')
+require("./db.js");
+let tokenizer = require("wink-tokenizer");
+let sentiment = require("wink-sentiment");
+let posTagger = require("wink-pos-tagger");
 const mongoose = require("mongoose");
 const clue = mongoose.model("wordClue");
+var tagger = posTagger();
+var myTokenizer = tokenizer();
 
+async function analysis(tweet) {
+  // Clean the Tweet
+  const cleanObj = clean(tweet);
+  const result = await find(cleanObj);
+  result.tag = tagResult(result.sumScore);
 
-const test1 = "Today's 1.4% gain in the S&amp;P, with 85% of the #stocks higher, reduced its weekly loss to just 1.3%--not bad for a week that saw a major financial dislocations in #oil, horrible economic numbers out of Europe and the US, and more evidence of the mounting risk of structural damage. https://t.co/mp3AcGMwLe"
-const test2 = "A flotilla of some 24 #oil tankers waits to unload #CrudeOil, as oil companies have run out of storage facilities in the #US and across the globe. \nOn Monday, #OilPrices slumped to unprecedented levels, amid a collapse in demand caused by the #coronavirus #outbreak. https://t.co/IXopWyK4uk"
-const test3 = "The global #oil industry is being decimated by the #COVID19 pandemic. There is no time to lose in building a new, post-carbon industrial revolution https://t.co/9dcjUTOYqL by me via @BostonGlobe"
-const test4 = "I'm extremely super very very happy disappointed";
-const test5 = "Crude #Oil is up almost 50% during in the last two trading days. Extreme #volatility makes it virtually untradable. Also, the supply-demand imbalance and storage capacity limitations are by no means solved. https://t.co/kQodB2AeHM";
-const test6 = "#oil -- rally is holding but we're down 8 out of the last 9 weeks.  Storage swelling onshore, so exploring offshore options -- data and elements provided by @Samir_Madani with thanks! #OOTT https://t.co/IwdADrDMro"
-const test7 = "fuck you Joe Versoza, this class is absolutely disgusting, it's ruining evething. And I'm extremely upset!"
-const test8 = "Update on the news"
-const test9 = "There was a time when the US federal government became a rancher ...  \nWill the US end up having its own national oil company? \n\nShould the US government take over all the oil companies that invoke \"national security\" as a reason to get what it wants?\n#oil #shale https://t.co/Y9pNdzLu3A"
-// let arr = cleanText(test7);
-
-async function calculate(tweet){
-    const tokenized = cleanText(tweet);
-    const result = await find(tokenized);
-    return result;
+  return result;
 }
 
-async function find(arr){
-    let total = 0;
-    for(let i = 0; i < arr.length; i++){
-        try{
-            // let value = await clue.findOne({$and:[  {"SynsetTerm":arr[i]},
-            //                                         {"PosScore":{$ne:0}},
-            //                                         {"NegScore":{$ne:0}}
-            //                                     ]
-            //                                 });
-            let value = await clue.findOne({"SynsetTerm":arr[i]});                                                            
-            if (value !== null){
-                total -= value.NegScore;
-                total += value.PosScore;
-            }
-        }
-        catch(e){
-            console.log(e);
-        }
-    };
-    if(total > 0.1){
-        return {
-            score: total,
-            sentiment: 'POSITIVE'
-        }
+function tagResult(score) {
+  if (score < -0.125) {
+    return "NEGATIVE";
+  } else if (score > 0.125) {
+    return "POSITIVE";
+  } else {
+    return "NEUTRAL";
+  }
+}
+
+async function find(cleanObj, totalScore) {
+  let negation = [
+    "not",
+    "no",
+    "never",
+    "nothing",
+    "nobody",
+    "nowhere",
+    "neither",
+    "nor",
+    "none",
+    "rarely",
+    "little",
+    "few",
+    "hardly",
+    "barely",
+    "rarely",
+    "scarcely",
+    "uncertain",
+    "seldom",
+    "won’t",
+    "isn't",
+    "aren't",
+    "ain't",
+    "hasn’t",
+    "haven't",
+    "wasn’t",
+    "weren't",
+    "hadn’t",
+    "wouldn't",
+    "shouldn't",
+    "couldn't",
+    "can't",
+    "cannot",
+    "mightn’t",
+    "mustn’t",
+    "needn't",
+    "doesn’t",
+    "didn't",
+    "don't",
+  ];
+  
+  const cleanArr = cleanObj.wordArr;
+  let emojiString = "";
+  let emojiScore = 0;
+  if (cleanObj.emojiArr.length !== 0) {
+    emojiString = cleanObj.emojiArr.join("");
+    emojiScore =
+      sentiment(emojiString).normalizedScore / (3 * cleanObj.emojiArr.length);
+  }
+  let prev = "";
+  let sentenceScore = 0;
+  for (let i = 1; i < cleanArr.length; i++) {
+    prev = cleanArr[i - 1];
+    try {
+      const result = await findDB(cleanArr[i].toLowerCase());
+      if (negation.includes(prev) && result.length !== 0) {
+        sentenceScore = sentenceScore - getAverage(result);
+      } else if (result.length !== 0) {
+        sentenceScore += getAverage(result);
+      }
+    } catch (e) {
+      console.log(e);
     }
-    else if(total < -0.1){
-        return {
-            score: total,
-            sentiment: 'NEGATIVE'
-        }
-    } else{
-        return {
-            score: total,
-            sentiment: 'NEUTRAL'
-        }
+  }
+
+  console.log("This is sentence score:  " + sentenceScore);
+  console.log("This is the emojiscore:  " + emojiScore);
+
+  return {
+    sentenScore: sentenceScore,
+    emojiScore: emojiScore,
+    sumScore: sentenceScore + emojiScore,
+  };
+}
+
+function clean(sentence) {
+  const obj = myTokenizer.tokenize(sentence);
+  const cleanedObj = { emojiArr: [], wordArr: [] };
+  obj.forEach((ele) => {
+    if (ele.tag === "word" && ele.value.length > 1) {
+      cleanedObj.wordArr.push(ele.value);
+    } else if (ele.tag === "emoji") {
+      cleanedObj.emojiArr.push(ele.value);
     }
-    
+  });
+  return cleanedObj;
 }
 
-
-function cleanText(text){
-    text = text.toLowerCase()
-               .replace(/(?:https?|ftp):\/\/[\n\S]+/g, '');
-    const str = text.replace(/\W/g, ' ')
-    const clean = str.replace(/(\b(\w{1,3})\b(\s|$))/g,'').split(" ");
-    var filtered = clean.filter(function (el){
-            return el != '';
-    });
-    // console.log(filtered);
-    return filtered;
+async function findDB(word) {
+  // convert tree bank to senti-word-net
+  const pos = tagger.tagSentence(word)[0].pos;
+  const sentiTag = posToSenti(pos);
+  let result = await clue.find({
+    $and: [
+      { SynsetTerm: word },
+      { pos: sentiTag },
+      { $or: [{ PosScore: { $ne: 0 } }, { NegScore: { $ne: 0 } }] },
+    ],
+  });
+  return result;
 }
 
+function posToSenti(pos) {
+  switch (pos.charAt(0)) {
+    case "V":
+      return "v";
+    case "N":
+      return "n";
+    case "J":
+      return "a";
+    case "R":
+      return "r";
+    default:
+      return "N/A";
+  }
+}
+
+function getAverage(resultArr) {
+  let totalScore = 0;
+  let length = resultArr.length;
+  for (let i = 0; i < length; i++) {
+    if (resultArr[i].PosScore != 0) {
+      totalScore += resultArr[i].PosScore;
+    } else if (resultArr[i].NegScore != 0) {
+      totalScore -= resultArr[i].NegScore;
+    }
+  }
+  let average = totalScore / length;
+  return average;
+}
 
 module.exports = {
-    calculate: calculate,
-}
+  analysis: analysis,
+};

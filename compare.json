@@ -1,0 +1,77 @@
+[
+	{
+		"tweet": "Today's 1.4% gain in the S&amp;P, with 85% of the #stocks higher, reduced its weekly loss to just 1.3%--not bad for a week that saw a major financial dislocations in #oil, horrible economic numbers out of Europe and the US, and more evidence of the mounting risk of structural damage. https://t.co/mp3AcGMwLe",
+		"annotation": "NEG",
+		"programAnno": "NEG"
+	},
+	{
+		"tweet": "A flotilla of some 24 #oil tankers waits to unload #CrudeOil, as oil companies have run out of storage facilities in the #US and across the globe. \nOn Monday, #OilPrices slumped to unprecedented levels, amid a collapse in demand caused by the #coronavirus #outbreak. https://t.co/IXopWyK4uk",
+		"annotation": "NEG",
+		"programAnno": "NEG"
+	},
+	{
+		"tweet": "Mizuho's Paul Sankey predicts oil could hit -$100/bl. \nWhy?\n\nA flotilla of Saudi #oil tankers is en route to the US, with 7x the amount of oil the US typically imports in a month. \n\nAmidst low demand &amp; limited storage, this Saudi \"oil bomb\" could send oil prices plunging, again.",
+		"annotation": "NEG",
+		"programAnno": "NEG"
+	},
+	{
+		"tweet": "Per a prior tweet,the #oil price debacle early this week was due to imbalances in both physical and financial space ... and the subsequent recovery reflected the easing of the financial imbalance. This @markets chart, showing the change in USO, shows how the oil #ETF has adapted. https://t.co/YNHjjXX6RS",
+		"annotation": "NEU",
+		"programAnno": "POS"
+	},
+	{
+		"tweet": "#oil -- rally is holding but we're down 8 out of the last 9 weeks.  Storage swelling onshore, so exploring offshore options -- data and elements provided by @Samir_Madani with thanks! #OOTT https://t.co/IwdADrDMro",
+		"annotation": "NEG",
+		"programAnno": "NEG"
+	},
+	{
+		"tweet": "Oil-Directed rig count - Permian: 246.  This is the lowest since we had exactly the same number on Dec 9, 2016\n\n- US: 378. This is the lowest since July 2016\n\n-Texa: 231. This is the lowest since Aug 2016\n\n- The decline since early March: 304\n\n#oil #shale #Rigs https://t.co/6tblAPfzjp",
+		"annotation": "NEG",
+		"programAnno": "POS"
+	},
+	{
+		"tweet": "A picture worth a thousand words \nUS oil-directed rig count declined by 60 to 378\n\nPermian -37\nEagle Ford -7\nWilliston -7\nOthers -5\nCanda Woodford -3\nDJ Niobrara -1\n\n#oil #shale #Rigs https://t.co/f2eBplyOIa",
+		"annotation": "NEU",
+		"programAnno": "POS"
+	},
+	{
+		"tweet": "President Putin spoke over the phone with Federal Chancellor of #Germany Angela Merkel. Broad agenda included coordinated intl efforts to fight #coronavirus, peace settlement in #Ukraine, #Syria and #Libya, as well as situation on global #oil market. https://t.co/gP1ZycaGHw",
+		"annotation": "NEU",
+		"programAnno": "POS"
+	},
+	{
+		"tweet": "Crude #Oil is up almost 50% during in the last two trading days. Extreme #volatility makes it virtually untradable. Also, the supply-demand imbalance and storage capacity limitations are by no means solved. https://t.co/kQodB2AeHM",
+		"annotation": "NEG",
+		"programAnno": "NEG"
+	},
+	{
+		"tweet": "Great chart via @RobinWigg. 150 years of #oil prices and the bizar level we saw this week. https://t.co/LrIThJlnOj",
+		"annotation": "NEU",
+		"programAnno": "NEU"
+	},
+	{
+		"tweet": "Satellite data show 'highest emissions ever measured' from U.S. #oil and #gas operations @ScienceAdvances https://t.co/jB4lNwl0XN",
+		"annotation": "NEG",
+		"programAnno": "NEU"
+	},
+	{
+		"tweet": "US oil rig count declined by  60 to 378 \n#Oil #Shale #Riga https://t.co/3yfgSo1dZW",
+		"annotation": "NEG",
+		"programAnno": "NEU"
+	},
+	{
+		"tweet": "At the current pace, the estimated storage capacity in #Cushing could be full in less than three weeks. #oil https://t.co/CYrT78Ijeh",
+		"annotation": "NEG",
+		"programAnno": "NEG"
+	},
+	{
+		"tweet": "There was a time when the US federal government became a rancher ...  \nWill the US end up having its own national oil company? \n\nShould the US government take over all the oil companies that invoke \"national security\" as a reason to get what it wants?\n#oil #shale https://t.co/Y9pNdzLu3A",
+		"annotation": "NEG",
+		"programAnno": "POS"
+	},
+	{
+		"tweet": "The global #oil industry is being decimated by the #COVID19 pandemic. There is no time to lose in building a new, post-carbon industrial revolution https://t.co/9dcjUTOYqL by me via @BostonGlobe",
+		"annotation": "NEG",
+		"programAnno": "NEG"
+	}
+]

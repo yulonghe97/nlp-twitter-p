@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "NODE_ENV=PRODUCTION node src/app.js",
+    "run-test": "node src/test/testAlgo.js"
   },
   "author": "",
   "license": "ISC",
@@ -13,7 +15,10 @@
     "express-session": "^1.17.1",
     "hbs": "^4.1.1",
     "mongoose": "^5.9.10",
-    "twit": "^2.2.11"
+    "twit": "^2.2.11",
+    "wink-pos-tagger": "^2.2.2",
+    "wink-sentiment": "^5.0.2",
+    "wink-tokenizer": "^5.2.1"
   },
   "proxy": "http://localhost:8080"
 }
