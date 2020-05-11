@@ -6,7 +6,7 @@ const path = require("path");
 const Analyzer = require("../analyzeTweet");
 
 // Set the current training file
-const CURRENT_FILE = 'final.json'
+const CURRENT_FILE = 'test.json'
 
 const computerCount = {
   POS: 0,
