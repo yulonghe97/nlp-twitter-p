@@ -37,7 +37,7 @@ $ npm run run-test
 
 The test will run based on 100 annotated tweets data by ourselves. It will output a "output.json" in the main folder that contains:
 
-```json
+```jsonc
 [
   "tweets":[
   		{
