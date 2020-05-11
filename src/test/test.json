@@ -1,3274 +1,802 @@
 [
 	{
-		"_id": "5ea39d4b931045e5a2852e84",
-		"id": 194,
+		"_id": "5ea374a7ec2b97e18e80706d",
+		"id": 0,
 		"user": "samantha",
 		"annotation": "POS",
-		"tweet": "In progress... #inprogress  Quarantine time 🍀🧘‍♀️📿 🎨 \n#painting #painting🎨 #paint #oil #oilpainting #art #artist #artistsoninstagram #artistsanpedro #artistlosangeles #sanpedrocalifornia #losangeles #california #quarantine #quarantinelife #quarantinepillowchallenge #quarantine https://t.co/Ida79S02kJ",
+		"tweet": "Today's 1.4% gain in the S&amp;P, with 85% of the #stocks higher, reduced its weekly loss to just 1.3%--not bad for a week that saw a major financial dislocations in #oil, horrible economic numbers out of Europe and the US, and more evidence of the mounting risk of structural damage. https://t.co/mp3AcGMwLe",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea39eac931045e5a2852e88",
-		"id": 195,
+		"_id": "5ea374a7ec2b97e18e807073",
+		"id": 1,
 		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Quarantine speed paint “Findings II”\n#oil https://t.co/cWqqUzTYAv",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea39eac931045e5a2852e8c",
-		"id": 196,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Quarantine speed paint “Oferta”\n\n#oil https://t.co/wOZMAKkWYW",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea39eac931045e5a2852e8e",
-		"id": 197,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "I can say that Crown Prince Mohammed Bin Salman has led one of the most historical deals in #Oil market ️. https://t.co/yOOdXbJAin",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d12513f8e6385597f5",
-		"id": 198,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "ALERT🚨: We have received several calls regarding questions about disinfectant use and #COVID19. \nThis is a reminder that under no circumstances should any disinfectant product be administered into the body through injection, ingestion or any other route.",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d12513f8e6385597fb",
-		"id": 199,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Please don't drink bleach or isopropyl alcohol to remove #COVID19 from your saliva. \nPlease.",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d12513f8e6385597fd",
-		"id": 200,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "JUST IN! Unbelievable FBI Raids medical facility that was providing high dose IV VITAMIN C THERAPY for #COVID19 patients.  https://t.co/NzgPThrKnz",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d12513f8e638559801",
-		"id": 201,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Researchers of NASA develops ventilator  prototype in just 37 Days \n#COVID19\n#NASA\n#ventilators https://t.co/GgL565V9BT",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d12513f8e638559805",
-		"id": 202,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "@FLGcommunity Selfless hands. Heartfelt help.#MillionMaskChallenge #FB #COVID19 protection is a click away.",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d12513f8e63855980b",
-		"id": 203,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "I just published \"Looking again at COVID-19 Across the United States\" https://t.co/A9Qob85LST #covid19 #coronavirus #datascience #datavisualization #epidemiology",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d12513f8e63855980d",
-		"id": 204,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": ".@realDonaldTrump running from cameras today. Also no rallies. Perfect we don't need to listen to him anyway. \n#COVID19",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d22513f8e638559813",
-		"id": 205,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Today appears to have the most new USA #COVID19 cases yet (38,474). In good news / bad news, more testing = more positive results. Oh, and also because it's spreading like mad.  By Monday we'll be at 1 million cases total. Buckle up, my buttercups. https://t.co/WH9zqkkPWb",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d22513f8e638559815",
-		"id": 206,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "The world's rich economies have a responsibility to respond to #COVID19 by investing in a resilient, low-carbon and just future for all.  We must build back better. Read more in my new oped with @cnbcafrica: https://t.co/Dc3pSlHpJA",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d22513f8e638559819",
-		"id": 207,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Happy Ramadan folks! Day 1 of fasting!\nWalking to work, rural locum in #northwestterritories #fortsmith\nThe snow melted and the sun came out! #RamadanMubarak #northernwork #Covid_19 #COVID19 #PPE #selfisolating #SelfIsolation https://t.co/1I90Vv35lo",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d22513f8e63855981f",
-		"id": 208,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Everything's gonna be fine.🇹🇭 It's not the end of the🌏 Just count your blessings. Keep going.🤘 #Covid19\n#Lockdown\n#nature\n#TwitterNatureCommunity https://t.co/hQlXQ95kpS",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d22513f8e638559823",
-		"id": 209,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "@VashH3 Selfless hands. Heartfelt help.#MillionMaskChallenge #FB #COVID19 protection is a click away.",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d22513f8e638559825",
-		"id": 210,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "This was a fun article - power usage comparisons to show our changing habits during lockdown. Via @nationalpost  #QuarantineLife #COVID19 https://t.co/P1kY5OKnPB",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d22513f8e638559829",
-		"id": 211,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Shanghai Logs No New #COVID19 Cases https://t.co/xvfcrwGaET https://t.co/2YqP014iSA",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d22513f8e63855982d",
-		"id": 212,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "#China's April car sales rebound! Daily sales hit 31,000 during the first three weeks. The China Passenger Car Associations notes: 7% y-o-y dip, but an improvement over March with a 47% y-o-y fall. #COVID19 https://t.co/omUIesXoOH",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d22513f8e638559833",
-		"id": 213,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "@DrShelleyRoss Selfless hands. Heartfelt help.#MillionMaskChallenge #FB #COVID19 protection is a click away.",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d22513f8e638559835",
-		"id": 214,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Hey @DavidMalpassWBG @KGeorgieva no country should have to choose between protecting their citizens from #COVID19 and paying their debts. I believe it's time to #CancelTheDebt and support a bold emergency response #GlobalCitizen",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d22513f8e638559839",
-		"id": 215,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "@skyycat2 I'm so sorry to hear about your dad. #COVID19 is a horrible monster that robs us of our loved ones. Praying for you and your family. 🙏❤🙏",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d22513f8e63855983d",
-		"id": 216,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Between 18 Mar—10 April 2020, over 22 million Americans lost their jobs. Over the same 3 weeks, my co-authors &amp; I find in a new study for the Institute for Policy Studies, US billionaire #wealth increased by $282bn—an almost 10% gain. #COVID19\n#capitalism https://t.co/8eKBUNhATF",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d22513f8e638559843",
-		"id": 217,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "#COVID19 Update April 24th. https://t.co/95AoAqNSrm",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d22513f8e638559847",
-		"id": 218,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "@soledadobrien Omg.  Created controversy by suggesting humans ingest poison and that the sun will help cure #COVID19.  Wtf is controversial about that?  It's not controversial, it is 100% lunacy.",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d32513f8e63855984b",
-		"id": 219,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "@iran_policy #Iran’s Regime Pays #IrgcTerrorist Quds Force Mercenaries 5 Times More Than #Iranian Nurses A simple comparison:The $200 monthly salary paid to an Iranian nurse is a fifth of the $1,000 average salary of IRGC mercenaries in #Syria #COVID19 #coronavirus\nhttps://t.co/614AlU3P0L",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d32513f8e63855984d",
-		"id": 220,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "I’m awaiting for the start of the Lysol Challenge.  #COVID19 #corona #TrumpDisinfectant",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d32513f8e638559851",
-		"id": 221,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "Independent contractor for pet services &amp; student graduating this semester with a degree in psychology. Had an offer retracted to work for an incredible non-profit when #COVID19 happened and lost all of my clients. #helpyourneighbor @yashar https://t.co/Tt6ncxnpDe",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d32513f8e638559857",
-		"id": 222,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "@LaurD123 Selfless hands. Heartfelt help.#MillionMaskChallenge #FB #COVID19 protection is a click away.",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d32513f8e63855985b",
-		"id": 223,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Thank you to all the Frontline Workers who risk their lives everyday  \n#TwoAmericans #LincolnProject #Sacrifice #Responsibility #VoteBlue2020 #COVID19 https://t.co/34nPQhyw4j",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d32513f8e63855985f",
-		"id": 224,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "@julieannayoga Oh, I'm from the US also...just lucky enough to not live there right now.  Unfortunately most of my family still do...which is terrifying to watch from here. \n#StayHomeStaySafe \n#COVID19 is no joke.",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d32513f8e638559863",
-		"id": 225,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Drive-Through #JobFair Draws Hundreds of #JobSeekers [Video] - @WLOX: https://t.co/qAt5lvRIUK  ~ @ExpressProsBLX  #jobsearch #jobhunt #COVID19 https://t.co/H1WcKxkYtD",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d32513f8e638559867",
-		"id": 226,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "The GOP is enacting #COVID policies that are extremely cruel &amp; racist. My next for @zoramag: \n\"[R]acist and xenophobic elected officials...have the knowledge &amp; the power to slow the spread of #COVID19  but simply refuse to do so.\" #coronavirus #StayHome \n\nhttps://t.co/kS1dmAyIo3",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d32513f8e638559869",
-		"id": 227,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "be the first one!  when https://t.co/WcIoPBZF8y open!\n\nhttps://t.co/PKirJryK32\n\n#mask #N95 #KN95 #KF94 #KF80 #besafe #socialdistance #corona #covid19 #respiratormask #healthy #USA #CANADA #유학생긴급배송 #마스크 https://t.co/KpTGCq6bUp",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d32513f8e63855986f",
-		"id": 228,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "Rodger Goodell is the fakest human being I've ever seen. He can't even dreg up a once of emotion during after all these messages during this national crisis... I hate that human being. #NFLDraft #Covid19 #StlNFL #RiggedNFL",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d32513f8e638559873",
-		"id": 229,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "@KevinMKruse With so many dead, sarcasm is not what we need from the leader of the free world. @POTUS #LaughingStockOfTheWorld #COVID19 #testing",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d32513f8e638559875",
-		"id": 230,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "“They said, ‘Give us one day,’ and it was up and running.” \n#UCRiverside Extension provides 41 beds for front-line health care workers worried about exposing their families to #COVID19.\n\nhttps://t.co/3kx9HT7rcK",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d32513f8e63855987b",
-		"id": 231,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Things were going well...hopefully in two weeks..deaths don't multiply.. #COVID19 https://t.co/WoVOx3rQLG",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d42513f8e63855987f",
-		"id": 232,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "How to make A Business Continuity Plan for COVID-19? \nRead post: - https://t.co/aLub53BJMX\n\n#BusinessIdea #BusinessContnuity #Covid19 #TNT https://t.co/rOWsBjQLhS",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d42513f8e638559883",
-		"id": 233,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Divided by the cars we drive. United by the scrubbers we use. Take joy in the journey and #SayALittleYay with Orion Choco Pie. #OrionChocoPie #Covid19 #SocialDistancing\n\n#stayhome #quarantine #staysafe #yummy #delicious #chocolate #dessert #tasty #snack https://t.co/rBlFn1mDF2",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d42513f8e638559887",
-		"id": 234,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "We salute our #PayworldHeroes who are proud to serve the nation during the COVID-19 crisis.  \n#SalutetoPayworldHeroes #EssentialBankingServices #EssentialServices #AEPS #MoneyTransfer #WorkFromHome #businesscontinuity #covid19 #lockdown https://t.co/PgBVJiTK4B",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d42513f8e63855988b",
-		"id": 235,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "I emailed my 72 year old dad to wish him Happy Birthday. He emailed me back to let me know about the surprise party 5 little old ladies at his 55+ complex threw him. I asked about quarantine. He said, BUT ITS A BIRTHDAY. I swear he's doing it on purpose.  #COVID19 #elderly",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d42513f8e63855988f",
-		"id": 236,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "#RoanokeVA health department stated that largest number of #COVID19 outbreaks in area started with funerals. The 1st death was woman who attended a funeral &amp; 60 people were exposed. Suddenly, people are having public funerals at gravesides in defiance of #StayHome. How selfish!",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d42513f8e638559893",
-		"id": 237,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "COVID-19 threatens decades of progress on global poverty, @UNUWIDER report says @DEVEX https://t.co/3NSEhLH8vs @UNDP @PNUDLAC @UNDESA #COVID19 #coronavirus",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d42513f8e638559897",
-		"id": 238,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Remembered About Earth Day  #gpsc #upsc #talati #mamlatdar #binsachivalay #juniorclerk #seniorclerk #governmentjob #clerk #gujaratgovernment #sarkarinaukri #StayHomeIndiaWithBooks #competitiveexams #cmogujarat #lakshcurrentaffair #covid19 https://t.co/duqqTd9Ygq",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d42513f8e638559899",
-		"id": 239,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Stockpiling drives up sales for @Nestle, which reported its best quarterly sales growth in nearly 5 years: https://t.co/2HLcbZ6jp8  #coronaviruspandemic #coronavirus #coronavirusoutbreak #covid19 #foodnews #foodindustry #nestle #sales https://t.co/X4LLtPdFe8",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d42513f8e63855989d",
-		"id": 240,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "Luzerne County rejected a request from the Pennsylvania Health Department to sign a non-disclosure agreement in return to giving more information about #COVID19 patients to 9-1-1, including addresses. #firefighters #EMS #coronavirus https://t.co/ljD5Y9HpoK",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d42513f8e6385598a3",
-		"id": 241,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "Pandemic Poses Challenges for Data Center Construction, Supply Chain: Over time, COVID-19 risks could impact construction schedules, new capacity delivery. #datacenter #cloud #construction #COVID19  https://t.co/sLItdN9Ysi",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d42513f8e6385598a7",
-		"id": 242,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "@WayneDupreeShow Heart disease, diabetes, #COVID19",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d42513f8e6385598ab",
-		"id": 243,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "COVID19 Stats for Réunion as of April 25, 2020: \nTotal Cases: 412\nNew Cases: no data\nTotal Deaths: no data\nNew Deaths: no data\nTotal Recovered: 300\nActive Cases: 112\nSerious/Critical Cases: 2\nTotal Tests: no data\nTests/1M pop: no data\n\n#coronavirus #COVID19",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d42513f8e6385598af",
-		"id": 244,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "You were created for a purpose. Don't let the media dictate your destiny. A world changing life is within your control #AustralianLandscapes #URLoved #StraighOutOfCamera #covid19 #IsolationAssistance #CovidKindness #massisolationproject #JesusLovesYou #ThereIsHopeintheRedLetters https://t.co/dgdb88ccKT",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d42513f8e6385598b3",
-		"id": 245,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Continue to support the Meeting Street Artisan Market vendors ONLINE, during the #COVID19 Crisis. Shop now: https://t.co/GLWvxxmQZN #shoplocal #supportlocal #socialdistancing https://t.co/nLCMW1DMyK",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d52513f8e6385598b5",
-		"id": 246,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "An excellent article by ⁦@apoorva_nyc⁩ on #COVID19 antibody tests, the problem with false positives and the challenge of using them for policy decisions. \nShe also had a wonderful segment on the ⁦@BrianLehrer⁩ show today on the same subject. https://t.co/BwKw7unAF9",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d52513f8e6385598bb",
-		"id": 247,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "How about a #facemask signed by the Red Headed Stranger? Bidding starts tomorrow. https://t.co/65O33OW16E #COVID19 #coronavirus @WillieNelson https://t.co/MmjF6vaa5F",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d52513f8e6385598bf",
-		"id": 248,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "New COVID-19 Data at 2020-04-24 10:30:01 pm EDT #Coronavirus #COVID19 https://t.co/nPRS6WIN3Y",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d52513f8e6385598c3",
-		"id": 249,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "#COVID19 deaths in #Scotland 79 percent higher than official figures \nhttps://t.co/YU81lFLYKS",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d52513f8e6385598c7",
-		"id": 250,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "The southeast Asian #methanol market faces the growing challenge of weakening fundamentals as the regional #Covid19 lockdown situations worsen in key countries | #ArgusPetchems  \nRead the story: https://t.co/y4UmdYFeFk\n\nFor more coronavirus news, visit: https://t.co/dmx0cjEA3J https://t.co/HsIimiYux0",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d52513f8e6385598cb",
-		"id": 251,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "Businesses must prepare now for the long haul of #COVID19 suppression if they are to survive in a changed economy. https://t.co/XrOrjJI9cn",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d52513f8e6385598cd",
-		"id": 252,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "@Ambreen62986028 Good news. Gulf Countries have assured India that they won’t let some fake tweets create discord in relations. PM Narendra Modi has spoken to 9 West Asian leaders on #COVID19 till now. India is sending #Hydroxychloroquine to Saudi Arabia, Bahrain, Oman, Qatar, Egypt &amp; Palestine.",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d52513f8e6385598d3",
-		"id": 253,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "Ignored by contractors, fed stale food: Report exposes migrant workers' plight in B'luru https://t.co/e7KGHSPk5s \n#अंधेर_नगरी_चौपट_राजा\n#ModiLeadingTheWorld\n#Lockdown2withoutPlan #LockDown\n#MigrantsOnTheRoad #PMCares #India #CoronaVirus #COVID19 #CoronaVirusTruth\n\n#COVIDIOTS https://t.co/rPxmY4RkcG",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d52513f8e6385598d5",
-		"id": 254,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Busy husbands thinking :  “Office boss was better. At least earlier we used to have a weekend.” 🤓 #CoronaUpdate #COVID19 #lockdownextension #Lockdown21 https://t.co/wgX0wA5ZyE",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d52513f8e6385598db",
-		"id": 255,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Are you in #LaoPDR? Do you need psychosocial support?  \nTo mitigate the impact of #COVID19 we are supporting a major psychosocial initiative to help those most vulnerable. \n\nWe are helping run critical hotlines that can help you. \n\nFind out more ➡️ https://t.co/U6OioW0gQF https://t.co/mxIPieXLgJ",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d52513f8e6385598df",
-		"id": 256,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "The Scariest Pandemic Timeline | If the flu and coronavirus hit at the same time this fall, America might have a longer, more severe lockdown https://t.co/rIaRp9HWVl #COVID19  #coronavirus #lockdownextension #pandemic https://t.co/DRk1wmCknm",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d52513f8e6385598e3",
-		"id": 257,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "\" The Coronavirus Effect: Jobs That Will Be Added &amp; Lost \" CLICK HERE TO READ: https://t.co/rSD1BxXHNn\n\n#CoronaVirusUpdate #CoronaCrisis #COVID19 #workformhome #workingfromhometips #JobSearch #jobseekers #CareerSkills #careertips #careersolution #SocialDistanacing #Jobs https://t.co/67LybWFWQZ",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d52513f8e6385598e7",
-		"id": 258,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "#Covid19 #PinkEye Researchers found coronavirus in a patient’s eyes — days after it left her nose https://t.co/rGheecvZD0",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d52513f8e6385598eb",
-		"id": 259,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "E-Commerce Stocks Soar With Pandemic Gains Seen as Long-Lasting https://t.co/nMUdiJg56y \n#pandemictech #coronarvirus #coronaviruschina #covid19 #Covid #corona",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d62513f8e6385598ef",
-		"id": 260,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "After recovering from #COVID19, Leilani Krause is returning to work at Treyton Oak Towers to care for residents. We need to rally around our #LTCHeroes who are risking their lives to care for seniors! https://t.co/illWcWhEHr",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d62513f8e6385598f3",
-		"id": 261,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "With flights grounded and scientists kept off of the ships,  #weatherForecasts and #Climate research are taking a hit\n\n#weather #data #ClimateChange #COVIDー19 #Covid19 #COVID2019 https://t.co/G8TsQzFauU",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d62513f8e6385598f7",
-		"id": 262,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "In Pics | Could #smoking help fight #COVID19? #France tries to find out   \nhttps://t.co/x8H2rEJMxE",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d62513f8e6385598f9",
-		"id": 263,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "In addition to physical distancing, one of the most effective ways to protect yourself and loved ones from #coronavirus is washing your hands with soap and water. \nTogether, we can slow the spread of #COVID19. https://t.co/nyxDPxaG5S",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d62513f8e6385598fd",
-		"id": 264,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Researchers at IIT Delhi’s Kusuma School of Biological Sciences have developed an affordable #COVID19 testing kit approved by the Indian Council of Medical Research (ICMR). #CoronavirusUpdate https://t.co/vxAcuFD8Cs",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d62513f8e638559903",
-		"id": 265,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Get #breakingnews and the top #stories impacting your #community straight to your inbox - every morning. Sign up for FOX5's \"The Morning Brief\" now at https://t.co/dEfT3RhLzk! #COVID19 #coronavirus\n#TheMorningBrief  \n#FOX5Atlanta https://t.co/p5w3Dfyj0q",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d62513f8e638559905",
-		"id": 266,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "#China's April car sales rebound! Daily sales hit 31,000 during the first three weeks. The China Passenger Car Associations notes: 7% y-o-y dip, but an improvement over March with a 47% y-o-y fall. #COVID19 https://t.co/io2JpodjKK",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d62513f8e63855990b",
-		"id": 267,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "WHO cares about a #COVID19 vaccine? Well, not the US apparently. \nhttps://t.co/ctrWJzFM7C",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d62513f8e63855990f",
-		"id": 268,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "#Coronavirus: America's reckoning - US correspondent @CordeliaSkyNews explores the impact of #COVID19 on the most powerful country on earth. \nWatch in full 👇\n\nhttps://t.co/XZsR93Lgiy",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d62513f8e638559913",
-		"id": 269,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Meet the collab team behind vernacular #COVID19 info primer https://t.co/zsPL1OsRUq",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d62513f8e638559915",
-		"id": 270,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "Tamil Nadu's @ThirupurP recently released a video to spread awareness about the importance of staying indoors and wearing a mask when stepping out to buy essentials, and it has gone viral on the internet with various misleading claims #coronavirus #COVID19\nhttps://t.co/Yvp6uHRHWv",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d62513f8e63855991b",
-		"id": 271,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Thanks to rapid global expansion, Netflix is now ramping up production in countries that are easing restrictions. \n@NetflixIndia #Netflix #Covid19 #Coronavirus #Lockdown https://t.co/ghqFQtCyJI",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d62513f8e63855991f",
-		"id": 272,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Meet Beela Rajesh, an IAS officer and Health Secretary of Tamil Nadu  who is leading the state's fight against #COVID19. She has ensured that all the preventive measures are being followed strictly. #CoronaWarrior #SaturdayMotivation  https://t.co/8s1jl5DaeC",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d72513f8e638559923",
-		"id": 273,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "We will overcome this together! Be safe! Keep your family and colleagues safe! \n#actioncoach #businesscoach #shajikuriakose #covid19 #coronavirus #besafekeepsafe #bepositive #becalm #BeKindToEachOther #together #overcomeadversity #togetherwestand #togetherwecanmakeadifference https://t.co/QyTwwuOl9Z",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d72513f8e638559927",
-		"id": 274,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Business Mentor: Working amid the threat of #COVID19 https://t.co/RwnaRxrWuK",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d72513f8e63855992b",
-		"id": 275,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "Typically brilliant @Rukmini piece: \"A range of hundreds of indicators show a worrying disruption in India’s basic health services in March 2020 as local administrations pivoted to contain the spread of #COVID19\" https://t.co/0WgBxjnHEl https://t.co/zecUdJzWVY",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d72513f8e63855992d",
-		"id": 276,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "#COVID19, let's be responsible and stop the spread. #SamvedanaTheHappinessHospital https://t.co/IN1Q8OAjop",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d72513f8e638559931",
-		"id": 277,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "New🚨Song🔥“Smoke💨” wit my slat🤧 @bankroll_brm FLOOD Da COMMENTS‼️(💨) I’ll drop it tonight 😈🔥 I promise💯 no🧢 \nI kno y’all been waiting😩4 Swag🐐too drop🙄 Y’all ready🤯🙌🏽 #quarantine #covid19 😷we got whole tape dropping 🔜… https://t.co/NfDSaEdzc7",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d72513f8e638559935",
-		"id": 278,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "#powerofonefoundation, #onolb_nonprofit, and @OC_FoodBank have partnered during this #COVID19 crisis; they are working together to combat hunger in our #SantaAna and #OrangeCounty #communities. \n@ShopMainPlace is their #EFA site for this Saturday, April 25, 8:00a to 2:00p. https://t.co/sEJGdowsYP",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d72513f8e63855993b",
-		"id": 279,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "@WhiteHouse @VP A Oximeter measures Blood Oxygen, costs $70 USD and common in regional hospitals for patients vitals. This tiny device should be made available to ALL Nursing Homes to check for possible #Covid19 infected patients o2 level. Anyone with 90-100% O2 is not infected https://t.co/NFTUfGCunU",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d72513f8e63855993f",
-		"id": 280,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "That's alot of Ohio and Hamilton County 932 confirmed and 557 deaths and no recoverd 15,169 in oh #COVID19 #coronavirus #HamiltonCounty #ohio #cincinnati #Cincinnatiohio #UnitedStates #fox19 #fox19news #foxnews #coronavirusupdate https://t.co/tr1ZAC5Txw",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d72513f8e638559943",
-		"id": 281,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "#Respect  \"Angela Merkel has repeatedly warned that Germany must not rest on its laurels even if the infection rate has dropped, saying it is still \"on thin ice\". Germany had .. 33.9 ICU beds per 100,000 inhabitants compared to 8.6 in Italy and 16.3 in France\" #COVID19 #โควิด19 https://t.co/suAnUNDqex",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d72513f8e638559945",
-		"id": 282,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "This is #Covid19, not Covid-1 folks 😂😂😂, Dr #Trump’s advisor says. Fast forward to 1:47. Trump Attacks the WHO &amp; Kellyanne Can’t Count to COVID-19 | The Daily So... https://t.co/z4e3qUyxZo via @YouTube",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d72513f8e63855994b",
-		"id": 283,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "#Oct16 AMLO meets #Microsoft #Gates #WHO #Oct17 AMLO shows El Chapo's son Ovidius / OVID\n#Oct18 #Event201 #Plandemic\n#Oct19 Dr Shi places #SARSCoV2 at Wuhan fish market\n\nOVID = Ovis =Sheep\n19=Surrender\n#COVID19 = Sheep Surrender\n#Coronavirus #COVIDー19\n#TheGreatAwakeningWorldwide",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d72513f8e63855994d",
-		"id": 284,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Are you getting desperate? Have the #coronavirus quarantine and other measures made you feel like the walls are closing in? Find hope now! Jesus and Dirt is available FREE in Kindle Unlimited or with a trial of Audible. https://t.co/0NsTYhynNh #Hope #Jesus #quarantine #COVID19",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d72513f8e638559953",
-		"id": 285,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "The government’s actions are clear pointers that #COVID19 is not the only danger #India faces  https://t.co/29COLCd16q",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d72513f8e638559957",
-		"id": 286,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "In case of #covid19  aka #WuhanVirus the initial value was +ve, i.e. &gt; 0, in PRC when everyone else's was 0... I.e. it starts in China... then then x(0) &gt;0 in 🇮🇹 .... why not its neighbours🇨🇭🇬🇷🇸🇮🇭🇷?  🇨🇳business connections! Leather industry... Chinese villages in N Italy?..",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d82513f8e63855995b",
-		"id": 287,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "The media has notably omitted any mention of @realDonaldTrump correctly stating that the virus does not survive in heat. #covid19 #coronavirustruth #plannedemic #CabalTakedown",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d82513f8e63855995f",
-		"id": 288,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Register here https://t.co/sxxOveIujd \nFor FREE Webinar on Topic \"Master of Banknifty options\"\n\n#financenews #helpinghands #covid19 #investing #markets #globalmarket #socialmedia #investments #coronavirus #aliceblue #webinarseries #webinars #freewebinars #webinar #learning https://t.co/AkV1LlzSiX",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d82513f8e638559961",
-		"id": 289,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "#COVID19 I’ll do your nails https://t.co/QTfVOhIOjA",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d82513f8e638559967",
-		"id": 290,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Dahil Extended ang ECQ. Stay at Home and Stay Safe from Covid-19 \n#pinoy #marikina #marikeño \n#StayHome  #staysafe \n#COVID19 #Ph",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d82513f8e63855996b",
-		"id": 291,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "#powerofonefoundation, #onolb_nonprofit, and @OC_FoodBank have partnered during this #COVID19 crisis; they are working together to combat hunger in our #SantaAna and #OrangeCounty #communities. \n@ShopMainPlace is their #EFA site for this Saturday, April 25, 8:00a to 2:00p. https://t.co/QpUew2y7qa",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d82513f8e63855996d",
-		"id": 292,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "The kuffar who wouldn't be king, doesn't realise that a royal heir is considered infidel scum. Quit trying to be the best dhimmi in Christendom, Charlie. #Covid19 Prince Charles pays respects to Muslim NHS workers in video marking the start of Ramadan https://t.co/bKxTFdcwpE",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d82513f8e638559973",
-		"id": 293,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "oooh \nThe 5-month-old daughter of a New York firefighter dies from coronavirus\n#covid19\nhttps://t.co/FxImf8dSkI",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d82513f8e638559977",
-		"id": 294,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "@SenKamalaHarris The government MUST cancel #StudentLoans NOW People are going bankrupt behind it because of the compounding issues of the #COVID19 #pandemic #bankruptcy #debt",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d82513f8e638559979",
-		"id": 295,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Calgary Emergency Management Agency Chief Tom Sampson said four months is a long time to mandate cancellations, but it helps the city offer clarity. https://t.co/6iKQWFU2zR #yyc #COVID19 #COVIDyyc",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d82513f8e63855997d",
-		"id": 296,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "It’s time to stop demonizing plastics. Look at this company in Pa. Braskem, with 45 dedicated employees who volunteered to live at the plant for 28 days to make plastics that go into PPE #COVID19 https://t.co/u3qsykAfiY",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3a0d82513f8e638559983",
-		"id": 297,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "Hey @Keene_Sentinel do an actual public service and retweet this after the misleading headline confusing people on the importance of PPE to stop #COVID19!! People deserve solid information not condescension and poor exposure management advice.  Lots of science that’s PRO PPE!! https://t.co/sPX1KdKs7m",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5132513f8e638559985",
-		"id": 298,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "New Stem Cell Therapy From Australia Against #COVID19 #Stem_Cell_Therapy #Jalen #Ravens #Hurts #TrumpIsALaughingStock Watch New Update:-https://t.co/e3qnj7V0I7 https://t.co/C13cXrigdt",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5132513f8e638559989",
-		"id": 299,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "@ss_suryawanshi All, report this account as tweeting #FakeNews  with @Twitter  #COVID19 #coronavirus #PalgharMobLynching #palgharpolice #PalgharLobbySilence #Palghar #PalgharIncident #palgarh #PalgharLynchingKaSach",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5132513f8e63855998f",
-		"id": 300,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "So only 68 current cases of #COVID19 in Victoria . Can we get to Zero? Amazing achievement. Well done @ScottMorrisonMP @DanielAndrewsMP @MartinPakulaMP and all Victorians that have done the right thing https://t.co/ExXR7iija8",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5132513f8e638559993",
-		"id": 301,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "@AmyMcGrathKY If it weren't for the GREAT people of this country SPEAKING UP &amp; making a big To-Doo about #BrettCrozier &amp; the injustices he endured - This wouldn't be happening so #GodBlessAmerica &amp; the Human Spirit #StandUnited Always #coronavirus #COVID19 #Covid_19 @USNavy #USNavy",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5132513f8e638559995",
-		"id": 302,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Don't forget to access #superfastbiz's free How To practical guides to help provide advice and info during #COVID19  All available now in our online info hub 👉https://t.co/yVr1YGLW22 https://t.co/diOmQLtYDe",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5132513f8e63855999b",
-		"id": 303,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Thailand reports 53 new coronavirus cases, one new death \nhttps://t.co/3prEtjxZML\n\n#ThaiPBSWorld #COVID19 #Thailand https://t.co/KFnOwz28nT",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5132513f8e63855999f",
-		"id": 304,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "🔵 Fight #covid19 🦠Check Info via @bernd_montag @SiemensHealth 👇 \n@NevilleGaunt @postoff25 @fogle_shane @archonsec @Dahl_Consult @DrJDrooghaag @enricomolinari @victoryabro @ashoknellikar @shicooks @techpearce2 @baski_LA @Dkell999 @Joanross_biz @sulefati7 @CurieuxExplorer https://t.co/woP8iNio0U",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5132513f8e6385599a3",
-		"id": 305,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "@RainaBrands To the extent that female political leaders are performing better than male leaders against #COVID19, it may be because women are expected and have learned to be more democratic leaders, more collaborative and more compassionate communicators.",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5132513f8e6385599a5",
-		"id": 306,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "One more death reported from Kashmir .  An elderly person dies at SKIMS hospital Bemina .\n#COVID19 #CoronaUpdate #CoronavirusLockdown",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5132513f8e6385599ab",
-		"id": 307,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "His campaign rallies were the one place he could go to escape, albeit temporarily, the irrational hatred spewed by the Trump Derangement Syndrome-infected mainstream #FakeNews media. And now the deep state even took that from him thanks to their #COVID19 bioweapon being..",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5132513f8e6385599af",
-		"id": 308,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "We will have the cure soon #MAGA #COVID19 https://t.co/nvaXYzJrmG",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5132513f8e6385599b1",
-		"id": 309,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Good morning,  I''ve been away from  #Ghana Covid19 Relief Support for a self quarantine for the past 14days. \nNow, the Lockdown is over but the need for PPEs has increased as our #Covid19 positive cases increasing by the day. We please need your donation…https://t.co/DOdEw1RzN3",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5132513f8e6385599b5",
-		"id": 310,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "Sale by E-commerce companies will continue to be permitted for essential goods only. \nSale of liquor &amp; other items continues to be prohibited\n\nNo shops to be permitted to open in hotspots/containment zones: @PIBHomeAffairs \n\n#lockdown #Lockdown2 #COVID19 #COVID",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5142513f8e6385599bb",
-		"id": 311,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Body language 101 Watch reaction of Dr Deborah Birx.\n\n#Covid19 #coronavirus #bodylanguage https://t.co/nzT6LiIvnH",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5142513f8e6385599bf",
-		"id": 312,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Worried about your regular health checkup. Our Blood Collection Officer follow all precautionary norm while collecting sample from your doorstep or Call us 9810981083 #StayHome #StaySafe #COVID19 #BharoseWalaCheckup #HindustanWellness Hindustan Wellness https://t.co/TXMGEYfUPb",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5142513f8e6385599c3",
-		"id": 313,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "@SpeakerPelosi demands you must do what she says, but look at her hands!! She is doing everything to infect herself and spread infection to others (if already infected). #CCPVirus #covid19 https://t.co/dSHG7hiJD0",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5142513f8e6385599c7",
-		"id": 314,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "\"The notion that early intubation avoids use of CPAP or NIV, therefore decreasing risk of viral transmission with the use of PPE, is debatable\"\n\nArulkumaran et al. Use of NIV for patients with COVID-19: a cause for concern? Lancet Resp Med 2020\n\n#COVID19\n\nhttps://t.co/VfFEEpXgiY",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5142513f8e6385599cb",
-		"id": 315,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "@MartinRemains @birdonthewire3 @dantomlin1 @BBCNewsnight @belle_codes @Sir_David_King The problem is that only can we not trust the media now, we certainly can’t trust anything that comes out of this Govt mouth-and its reluctance to ditch the obsessive secrecy that permeates Whitehall even on something so important as #Covid19 &amp; #Sage only makes things worse.",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5142513f8e6385599cd",
-		"id": 316,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "With decision-makers literally making life and death choices, the contrast is stark between the empathetic, informed and rational, and the weird, wacky and reckless. My take in @ScotNational #coronavirus #COVID19 https://t.co/nvhbNRUR0I",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5142513f8e6385599d3",
-		"id": 317,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "How to practice Social distancing in Mecca? Cling to each other. #COVID19 https://t.co/SBdIJzkFFs",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5142513f8e6385599d7",
-		"id": 318,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "Notice that all these western Human Rights group like @hrw @amnesty harping on Asian countries refusal accept illegal immigrants during pandemic #covid19 ...pls stop this hypocrisy. US build a wall to stop illegal immigrants. How many illegal immigrants u accepted? None, right?",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5142513f8e6385599db",
-		"id": 319,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "The second weekly @TIAC_AITC 'State of Tourism in Canada during #COVID19' report is out, produced by #Twenty31 - fact based evidence providing answers for #DMOs on 3 key topics: when will containment happen?; will tourism return?; what will it look like? @DestinationCAN https://t.co/N1LSRcgF9X",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5142513f8e6385599df",
-		"id": 320,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Not all Heroes Wear Capes!! \nHuge thanks to Shubhangi for sharing her story with us, your story motivates us to go beyond our limits and work for the society. \n#ProudToBeSRVian #SilverliningBySRV #Corona2020 #COVID19 #FightAgainstCOVID https://t.co/UtpgRSLca0",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5142513f8e6385599e3",
-		"id": 321,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "@RuthieSky After the Lysol incident, they better do something...I’m sure the people around him are on pins and needles waiting for the first #COVID19/Disinfectant related deaths to hit the media. They can’t help but be worried about the ammo this is giving the #Biden2020 election campaign.",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5142513f8e6385599e5",
-		"id": 322,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Guinness record holder Rajesh Burbure, along with son Vaibhav and daughter Dhanshree, performs in Nagpur to create awareness against Covid-19. #Lockdown #SocialDistancing #COVID19 https://t.co/O3bRp20Ttf",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5142513f8e6385599eb",
-		"id": 323,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Kudos to the Ukrainian men and women fighting on 3 fronts. - war with Russian mercenaries in the #Donbas,\n- war against raging wildfires in #Chornobyl, grass and forest fires in Zhytomyr Oblast (both stll smoldering),\n- war against #COVID19.\nThank you! https://t.co/TSc71R0nx8",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5142513f8e6385599ed",
-		"id": 324,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "I want to be able to do that for people. I'm glad there are people who can and do. Stupid IRS...😒\n#COVID19 \n#PeopleHelpingPeople \n#KindnessMatters",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5152513f8e6385599f3",
-		"id": 325,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Lucknow: Uttar Pradesh Chief Minister Yogi Adityanath holds a meeting with chairpersons of 11 committees of the state to combat #COVID19. https://t.co/iCOAk9tFfq",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5152513f8e6385599f5",
-		"id": 326,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "What is boiling in #Asmera...??? \nSomething big is been cooked, the runaway of the westerners is not just for #COVID19.\n\nWatchout #Debretsi, Watchout  #Tigray..🛰🛰🛰\n\n#Wedi_Afom #EPLF #PM_Abiy vs #TPLF \n\n#Eritrea 🇪🇷 #Ethiopia 🇪🇹 https://t.co/K73Muh4Hzp",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5152513f8e6385599fb",
-		"id": 327,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Chinese scientist study found two types of the new coronavirus strains..... #China #Shanghai #Wuhan #COVID #CoronavirusOutbreak #COVID19 #COVID2019 #CoronavirusChina #Covid_19 #Coronavirus #COVIDー19 https://t.co/kmFgEXXdB8",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5152513f8e6385599ff",
-		"id": 328,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "I just donated to the #COVID19Fund to support @WHO's response efforts to the global #COVID19 pandemic. Join me to help combat this growing global threat to people's health and well-being: https://t.co/rKHithKmRZ",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5152513f8e638559a03",
-		"id": 329,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Would be really rad if @DiGiorno would hit a magic button that increased the amount of pepperoni on their pizzas by like 50%, I mean we can do 6 pepperonis on a single pizza during these tough times right? #pizza #COVID19 #Covid_19",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5152513f8e638559a07",
-		"id": 330,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "5Member team of GovtofIndia came to #Surat;Team had meeting with Local-State govt official via Video Conference on situation of #Covid19 in Surat. Day back @HMOIndia took serious note about Surat.@CommissionerSMC @OurSMC @collectorsurat @CP_SuratCity @GujHFWDept https://t.co/TONCzMIBwv",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5152513f8e638559a09",
-		"id": 331,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Nice project by Yuanfang Guan: \"Subtyping #covid19 Therapeutic Research Findings\": \nhttps://t.co/2Sb7Uc5Wh7 https://t.co/cfGd7btB2H",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5152513f8e638559a0f",
-		"id": 332,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "The United States on Friday witnessed its lowest novel coronavirus daily death toll in three weeks \n#COVID19 #Coronavirus",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5152513f8e638559a13",
-		"id": 333,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "USA with 39.0k New Cases (37%) and 2.0k Deaths (31%). 3m cases by Monday, 200k deaths by tomorrow.\nEcuador had 11.5k new cases, a 103% increase. 😱 \nRussia (5.8k) and Brazil (4.0k) also big.\n#Covid_19 #Covid19",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5152513f8e638559a17",
-		"id": 334,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "We need to stop under-calling whats an “aerosol generating process” &amp; err on side of safety otherwise more #HCW #HCP will suffer &amp; die: protect our non-medical colleagues with full AGP #PPE #COVID19  \nExclusive: deaths of NHS staff from covid-19 analysed https://t.co/RuoLKSH14z",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5152513f8e638559a1b",
-		"id": 335,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Watch and be enlightened. 'The New Owner of the World' by Pastor Apollo C. Quiboloy \nhttps://t.co/U6yJqU95dT via @YouTube @PastorACQ \n#ApolloQuiboloy #KingdomofJesusChrist #COVID19 #StayHome #coronavirus #lockdown",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5152513f8e638559a1d",
-		"id": 336,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Covid monster illustration in process🧬🧫🧪☣️ #covid19 https://t.co/UAZwPhKPQg",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5162513f8e638559a23",
-		"id": 337,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "Chile's drought devastates ranchers, farmers - ABC News via @ABC - https://t.co/6b270ahksA #putaendo #chile #COVID19 #sequia",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5162513f8e638559a27",
-		"id": 338,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "Have we all forgotten the lesson of The Emporor's New Clothes? If one has dangerous pathological liar as a leader, would a crisis of this magnitude not be the time to replace (or at least censor) them? #COVID19 https://t.co/XsWEUCmx2j",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5162513f8e638559a2b",
-		"id": 339,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "I hav alwys believd this whn ppl raise the slogan ' Save The Earth'-the EARTH DOESN'T NEED SAVING, it's us who do! Whn we ignore othr cues frm nature, we're hit upon by the deadliest, to make us sit bck n thnk, WHAT LIFE REALLY IS? @narendramodi @UNEP @wef #COVID19 #BeatTheVirus https://t.co/Ac2XQXVS46",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5162513f8e638559a2d",
-		"id": 340,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "I'd bet 💰 that trump will try to take credit for how well #California is handling the #COVID19 #pandemic 🙄😏 \n#PresidentNewsom https://t.co/B0mlwk3D0n",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5162513f8e638559a33",
-		"id": 341,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "@bobsaget I told some kid I haven't had hair this long since we skated. He said street or vertical?\nI said, just fix my sprinklers.#hairstyle #COVID19",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5162513f8e638559a37",
-		"id": 342,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Not all Heroes Wear Capes!! \nHuge thanks to Shubhangi for sharing her story with us, your story motivates us to go beyond our limits and work for the society. \n#ProudToBeSRVian #SilverliningBySRV #Corona2020 #COVID19 #FightAgainstCOVID https://t.co/7h8BsNtBKI",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5162513f8e638559a3b",
-		"id": 343,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "🗓️Friday, April 24, 2020 \n🚨 #Genome #Scientists found that the explosion of #CORONAVIRUS - #COVID19 cases in New York State - #NYS resulted largely from Infected People who flew in from #Europe NOT #China.\n\n@CDCgov @WHO\n\n@QuickTake @Business\n\n@HubBucket @ProsumerSoft https://t.co/q1M1cCbRdK",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5162513f8e638559a3d",
-		"id": 344,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Share Please! \n#QAnon #TheGreatAwakening #TheStormIsUponUs #COVID19 https://t.co/PvBmvI5OBF",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5162513f8e638559a43",
-		"id": 345,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "#Coronavirus detected on particles of air pollution   #corona #covid19 @milieudefensie https://t.co/7v9JQFMblC",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5162513f8e638559a47",
-		"id": 346,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "My sister in law is a nurse at UW medical center in Seattle and works COVID unit. She told me that there are young people dying. Healthy 23 year old, 29 year old father of two...it’s not just old and sick. #StayAtHome #COVID19 #WashingtonState #staythefuckhome",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5162513f8e638559a4b",
-		"id": 347,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "122 577 people infected, 22 245 deaths and 43 493  people recovered from #coronavirus #covid19 in France 🇫🇷 \nFind below the report situation of the 24th of April to follow the evolution of the #pandemic in France 📉\n\nHere is a link to access to the PDF: https://t.co/QMdM3M3G6b https://t.co/EJkOISPGJp",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5162513f8e638559a4f",
-		"id": 348,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "Grieving children don’t stop grieving because of a pandemic. #COVID19 #facts #hurtingchildren @c_grief @KidsGriefRelief https://t.co/0n83rt4L22",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5162513f8e638559a51",
-		"id": 349,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "@Ebinular Was searching for Covid-19 news in VA and saw your tweet.  \nHope this helps--#Covid19 testing in #Richmond area: \nhttps://t.co/52ttMShBws",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5172513f8e638559a57",
-		"id": 350,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Thanks @UNDRR for highlighting the urgency to look into building more resilient &amp; stronger communities post-#COVID19.  \nSee link to a copy of our article on @PreventionWeb below!\n\n#PreventionSavesLives https://t.co/ttgKoiFEKY https://t.co/BQKb1XsM32",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5172513f8e638559a5b",
-		"id": 351,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Appreciations fall short to the superheroes working relentlessly and saving the human race from a pandemic like COVID19. A big salute to their dedicated selfless service from everyone at the Zonta Family. #mohua #swachhbharatmission  #Superheroes #Pandemic #COVID19 #Coronavirus https://t.co/1A41Cd9gS0",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5172513f8e638559a5f",
-		"id": 352,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "WTF #COVID19 @Channel4News @piersmorgan @chunkymark #COVID19 follow the money #ToryCriminalNegligence  #HerdimmunityIsMurder https://t.co/o6k6eXTfKd",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5172513f8e638559a63",
-		"id": 353,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "Ppl are scared, giving up hope, &amp; untrusting of our governments current action(or lack of) \nPpl are reacting out of anger, fear &amp;desperation. Remember to be human first; be kind first. We're all struggling Capitalism is all of our enemy.\n#COVID19 amplified problems already there.",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5172513f8e638559a67",
-		"id": 354,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "I Would like to make an announcement that Ophthalmology Congress 2020 is Converted into a Webinar Conference. Interested members mail us at ophthalmologycongress@meetingsnexpo.com\nhttps://t.co/n2mYzhCpeu #ophthalmology #Ophthalmologists #COVID19 #Professors #Stayhome #Staysafe https://t.co/K3gbnVMsh2",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5172513f8e638559a69",
-		"id": 355,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "The #COVID19 #pandemic is spreading rapidly, with new updates flying in every minute. As the situation evolves, many #smallbusiness owners are unsure of what steps to take to #mitigaterisk, protect employees and support customers.  #smallbusinessowner #socialdistancing\nPart- 1/2 https://t.co/Vk5PNqtMOx",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5172513f8e638559a6d",
-		"id": 356,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "🔫🤠🍁CANADIAN BANDITS! ON THE RUN FROM GERMS!🍁🚓🐎 \n🇨🇦 All three of us girls bought bandanas and wore them as PPE! We had a gay ol' time 🤣 too much fun!! 😂\n\nVIDEO ⏯ https://t.co/o0YXqJm7Lb\n\n#PPE #Bandanas #outlaws #Funny #Comedy #Canada #Covid19 #Coronavirus #maskchallenge https://t.co/FZKb0C8u7O",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5172513f8e638559a73",
-		"id": 357,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "‘The #coronavirus challenge could be the opportunity of a better future’ via @Mike_Fabricant @Telegraph  \n‘Turn a challenge into an opportunity, I always believe. The challenge of #Covid19 could be the opportunity of a better future’ Inc: for #SocialCare\nhttps://t.co/eIyDoIJHN9",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5172513f8e638559a75",
-		"id": 358,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "Kerala High Court said govt must take steps to protect the privacy of people &amp; seek their consent before sharing data #COVID19.  Wonder why is @ShashiTharoor (Head of Parliamentary Standing Committee on IT) silent on the Sprinklr issue, when his party members are raising concerns",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5172513f8e638559a79",
-		"id": 359,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "Some fool in my neighborhood is shooting off a gun, over and over again. Maybe he's a mossback who believes something like what some people in Louisiana did 180 years ago, that cannon fire could shoo away yellow fever \"miasma.\" Next maybe he'll challenge #COVID19 to a duel.",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5172513f8e638559a7f",
-		"id": 360,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "#COVID19. i was misled as manipulated to prove for another direction - that is OK.\nWith science data prepared , still i got the same answer -\nTruth as it is, can be explained from several aspects - all applies.",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5172513f8e638559a83",
-		"id": 361,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "#CoronavirusOutbreak | ‘Entire nation except Congress supporting government during #Covid19’: @PrakashJavdekar \n#Watch https://t.co/Uz5oAHAggx",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5182513f8e638559a87",
-		"id": 362,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Updated Day End April 24, 2020. \nPunjab Islamabad numbers came in around 230am.\n\n#Pakistan #COVID19\n\n****\n\nMortality Rate \n\nPakistan 2.1%  ↔️\n\nKP at 5.2%  🔽\n\nKARACHI at 2.6% 🔽\n\n****\n\nRecovery Rate \n\nPakistan 23.1% 🔼\n\n****\n\n785 new cases added 🔼 https://t.co/iFgEGSXM3T https://t.co/GfMwy8MQij",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5182513f8e638559a89",
-		"id": 363,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "We at Indian National Congress firmly believe in the ideology of expressing &amp; initiating a dialogue that can affect the country's people &amp; hence questions the Central Government's decision of continuing the wasteful expenditures. Is it justifiable..? #COVID19 @INCIndia https://t.co/Lomh82cHnE",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5182513f8e638559a8f",
-		"id": 364,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "There are few things I’ve ever felt this strongly about in my life.   What choice do you like?  Massive loss of life and a decimated economy;  or massive loss of life and a return to the new, economic normal. You have to choose... there is no middle. #COVID19 #HerdImmunity",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5182513f8e638559a93",
-		"id": 365,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "#COVID19 is caused by vaccines | Dr Judy Mikovits, PhD https://t.co/xs8UP3Bnku via @YouTube",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5182513f8e638559a97",
-		"id": 366,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Hey, new to Twittard. My name’s Lucas. I guess that’s it for now. Don’t forget to dip that baby in some Listerine. #COVID19 #new #iamnew #follow",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5182513f8e638559a9b",
-		"id": 367,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Confirmed cases of #COVID19 increased by 111,801 cases globally on April 24, surpassing the previous single-day high of 101,566. https://t.co/LjqbeeiDnB",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5182513f8e638559a9f",
-		"id": 368,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "@BBC3CR Legitimate alarm bells ring with revelation of unprecedented role in officially independent SAGE committee #COVID19 meetings of controversial non scientist No10 adviser Dominic Cummings. Not least given secrecy over SAGE members&amp;refusals to publish minutes&amp;advice details",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5182513f8e638559aa1",
-		"id": 369,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Mask up - Slow the spread #COVID19LK #Covid_19 #COVID19 #lka https://t.co/rILzyb1AV4",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5182513f8e638559aa5",
-		"id": 370,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "1 new death in Montserrat  \n[6:12 GMT] #coronavirus #CoronaVirusUpdate #COVID19 #CoronavirusPandemic",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5182513f8e638559aa9",
-		"id": 371,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "World leaders on Friday pledged to speed up work on tests, drugs, and vaccines to treat novel coronavirus and share them with the rest of the countries, but the United States did not participate in the initiative launched by the @WHO \n#COVID19",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5182513f8e638559aaf",
-		"id": 372,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "My heart is heavy today. 😔 \nThe ripples of grief associated with the loss of so many of my international colleagues striking home.  \n\n #UltimateSacrifice #COVID19\n\nWe will always remember them 🖤 https://t.co/ZnvCHRoJZR",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5182513f8e638559ab3",
-		"id": 373,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "We are being lied to every single day. Flattening the curve my ass. #COVID19 #Canada #Lies https://t.co/c22AylpR9i",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5182513f8e638559ab7",
-		"id": 374,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "This 4 days #TNLockdown has no logic. #COVID19 needs at least 2 weeks #lockdown which whole of TN is in already.\n\nThis sudden 4 days lockdown makes people go for shopping to stock things which completely wipes out all the advantages achieved by the lock down so far.",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5192513f8e638559abb",
-		"id": 375,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Special Assistant to PM for Information and Broadcasting  @Dr_FirdousPTI Tweet  (2/2)\n\n#APPNews #FirdousAshiqAwan #Pakistan #PMIK_RealWarrior #Media \n@MoIB_Official\n #COVID19 #CoronaUpdate #Covid_19 https://t.co/2tShYGlFE8",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5192513f8e638559abd",
-		"id": 376,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Together with @theRCN, we're urging the country to observe a minute’s silence at 11am Tuesday 28 April to remember all the health, care and other key workers who have lost their lives to #COVID19 #NeverForgotten #IWMD20 https://t.co/F56tUhmZCN",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5192513f8e638559ac3",
-		"id": 377,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Special Assistant to PM for Information and Broadcasting  @Dr_FirdousPTI Tweet  (1/2)\n\n#APPNews #FirdousAshiqAwan #Pakistan #PMIK_RealWarrior #Media \n@MoIB_Official\n #COVID19 #CoronaUpdate #Covid_19 https://t.co/pWc807vT9h",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5192513f8e638559ac7",
-		"id": 378,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Give $2000/month to every American  #moneyforthepeople #covid19 #CongressPassUBI \n\n- Sign the Petition! \n\nhttps://t.co/W2xnYQEaEb via @Change",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5192513f8e638559acb",
-		"id": 379,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Years ago, a disease spread that affected millions of bats and died due to fungi living in caves. Why not use these fungi in experiments to eliminate the virus? Because the coronavirus\nIt is found mainly in the blood of bats and does not fight these fungi🧐\n\n #COVID19",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5192513f8e638559acf",
-		"id": 380,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "PRAYER BULLETING FOR COVID-19. \npray that: God's fire will fall in our nation. God's fire will burn all rubbish of COVID-19 in our nation. Fire will visit all the covens of the wicked in our nation. #Covid_19 #COVID19 #African #Europe #Asia #NorthAmerica #SouthAmerica #others",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5192513f8e638559ad3",
-		"id": 381,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "@CBSNews #Abbott Labs Rapid 5 min Test .Fujifilm #Antiviral Drug #Avigan that's Effective Against #COVID19 #CORONAVIRUS  #Hydroxychloroquine #Azithromycin #Zinc #Remdesivir #KALETRA \n#Signs reminding us\n #WearMasks #MASK4ALL\n\n https://t.co/x75pSQCDxN",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5192513f8e638559ad5",
-		"id": 382,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Real news, virucidal UV light nano tech on the horizon! People need to inform themselves.Please🇨🇦look for the answers beyond msm if you are still cognizant &amp; capable of study &amp; independent thought! #COVID19 #CovidAB #CoronaVirusCanada #Scheer #TrudeauMustGo #GreatAwakeningCanada https://t.co/cWQcMypEuH",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5192513f8e638559adb",
-		"id": 383,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "And, you fuckers want to protest to get your hair done and to buy shitty, overpriced capitalist bullshit. Look at this baby! You aren’t pro-life if you can look at him and say, “Naw, my pedicure is more important than his life.” #COVID19 #StayAtHome https://t.co/nYFrZ1V84L",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5192513f8e638559adf",
-		"id": 384,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "@GovMikeHuckabee I beg of you to please take you and your family out and about with all these protesters.....stop spewing and and actually do what you say.....travel on down to @georgia Getty up partner or whatever they say just get there and show your face #COVID19 https://t.co/32cLyH9tvX",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5192513f8e638559ae3",
-		"id": 385,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "gassings, death camps using crematoriums, 11 million displaced, barrel bombs, etc. and perhaps you can’t end entirely the war. However, you can end the atrocities. You can hold the people accountable. It will be bad to know US planes flew over death camps and m nothing. #COVID19",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5192513f8e638559ae7",
-		"id": 386,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "@vertumotors @dailytelegraph @thetimes @LogisticsBCA has not stopped spreading #COVID19 \nThey are delivering cars with #coronavirusuk \n\nAll surfaces carry #coronavirus\n\n#cars are #COVID #weapons #bca",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5192513f8e638559aeb",
-		"id": 387,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "We all learn everything with time. It's just about the efforts. Let us know what you have learnt in this quarantine. #JREvents\n#JREIC\n\n#covid19 #coronavirus #fightagainstcovid #Quarantine #extendedlockdown #lockdown2 https://t.co/ruymilHEKK",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d51a2513f8e638559aed",
-		"id": 388,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "the therapist is standing in a room of unused ventilators as he says: \"all this talk you hear on the news about governors and everybody else having shortages of ventilators, it's not true.\" \n#COVID19",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d51a2513f8e638559af1",
-		"id": 389,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "The ⁦@HiltonHotels⁩ tonight, as seen from my building’s back courtyard. Had to clamber on to a ledge so I could just barely make out the SF beneath the ❤️. #SanFrancisco #CoronavirusPandemic #AloneTogether #COVID19 #wemissyou, #CityOfHeroes! https://t.co/ZfLxQgc8Wi",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d51a2513f8e638559af7",
-		"id": 390,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "These American protesters wearing hazmat suits, masks and shields, claiming #COVID19 is a hoax is dumber than 100, 000 @realDonaldTrump clones combined..",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d51a2513f8e638559af9",
-		"id": 391,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "Surely #COVID19 #testers should be wearing a #visor as well as glasses/goggles &amp; mask. Footage on @BBCBreakfast of a young, soldier lad wearing only a mask &amp; flimsy specs. He was about 6\" away from suspected covid +ve person. Give the laddie a visor please!! Reduce viral load",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d51a2513f8e638559aff",
-		"id": 392,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "OH....  NO 🙃❗❗ The lives of some 270 hundred #elephants🐘🐘🐘are hanging⛓️ in the balance⚖️due to the #COVID-19 outbreak. \n\n#Botswana 🌍: Reinstate #Elephant #Hunting Ban During #COVID19 Pandemic https://t.co/hKl82PotPP \n@XR_SouthAfrica \n@ExtinctionR  @xrgambia",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d51a2513f8e638559b03",
-		"id": 393,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Briliant piece on coping with #COVID19 in Wuhan.. And, (as an aside) a quote to remember,\n\"Misfortune tests the sincerity of friendship.” https://t.co/6Vo46V8RtH",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d51a2513f8e638559b07",
-		"id": 394,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "@noid_p @Banks429 @KeishaBottoms In my county, #Covid19 is killing 10% of those testing positive. Most of them were not \"already dying.\" \nEven for those few who were, to deliberately hasten the death of another human being is not expedience - it is murder.",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ea2513f8e638559b09",
-		"id": 395,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Useful Idiots Podcast latest episode, featuring Senator @ninaturner (who's running for President). Buckle up and enjoy this great episode if you need your spirits lifted in any way, shape, or form! Yay @kthalps &amp; @mtaibbi. https://t.co/syIkVofITp #ninaturner2024 #notmeus #COVID19",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ea2513f8e638559b0d",
-		"id": 396,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Death toll due to #COVID19 mounted to 06 in #JammuAndKashmir (05 #Kashmir, 01 #Jammu), as an elderly man from Tangmarg #Baramulla dies of #coronavirus in #Srinagar hospital today. The patient was admitted in the hospital on 13 April this month .. @news24tvchannel",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5eb2513f8e638559b11",
-		"id": 397,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Southern California Sikhs ‘a godsend’ for those in need during the coronavirus pandemic \nScores of Sikh community volunteers at Riverside Sikh Temple in Jurupa Valley have been distributing about 1,400 meals daily for the past four weeks. #COVID19\n\nhttps://t.co/fZ7cz8MLIC",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5eb2513f8e638559b17",
-		"id": 398,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Five of the countries most at risk from famine in 2020 https://t.co/JrmyFiiPJw #covid19",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5eb2513f8e638559b19",
-		"id": 399,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "#COVID19 and it's impact on Indian #Securities.  Our new blog is out now! \nRead blog on https://t.co/ilRrtWj2FE\nAuthor: Amarjeet Tiwari\nAmarjeet.tiwari@carerisksolutions.com\n#indianeconomy #finance #covidimpact #oilindustry #hydrocarbons #petroleum #riskmanagement #banking https://t.co/Q3xDEyuQOt",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5eb2513f8e638559b1d",
-		"id": 400,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "@judgejosie “Pure Baloney”: Zoologist Debunks #Trump s #COVID19 Origin Theory, Explains Animal-Human Transmission https://t.co/n6uSOQqnqt",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5eb2513f8e638559b23",
-		"id": 401,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "“How to fudge #COVID19 figures”— a subject for a webinar by #WestBengal govt? https://t.co/rIMpKAAUtS",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5eb2513f8e638559b27",
-		"id": 402,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "#Covid19 Live Update: \n#Bulgaria +46 cases,  +4 recovered\n#ElSalvador +13 cases,  +3 recovered\n#Hungary +60 cases,  +12 deaths,  +57 recovered\n#Kyrgyzstan +9 cases,  +23 recovered\n#Tanzania +15 cases, \n#US +526 cases,  +24 deaths,",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5eb2513f8e638559b2b",
-		"id": 403,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "@AdhikariMaha Sir now PAIN due to #COVID19 , TODAY 5Yrs of #Earthquake &amp; 4Yrs of OUR COMPLAINT-1 to @RastraBank . Please persecute @CitizensBankIn1 ,(giving Nepali #Consumers 9Yrs of PAIN) as per COMPLAINT 1 &amp; 2(Doc 01/03-4pg) @Annapurna_Post @RameshLeads @Himalayabiraj @dmlinp https://t.co/lNhRW23SH6 https://t.co/DiPtQwnBjk",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5eb2513f8e638559b2f",
-		"id": 404,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "#COVID19 whoever takes the corona vaccine is dumb dumb lol they finna insert microchips inside of u and control u by using the new iphone or sum shi lol have fun ❤️🍪",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5eb2513f8e638559b31",
-		"id": 405,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "@MikeAda69588676 @FreshWhittaker @GmamaBear_ @miss_simone247 @Penguin_SYLS @misshellca @medwoman1 @BrokeRoca @pookietooth @missjulialee @TonyTatano @TrumpSugar @HouseOfJames2 @PoliticsPot @camp_terrence @PersevereEver @tifinblm @SpaceForceBravo @ic_lib @newsjunky2 @akvawe66 @Rose52413 @antiquelove1234 @GoofyGary7 @RushvilleRockit @DogloverMmat65 @Dennisabm @everything_says @cloudzzz757 @JohnnyNowhere @JayCory7 @gaybunnypup @LisaNicholo @Markholiday13 @flyjibs @Michell45129550 @Vixen95Trish @me1047 @imvala @VP @realDonaldTrump @realTuckFrumper @realDonaldTrFan @HKrassenstein @HillReporter @mcspocky @phil_mckraken @GOP Trump circus doing everything possible to identify drugs as #COVID19 cures bcs otherwise stuck with a vaccine. Antivaxers a large group in trumpville.",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5eb2513f8e638559b37",
-		"id": 406,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "#MyCityNTL page-04 #amarujala #Nainital #Haldwani \n#Corona #COVID19 https://t.co/GKI1C37VtV",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5eb2513f8e638559b39",
-		"id": 407,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "#Whattodo in #Lockdown2 ? https://t.co/bbROaGuSXg . #Read! Have a fresh mind. #SayAware of the latest developments. #Freebooks #StaySafe . #StayAwareStaySafe  #nutrafy #nutrafywellness #covid19 #coronavirus #thingstodo #whattodo #read #lockdown2 #Audible https://t.co/YUQNLT5wrT",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5eb2513f8e638559b3d",
-		"id": 408,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "#JammuAndKashmir death toll rises to 6 as 72-year-old man, who was Positive with #Covid19, Died at SKIMS Medical College hospital.",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5eb2513f8e638559b41",
-		"id": 409,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "@TimesNow @TelanganaCMO @KTRTRS @TelanganaDGP @TSMAUDOnline @CommissionrGHMC @cpcybd @hydcitypolice @RachakondaCop\n\nSir, MHA allows reopening of all shops across the country with certain conditions.\n\nAre these relaxations not applicable to #Telangana state (excluding #COVID19 hot spots)?",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ec2513f8e638559b47",
-		"id": 410,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "This Too Shall Pass...#COVID19 Can't Stop Us...Only Pause Us. We Will Play Again... \n#TJLoveThoughts",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ec2513f8e638559b4b",
-		"id": 411,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "To our Caregivers fighting #COVID19 around the world - #ThankYou to all of you! https://t.co/bmwggLgJ3i",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ec2513f8e638559b4d",
-		"id": 412,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Do not believe the liberal #FakeNewsMedia regarding #Hydroxychloroquine &amp; #ZPak not being effective. Most doctors in #NYC are prescribing hydroxychloriquine and are satisfied with results of helping patients with #Covid19. @MarkSimoneNY @realDonaldTrump @VP https://t.co/i21JffDKdl",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ec2513f8e638559b51",
-		"id": 413,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Hi @swedishPM the world urgently needs a vaccine against #COVID19 — but funds are running out. Will you step up support to @CEPIvaccines and @gavi to help eliminate #coronavirus worldwide?",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ec2513f8e638559b57",
-		"id": 414,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Today, I wrote a Love Letter to Healthcare Workers https://t.co/qRL1bcIBXT #covid19 #healthcareworkers #alonetogether #caregiving",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ec2513f8e638559b59",
-		"id": 415,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Not to sound like a Karen but wow the park and playground in Box Hill gardens has like 200 people in it! I thought @VictoriaPolice monitored that sort of stuff during #COVID19",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ec2513f8e638559b5f",
-		"id": 416,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "STAY THE FUCK HOME. THE SOONER THIS SHIT IS OVER THE SOONER WE CAN BE OUT DOING SOME FUCK SHIT. SOME OF US NEED TO BE OUT OF OUR DAM HOUSE ALREADY. #StayAtHome #COVID19 https://t.co/xpHw18GhA7",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ec2513f8e638559b63",
-		"id": 417,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Thanks to @Cristiano @Ibra_official @lewy_official @JoshuaKimmich @leongoretzka_ for your initiatives to fight #COVID19 and all supporters who donated so far! Together #WeWillWin against the virus! ⚽ Who is next to step up? @FIFAcom @UEFA #GlobalCitizen",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ec2513f8e638559b65",
-		"id": 418,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "@thouse_opinions #RIP With over 50,000 people dead in US so far, why is there no public access website with a list of the names? #coronavirus #covid19 https://t.co/pSJltQgm2b",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ec2513f8e638559b69",
-		"id": 419,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "Bizarre on so many levels. Killing off their voter base..... #BorisJohnson &amp; Conservative support is from the elderly!  #Brexit voters.\n\n#coronavirus #covid19 #r4Today #BBCr4Today https://t.co/Yw0Bp52HWM",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ec2513f8e638559b6f",
-		"id": 420,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "#AnthonyFauci has blood on his hands. #FauciTheFraud #COVID19 #Covid_19 #COVIDIOT #CoronaUpdate #Oklahoma @GovStitt @TalkRadio1170 @newson6wxguy @KRMGtulsa @KarenLarsenKJRH https://t.co/CDjIdypWGh",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ec2513f8e638559b71",
-		"id": 421,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": ".@JustinTrudeau @KarinaGould — viral outbreaks anywhere are a threat to people everywhere. Will Canada pledge new funds to @Gavi to deliver vaccines and help protect the poorest countries from #COVID19 and other deadly diseases? We can only #DefeatDiseaseTogether.",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ed2513f8e638559b77",
-		"id": 422,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Our Nation Prayer Healing Viras Was A Keep Our Staff Medical Hospitality For better Care we Community Philippines We as one For shares We Thank You Pray Christ in Since COVID 19 Hope Thank You To Forntliners #LigatsPilipinas #Salamat #COVID19 #Forntliners",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ed2513f8e638559b79",
-		"id": 423,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Frontliners at roadblocks should drink eight glasses of water daily  \nhttps://t.co/2xH79rJr1E\n\n#covid19\n#movementcontrolorder \n#ramadankareem https://t.co/9Oy9GQ8T0Q",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ed2513f8e638559b7d",
-		"id": 424,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Thor Dark World X-Men Dark Phoenix\nAmazing Spiderman\nIron Man 2\n\nLots of @MarvelStudios MCU movies to record &amp; watch on @FOXMoviesPH during this #COVID19 extended quarantine till May 15\n\nBut I don't feel like watching them\nI prefer down-to-earth movies than campy superhero movies",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ed2513f8e638559b83",
-		"id": 425,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Anchoring #cognitive_bias occurs when an individual depends too heavily on an initial piece of information offered.  Now that we know more about #COVID19 (&amp; its medical/societal consequences), mitigation of #anchoring requires our joint personal, collective, &amp; societal attempts. https://t.co/dYbEaEDdWz",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ed2513f8e638559b87",
-		"id": 426,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "You seriously couldn’t make this stuff up if you tried. 🤦‍♂️🤦‍♂️🤦‍♂️ #DonaldTrump #TrumpLiesAmericansDie #COVID19 #coronavirus #bleach - Revealed: leader of group peddling bleach as coronavirus 'cure' wrote to Trump this week https://t.co/HKmEeYH2Vx",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ed2513f8e638559b8b",
-		"id": 427,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "PRAYER BULLETING FOR COVID-19. \npray that: All strongmen against our nation will be visited by GOD to do the right. GOD will take over all the affairs of this nation. #Covid_19 #COVID19 #Europe #African #Asia #NorthAmerica #SouthAmerica #others",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ed2513f8e638559b8d",
-		"id": 428,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Infographic on #COVID19 status of #Odisha upto 24th April, 2020. https://t.co/PS2U5ADRw7",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ed2513f8e638559b91",
-		"id": 429,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Two patients who recovered from #COVID19 will donate their plasma at the BMCRI. \n#PlasmaTherapy #Bengaluru \n\nhttps://t.co/gjTkb3ggeo",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ed2513f8e638559b97",
-		"id": 430,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "@Sharmanamika exactly! Pretending won't help.. I understand to open economy if we have a vaccination or treatment for #Covid19 . But we don't, a very risky move.",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ed2513f8e638559b9b",
-		"id": 431,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "🤣😂 🐡🚶‍♂️🚶‍♂️🚶‍♂️\nNow we walking fish, I can't #done\n#walkmyfish #Espana #COVID19\n#CoronaVirusUpdate\nCNN: To get around stay-at-home orders, Spaniards have been walking some unusual 'pets'.\nhttps://t.co/RIQb7edzUd\n\nvia @GoogleNews",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ed2513f8e638559b9d",
-		"id": 432,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "https://t.co/DWxZ0kHlQF is firmly committed to making #eCommerce accessible for all #SriLankan businesses, big or small. Sign up and set up your own eCommerce #website on https://t.co/DWxZ0kHlQF within just minutes.  \n#ownwebsite #Coronavirus #COVID19 #covidoutbreak https://t.co/mUstgLITZY",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ed2513f8e638559ba1",
-		"id": 433,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "Wow: a hot take worthy of The arsing Canary at their most festering. I can't imagine for a second that you're a doctor. \nSilence then, you dimwitted sex case.\n\n#COVID19 #stayhome #savelives #shutup",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ed2513f8e638559ba5",
-		"id": 434,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "#Covid_19 : The death toll due to #coronavirus in Indore city of #MadhyaPradesh, one of the #COVID19 hotspots in the country, has reached 57 with two more persons succumbing to the infection, an official said. #CoronaVirusUpdate #CoronavirusPandemic  https://t.co/hbqnaCOdp7",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ed2513f8e638559ba9",
-		"id": 435,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "⛽ @exxonmobil producing hand sanitizer to donate to health workers and first responders #CoronaWorld #CoronaVirus #COVID19\nhttps://t.co/57t4sdhLMP",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ee2513f8e638559baf",
-		"id": 436,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "@realDonaldTrump START FIRST WITH @WhiteHouse AND OPEN IT BACK UP FOR TOURS. LEAD BY EXAMPLE FOR THE #AMERICAN PEOPLE. I nominate @MELANIATRUMP @KarenPence @IvankaTrump and @DonaldJTrumpJr to volunteer as the first tour guides. #GetBackToWork #covid19 @CDCgov @Mike_Pence #OpenUpThePeoplesHouse https://t.co/SVYVHuouym",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ee2513f8e638559bb1",
-		"id": 437,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "GET LIVE #COVID19 UPDATES. THE FASTEST SOURCE AVAILABLE. THESE ARE UPDATED QUICKER THAN TV NEWS. UPDATED HOURLY 24/7 PLUS AN INTERACTIVE MAP.\nGO TO https://t.co/d6WGpeqs7A\n https://t.co/5gesW5jkMc 97\n#FridayThoughts",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ee2513f8e638559bb7",
-		"id": 438,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "Gov Cuomo said yesterday on national tv that antibody tests showed a 14% infection rate &amp; death rate is .5% in NY. In other states there has been similar results. WHY ARE WE STILL IN LOCKDOWN?! 😠 #CoronavirusPandemic #COVID19 #novelcoronavirus #pandemic #coronavirus",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ee2513f8e638559bb9",
-		"id": 439,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "\"I forgive you everything, without exception, if you will only promise to reappear.” \nAn ode to New York City. #NewYork #NYC #COVID19 #coronavirus https://t.co/9zbGa2pvEN",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ee2513f8e638559bbf",
-		"id": 440,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Support our mission to provide hot meals to homeless in Los Angeles County. #COVID19 Relief  https://t.co/DiEbVq81zB https://t.co/HR9JbtPIig",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ee2513f8e638559bc3",
-		"id": 441,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "As at 24th April, Nigeria has recorded #COVID19 confirmed cases in 27 states and the Federal Capital Territory \nIn the last 24 hours,number of new cases increased by 114. Number of deaths increased by 1\n\n5 cases previously recorded in Lagos, are now recorded as Ogun state cases",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ee2513f8e638559bc7",
-		"id": 442,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Remote Courts initiative. #COVID19 #DigitalTransformation https://t.co/eWfDYi6Wco",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ee2513f8e638559bcb",
-		"id": 443,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "A 98-year-old soul contributes with her kindness towards humanity. \n#PositiveNewsCorner #Coronavirus #Covid19 https://t.co/z7cGciHDSZ",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ee2513f8e638559bcd",
-		"id": 444,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": ".@KenyanTraffic : Have you carried your hand sanitizer? WEAR a mask when visiting public places. Stay home. Social distance/self isolation. Avoid gatherings. #COVID19 is real. FYI: DO NOT DRINK OR INJECT YOURSELF WITH DISINFECTANT...#StaySafe \n— RustyCase™ (@Rustycase) April 25,",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ee2513f8e638559bd3",
-		"id": 445,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Good read #COVID19 #antibodytesting https://t.co/cD74QJ4OUq",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ee2513f8e638559bd5",
-		"id": 446,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Pick of the Day https://t.co/W8Wkjq1g0z\n#DonaldTrump #disinfectants #Sunlight #health #medicine #UnitedStates #NovelCoronavirus #COVID19 #COVID19USA #CoronaVirusOutbreak #CoronaVirus #COVID_19 #COVID19outbreak #COVID19Pandemic #CoronavirusPandemic https://t.co/1vWUcneaJC",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ee2513f8e638559bdb",
-		"id": 447,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "FLIPPING ALL NIGHT AND DAY✅💕 COME FLIP WIT DA PRINCESS OFC😌💋  #CovidRelief #Cashappblessing #cashappflip #CashAppFriday #cashappmethod #COVID19 #freemoney #support #TogetherWeCan #support #community #badbitch #princess #beauty https://t.co/9Z2LYHtCsx",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ef2513f8e638559bdf",
-		"id": 448,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "Oh dear Lord, NO but it is happening because of Trump's irresponsibility.  #VoteTrumpOut #VoteThemAllOut2020 #CoronaVirusUpdate #COVID19 https://t.co/KVj0U5x3St",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ef2513f8e638559be3",
-		"id": 449,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "Young and middle-aged people, barely sick with #COVID19 , are dying from strokes. Doctors sound alarm about patients in their 30s and 40s left debilitated or dead. Some didn’t even know they were infected.\nhttps://t.co/6VspPeHNWQ",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ef2513f8e638559be7",
-		"id": 450,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "#COVID19 has given us ample free time. An idle mind is devil’s workshop, so we should keep ourselves busy. Best engagement for mind is to read the Holy Scriptures, listen to lectures of devotees, so we come out of this lockdown as a better spiritually enlightened person. HK",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ef2513f8e638559be9",
-		"id": 451,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Global Tenders / RFP For Corona Virus Supplies To Fight COVID-19 Fetch more&gt;&gt;&gt;https://t.co/NVZ1I5AH6E\n#breathing #CoronaPandemic #CoronaVirus #Coronavirus #cough #COVID19 #COVID-19 #NovelCorona #Nucleicacid #pulmonary #Quininesulfate #Ribonucle #RNA #VirusPandemic #CoronaUpdate https://t.co/PtD8g1OeK6",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ef2513f8e638559bef",
-		"id": 452,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "That wasn't sarcasm but okay...and if you have to call a health line to ask for guidance on if disinfectant injections are good for you? There's something wrong with you. #covid19 #covid19usa",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ef2513f8e638559bf3",
-		"id": 453,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "The closure of liquor shops in Sri Lanka until further notice would enhance demand for illegally brewed liquor &amp; harm මතට තිත campaign. The alcohol sale during the #COVID19 presents us the possibility of a total prohibition of alcohol. Will it affect the Government revenue #lka ? https://t.co/dCyNwqzcWC",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ef2513f8e638559bf5",
-		"id": 454,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Keep an eye out for my most recent interview coming out, until then, here’s a little snippet: #bitcoin #coinsource #cryptocurrencies #COVID19 https://t.co/xukrfUUVAl",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ef2513f8e638559bfb",
-		"id": 455,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "#COVID19 : Struggling to run your business and stay sane while sharing a space with your partner?  \nThese habits can help boost success and productivity.\n\n#entrepreneurship\n\nhttps://t.co/m4h6PRbAW8 https://t.co/dVS3Ps1y3X",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ef2513f8e638559bfd",
-		"id": 456,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "LIFE Under Lockdown | Panglao Bohol | Philippines https://t.co/CtoA5pPQIC via @YouTube #Islandlife #coronavirusdeutschland #Covid_19 #COVID19 #virus #island #sea #whitesand #ocean #naturephotography #Philippines #pinas #panglao #bohol #water",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ef2513f8e638559c03",
-		"id": 457,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Here’s what we know about the drug, the trial and the similarities between critically ill patients of sepsis and #COVID19. @SaakhiChadha https://t.co/YaIOzuENVY",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ef2513f8e638559c07",
-		"id": 458,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Make sure you don't leave it to the last minute to fill your prescriptions at the pharmacy. Call ahead if you're worried they might be out of stock! 💊 \n#COVID19 #COVID19Kindness",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ef2513f8e638559c0b",
-		"id": 459,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Many people are turning to #livestreaming  to try to gain some sort of income during this #COVID19  pandemic, but is it a viable source of income? Let's talk about it. https://t.co/hqlTDbLZRM \n#twitchstreamer #mixerstreamer #youtubegaming",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ef2513f8e638559c0f",
-		"id": 460,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "via @NYTimes what a horrible idea #COVID19 #LeadershipMatters ⁦@NYGovCuomo⁩  https://t.co/1NsTz25SoB",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5ef2513f8e638559c11",
-		"id": 461,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "@QuickTake 🚨 @NYUgrossman's #Research shows that MOST #CORONAVIRUS / #COVID19 cases in New York City can be Traced Back to #Europe, NOT to #China \nArticle\n\n🖥️ https://t.co/1qiAK67LcN\n\nWebsite\n\n🖥️ https://t.co/JBeAIAS5b3\n\n@CBSNews @HubBucket\n\n@ProsumerSoft @CDCgov https://t.co/arfySEZruB",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5f02513f8e638559c17",
-		"id": 462,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "-win for sea animals and humans, a scuba diving group is turning plastic water bottles that once polluted oceans into face masks for people to protect themselves against the #coronavirus. #COVID19 https://t.co/pINGGNnAJc",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5f02513f8e638559c1b",
-		"id": 463,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "#Update: #VarunDhawan contributes to daily wage workers of the entertainment industry [#FWICE]... #AshokePandit took to #Twitter to thank #Varun for his contribution yesterday, on his birthday. \n#COVID19Pandemic #CoronaVirus #Covid_19 #COVID19 #IndiaFightsCorona",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5f02513f8e638559c1f",
-		"id": 464,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Whilst we were praising Akufo Addo and slamming Buhari. Actions NOT words. #COVID19 🇬🇭🇳🇬 https://t.co/ksjKETZuCT",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5f02513f8e638559c23",
-		"id": 465,
-		"user": "samantha",
 		"annotation": "NEG",
-		"tweet": "Don't buy any new cars #ProtestLockdown  #COVID19 #CapitalismIdiots #Crash2020",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5f02513f8e638559c25",
-		"id": 466,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "#UN #HumanRights Chief Michelle Bachelet is alarmed at the hostile environment some political leaders have created towards the media: the free flow of information is vital, the public has the right to know about #COVID19. \nLearn more: https://t.co/zhNH9PPHEw",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5f02513f8e638559c29",
-		"id": 467,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Building a #startup can take a lot of time and #investment. Disputes or non-payments can hold your #project and products from progress. Court and Judge will risk your #business and #company. Don't risk it any further! Visit : https://t.co/zaXOqZRmrQ\n#TruthAwaitingJustice #covid19 https://t.co/E4MCmGInsd",
+		"tweet": "A flotilla of some 24 #oil tankers waits to unload #CrudeOil, as oil companies have run out of storage facilities in the #US and across the globe. \nOn Monday, #OilPrices slumped to unprecedented levels, amid a collapse in demand caused by the #coronavirus #outbreak. https://t.co/IXopWyK4uk",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d5f02513f8e638559c2d",
-		"id": 468,
+		"_id": "5ea374a7ec2b97e18e807077",
+		"id": 2,
 		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "'The New Owner of the World' by Pastor Apollo C. Quiboloy https://t.co/4U50UPtFCs via @PastorACQ #ApolloQuiboloy #KingdomofJesusChrist #COVID19 #StayHome #coronavirus #lockdown",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5f02513f8e638559c33",
-		"id": 469,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "'We nursing home staff are being sent to war with no armour in the coronavirus battle' #COVID19 the battle Nursing Home Staff are fighting  https://t.co/rByjy07Omp",
+		"annotation": "NEG",
+		"tweet": "Mizuho's Paul Sankey predicts oil could hit -$100/bl. \nWhy?\n\nA flotilla of Saudi #oil tankers is en route to the US, with 7x the amount of oil the US typically imports in a month. \n\nAmidst low demand &amp; limited storage, this Saudi \"oil bomb\" could send oil prices plunging, again.",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d5f02513f8e638559c37",
-		"id": 470,
+		"_id": "5ea374a7ec2b97e18e807079",
+		"id": 3,
 		"user": "samantha",
 		"annotation": "NEU",
-		"tweet": "Q-Con '20 | International Leo Conference ~ Catalyst for Change. \nLIVE on Facebook - https://t.co/kjGLzO5e6D\n\n#LeoDistrict306A2 #PiliyandalaLeos #SLTCLEOS #KalubowilaLeos #LCofGuwahatiCosmopolitan #LCofUniversityofZimbabwe\n#SriLanka #India #Zimbabwe #Botswana #Covid19 #QCon20 https://t.co/wZgawSsPX9",
+		"tweet": "Per a prior tweet,the #oil price debacle early this week was due to imbalances in both physical and financial space ... and the subsequent recovery reflected the easing of the financial imbalance. This @markets chart, showing the change in USO, shows how the oil #ETF has adapted. https://t.co/YNHjjXX6RS",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d5f02513f8e638559c39",
-		"id": 471,
+		"_id": "5ea374a7ec2b97e18e80707f",
+		"id": 4,
 		"user": "samantha",
 		"annotation": "NEG",
-		"tweet": "Voice mssg goes viral,of Woman,70yr old #Abj based grandma, #SalmaAhmed,accusing @NCDCgov &amp; @KanostateNg of negligence,for d demise of her son-in-law frm #Covid19. Worried on d fate of rest fmly in Kano. Appeals for public help. @GovUmarGanduje @MBuhari @DrAhmedLawan @femigbaja https://t.co/ET6ML98fot",
+		"tweet": "#oil -- rally is holding but we're down 8 out of the last 9 weeks.  Storage swelling onshore, so exploring offshore options -- data and elements provided by @Samir_Madani with thanks! #OOTT https://t.co/IwdADrDMro",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d5f02513f8e638559c3f",
-		"id": 472,
+		"_id": "5ea374a7ec2b97e18e807083",
+		"id": 5,
 		"user": "samantha",
 		"annotation": "NEG",
-		"tweet": "Of course it was. Media that took it seriously were either very gullible or were weaponizing #COVID19 statements.  \n#2020election https://t.co/RZ7Kgw5lnz",
+		"tweet": "Oil-Directed rig count - Permian: 246.  This is the lowest since we had exactly the same number on Dec 9, 2016\n\n- US: 378. This is the lowest since July 2016\n\n-Texa: 231. This is the lowest since Aug 2016\n\n- The decline since early March: 304\n\n#oil #shale #Rigs https://t.co/6tblAPfzjp",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d5f02513f8e638559c43",
-		"id": 473,
+		"_id": "5ea374a7ec2b97e18e807085",
+		"id": 6,
 		"user": "samantha",
 		"annotation": "NEU",
-		"tweet": "With 11 new imported cases reported on April 24, total #COVID19 cases from abroad in the #Chinese mainland reached 1,629.   \n🇷🇺Russia: 646\n🇬🇧UK: 310\n🇺🇸USA: 166\n🇫🇷France: 88\n🇪🇸Spain: 87\n🇮🇹Italy: 55 https://t.co/1osboKqJTP",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5f02513f8e638559c45",
-		"id": 474,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "@MichaelCoudrey @justonepatriot Ohhhhhh, that's why we have #EmptyHospitals and #DancingNurses...  \nGo outside I'm the sunlight and the 'virus' is dead before you get to the hospital \n🤣🤣😋😂😂🤣😂 \n\n#FilmYourHospital 😉\n\nExposing the #COVID19 Great Global #Scamdemic\n\nhttps://t.co/iXvIV4aDlV",
+		"tweet": "A picture worth a thousand words \nUS oil-directed rig count declined by 60 to 378\n\nPermian -37\nEagle Ford -7\nWilliston -7\nOthers -5\nCanda Woodford -3\nDJ Niobrara -1\n\n#oil #shale #Rigs https://t.co/f2eBplyOIa",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d5f12513f8e638559c4b",
-		"id": 475,
+		"_id": "5ea374a7ec2b97e18e807089",
+		"id": 7,
 		"user": "samantha",
 		"annotation": "POS",
-		"tweet": "Insightful blog from @hamarquette that underlines that #covid19 responses need to be politically informed and grounded in the local context: https://t.co/IqpivL5lUZ",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5f12513f8e638559c4f",
-		"id": 476,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "R1 #pathologist night shift in the battlefied against #covid19. From labs to wards. Finally a break a dinner at midnight with my IM team. #redeployment #covid19Canada #cavabienaller #Battlefield #covexit https://t.co/vhx0Df9lkS",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5f12513f8e638559c51",
-		"id": 477,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Spread and dynamics of the COVID-19 epidemic in Italy: Effects of emergency containment measures https://t.co/UyTLmbFrun\n#COVID19 https://t.co/iFoJBLCTds",
+		"tweet": "President Putin spoke over the phone with Federal Chancellor of #Germany Angela Merkel. Broad agenda included coordinated intl efforts to fight #coronavirus, peace settlement in #Ukraine, #Syria and #Libya, as well as situation on global #oil market. https://t.co/gP1ZycaGHw",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d5f12513f8e638559c55",
-		"id": 478,
+		"_id": "5ea374a7ec2b97e18e80708f",
+		"id": 8,
 		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Dripping with April by @LazarSamantha https://t.co/7iIRDbGvQ8 #Poetry #Spring #NationalPoetryMonth #Quarantine #COVID19 #COVID #Coronavirus #CoronavirusQuarantine #NaPoMo",
+		"annotation": "NEG",
+		"tweet": "Crude #Oil is up almost 50% during in the last two trading days. Extreme #volatility makes it virtually untradable. Also, the supply-demand imbalance and storage capacity limitations are by no means solved. https://t.co/kQodB2AeHM",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d5f12513f8e638559c59",
-		"id": 479,
+		"_id": "5ea374a7ec2b97e18e807091",
+		"id": 9,
 		"user": "samantha",
 		"annotation": "NEU",
-		"tweet": "And in the profiteers alert corner, France allows farmers to spread sludge (shit) right up to people's home. Strange #COVID19 emergency measure. https://t.co/Ny0AyzvMav",
+		"tweet": "Great chart via @RobinWigg. 150 years of #oil prices and the bizar level we saw this week. https://t.co/LrIThJlnOj",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d5f12513f8e638559c5f",
-		"id": 480,
+		"_id": "5ea374a7ec2b97e18e807097",
+		"id": 10,
 		"user": "samantha",
 		"annotation": "NEG",
-		"tweet": "scary😳🙈✨ \n#meme #funny #jokes #tiktok #memesdaily #lol #cringeworthy #scary #COVID19 https://t.co/3tMTuq5GmZ",
+		"tweet": "Satellite data show 'highest emissions ever measured' from U.S. #oil and #gas operations @ScienceAdvances https://t.co/jB4lNwl0XN",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d5f12513f8e638559c61",
-		"id": 481,
+		"_id": "5ea374a7ec2b97e18e80709b",
+		"id": 11,
 		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Continue practicing everyday preventive actions.  \n#GangotreeSweets #Precautions #Guidelines #coronavirus #quarantineandchill #QuarantineLearning #QuarantineActivities #CovidOutbreak #COVID19 #StayAlert #StayHome #StaySafe https://t.co/Nl1MZWqP91",
+		"annotation": "NEG",
+		"tweet": "US oil rig count declined by  60 to 378 \n#Oil #Shale #Riga https://t.co/3yfgSo1dZW",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d5f12513f8e638559c67",
-		"id": 482,
+		"_id": "5ea374a7ec2b97e18e80709d",
+		"id": 12,
 		"user": "samantha",
 		"annotation": "POS",
-		"tweet": "An #Estonian solution on how to #trace #covid19 while respecting #privacy!  #tracking #eestonia https://t.co/DUmTg3EpM7",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5f12513f8e638559c6b",
-		"id": 483,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "Trump got his feelings hurt man so fuck this dude go drink some #disinfectant  and get back to normal bitch #COVID19 #TrumpIsALaughingStock",
+		"tweet": "At the current pace, the estimated storage capacity in #Cushing could be full in less than three weeks. #oil https://t.co/CYrT78Ijeh",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d5f12513f8e638559c6f",
-		"id": 484,
+		"_id": "5ea374a7ec2b97e18e8070a1",
+		"id": 13,
 		"user": "samantha",
 		"annotation": "NEU",
-		"tweet": "...I think I'm going to join @UKLabour #coronacrisis #coronavirus #COVID19",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5f12513f8e638559c73",
-		"id": 485,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "I just found out Tom Brady is in the buccaneers...the corona virus became the rock I was living underneath since march. #COVID19 #football #TomBrady #RobGronkowski",
+		"tweet": "There was a time when the US federal government became a rancher ...  \nWill the US end up having its own national oil company? \n\nShould the US government take over all the oil companies that invoke \"national security\" as a reason to get what it wants?\n#oil #shale https://t.co/Y9pNdzLu3A",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d5f12513f8e638559c75",
-		"id": 486,
+		"_id": "5ea374a8ec2b97e18e8070a7",
+		"id": 14,
 		"user": "samantha",
 		"annotation": "NEG",
-		"tweet": "Do your own research #COVID19 #Plandemic2020 https://t.co/hpuuoeaHVv",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5f12513f8e638559c7b",
-		"id": 487,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Stay tuned to our website for special #COVID19 news and the impact on NYC and the tech industry https://t.co/bUQoiT1lsQ #technologynews #nyclocal #nyclockdown #iot #bigdata #RealEstate #technologies https://t.co/gZNM8Yg0OL",
+		"tweet": "The global #oil industry is being decimated by the #COVID19 pandemic. There is no time to lose in building a new, post-carbon industrial revolution https://t.co/9dcjUTOYqL by me via @BostonGlobe",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d5f12513f8e638559c7d",
-		"id": 488,
+		"_id": "5ea374f129e6a5e19eaa5659",
+		"id": 15,
 		"user": "samantha",
 		"annotation": "POS",
-		"tweet": "As Allegations of Mistreatment and Unsafe Conditions Mount, Amnesty International Declares It Stands With #Amazon Workers..#Covid19  https://t.co/HDvcoFYntD",
+		"tweet": "#Oil prices accelerated growth https://t.co/C3tBXtFKCO https://t.co/FTE0nfiSFI",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d5f22513f8e638559c83",
-		"id": 489,
+		"_id": "5ea374f229e6a5e19eaa565f",
+		"id": 16,
 		"user": "samantha",
 		"annotation": "NEG",
-		"tweet": "@DefenseBaron @malinablue It’s ridiculous that Trump can just force himself on the cadets at #WestPoint for some stupid photo op because we all know Trump’s commencement address will suck. Oh the timing! Terrible #COVID19 hot zone!",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d5f22513f8e638559c87",
-		"id": 490,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Protect the ones around you by taking care of your #health 🙌 \nFollow these general measures to boost your immunity power and reduce the risk of being infected by #COVID19.\n\n#IndiaFightsCorona @moayush @MoHFW_INDIA @MinistryWCD https://t.co/q2Sct1ya2K",
+		"tweet": "Who's responsible??#COVID19 #Clorox #ChinaLiedPeopleDied #coronavirus #endthelockdown #FIFA20 #JIMIN #MAGA #NeverBiden #Oil #PressBriefing #yoga https://t.co/4wUgmEvHK6",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d62c5de146e753e0cf12",
-		"id": 491,
+		"_id": "5ea374f229e6a5e19eaa5663",
+		"id": 17,
 		"user": "samantha",
 		"annotation": "NEG",
-		"tweet": "Who doesn‘t want to be embraced? Who doesn‘t want to be called by name by someone smiling with delight? (@perichoresismin ) @wmpaulyoung #AmazonWishList #BLEACH #COVID19 #daddy #FridaysForFuture #Germany #HomeOffice #hope #Iran #Jets #Jesus #lol #MAGA #people #Survivor https://t.co/3LFLz3WiLk",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d62c5de146e753e0cf18",
-		"id": 492,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "A dog in Suduwella, Ja-Ela had tested positive for COVID-19.  This is likely to be the first of its kind in the country.\n\n#COVID19 #coronavirus #CoronavirusOutbreak #COVID19SL #COVID19LK #SriLanka #lka",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d62d5de146e753e0cf1c",
-		"id": 493,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Combat Covid with priceless ideas from Healthcare Leaders. We're going LIVE - grab your coffee @ join us. \nhttps://t.co/Xh9th8VvvJ\n#covid19 #voiceofhealthcare #Covidunity #Coronaawareness #CoronaOutbreak #vohglobal #healthcare2020 #paneldiscussion #healthcareprofessionals",
+		"tweet": "I think @realDonaldTrump is out of cash to help the jobless Americans during #COVID19 #Lockdown. I suspect there is no money left that he can give away especially after #US #Oil crash.Americans are not seeing any checks as yet.1st it was PPE,2nd it was test kits &amp; now its NO cash",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d62d5de146e753e0cf20",
-		"id": 494,
+		"_id": "5ea374f229e6a5e19eaa5667",
+		"id": 18,
 		"user": "samantha",
 		"annotation": "NEG",
-		"tweet": "@davidmweissman Why you shocked exactly? Can you finally see what MANY people could see a LONG time ago?! Good morning and welcome to reality #Covid_19 #COVID19 #coronavirus",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d62d5de146e753e0cf24",
-		"id": 495,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Cool photos showing just how much #AirQuality has improved in major cities around the globe due to the #coronavirus #lockdown  #AirPollution #breathe #lungs #smog #enddieselnow #BreatheEasier #climatecrisis #COVID19  https://t.co/uP9VMXJ33K",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d62d5de146e753e0cf28",
-		"id": 496,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "An exciting weekend as so many innovators are helping to #HacktheCrisis!#EUvsVirus #COVID19 https://t.co/FAdMnaeu3q",
+		"tweet": "#Russia is the world’s biggest loser from #oil’s crash, and that’s reason to worry \n#OOTT #OPEC \n https://t.co/rYjFgzJvtQ",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d62d5de146e753e0cf2c",
-		"id": 497,
+		"_id": "5ea374f229e6a5e19eaa5669",
+		"id": 19,
 		"user": "samantha",
 		"annotation": "NEU",
-		"tweet": "New blog post: https://t.co/m25h80QYvb #COVID19",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d64abcd725e765f7bee5",
-		"id": 498,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "SARS-CoV-2 testing: a roundup of novel PCR developments #COVID19outbreak #COVID2019 #COVID19 #bioprocessing #biotech \nVisit : https://t.co/hpRkKjH2tJ\nhttps://t.co/nTvi7u6xQu",
+		"tweet": "US chem stocks rise as oil recovery continues ⬇️ \nhttps://t.co/MfDGGUbV18\n\n#icis #oilcrash #oil #crude #covid19 #coronavirus #petrochemicals #chemicalindustry",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d64abcd725e765f7beeb",
-		"id": 499,
+		"_id": "5ea374f229e6a5e19eaa566f",
+		"id": 20,
 		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Our first food distribution by the #VeilomaniFoodBank at Nabua Muslim League Community was a success. \n#TeamFiji #Fiji #FijianConsumerRights #FCCC #COVID19 #Veilomani https://t.co/S8gX0DxqdS",
+		"annotation": "NEG",
+		"tweet": "Daily Outlook : #Oil rises, but ends wild week lower as coronavirus slashes fuel demand #USD edges lower but stimulus uncertainty keeps euro gains capped #FX #Commodities #Nikkei #Kospi #Hangseng https://t.co/JZRuKGgtnf https://t.co/ZIjuShVxO6 https://t.co/ArFLjXO1dL",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b01b8b4de778b6d4ec",
-		"id": 500,
+		"_id": "5ea374f229e6a5e19eaa5673",
+		"id": 21,
 		"user": "samantha",
 		"annotation": "NEU",
-		"tweet": "Podcasts: \nTax Justice Network @TaxJusticeNet\nTaxcast for April 2020\nhttps://t.co/9RIX6Zrvu6\n\nPavlina Tcherneva @ptcherneva\nBuilding Resilience – The Case For A Job Guarantee\nhttps://t.co/vjqT1SgQjJ\n\n#corona #COVID19 #EconomicCrisis #MMT #TaxTheRich #bailouts #tax #economics https://t.co/w505BMvBnb",
+		"tweet": "#Pipelines to be used as oil storage? \n#Oil #WTICrude \n\nhttps://t.co/3e0fsrDy02",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b01b8b4de778b6d4f0",
-		"id": 501,
+		"_id": "5ea374f229e6a5e19eaa5675",
+		"id": 22,
 		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "#China Approves Third #COVID19 Vaccine for Second Phase of Clinical Trials https://t.co/YXMSxTWC1Z",
+		"annotation": "NEG",
+		"tweet": "Oil bounces after Trump uses the 'oldest Middle East oil trick in the book' to kickstart prices #BrentCrude #OIL  https://t.co/7jRkdrIFuH",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b01b8b4de778b6d4f4",
-		"id": 502,
+		"_id": "5ea374f229e6a5e19eaa567b",
+		"id": 23,
 		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "#Travis County, #Texas #COVID19 case counts and death tolls - updated with numbers on 4/24. #austintexas #ATX https://t.co/Zm9vhoBFW8",
+		"annotation": "NEG",
+		"tweet": "expiring cheap #oil idiots \n#ClimateCrisis https://t.co/vBVdMtqShM",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b01b8b4de778b6d4f8",
-		"id": 503,
+		"_id": "5ea374f229e6a5e19eaa567f",
+		"id": 24,
 		"user": "samantha",
 		"annotation": "NEU",
-		"tweet": "● NEWS ● #projectcensored on #coronavirus as #distraction ☞ Episode 79 – The News Stories Buried by #COVID19 and Terrorism with Dr. Ashley Larson - Along The Line Podcast https://t.co/1luwtzrlaB",
+		"tweet": "#USO trade from the other day. Averaged ~12x #spx #oil https://t.co/AKqmeNzzv5",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b01b8b4de778b6d4fe",
-		"id": 504,
+		"_id": "5ea374f229e6a5e19eaa5683",
+		"id": 25,
 		"user": "samantha",
 		"annotation": "NEU",
-		"tweet": "4)  Video of the press conference\n52 min. Englisch, subtitles available\nhttps://t.co/kRQLpmyhIP\n#COVID19 #COVIDー19 https://t.co/4GEK04Wn5S",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d6b01b8b4de778b6d500",
-		"id": 505,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "BREAKING: More antibody tests in Miami proving how not very lethal #COVID19 is. https://t.co/RG2r6yjnzf",
+		"tweet": "#UnitedStates #Oil Fund Says #CME Ordered It to Limit Futures Positions \n#OOTT #OPEC \n https://t.co/5jZHFnZ8H6",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b11b8b4de778b6d506",
-		"id": 506,
+		"_id": "5ea374f229e6a5e19eaa5685",
+		"id": 26,
 		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "@Ben__Rickert We STRENGTHEN OUR IMMUNE SYSTEM  ... NOT JUST #TESTING FOR COVID-19 !!! Vitamin D and Sunlight -boost our #IMMUNE SYSTEM to fight #COVID19 #CORONAVIRUS per Immunologist Dr. SHIVA https://t.co/n8tSjIX7E9\n\nNOT VACCINE that doesn't work on #RNA-VIRUSES  !!!",
+		"annotation": "NEG",
+		"tweet": "GETAnalysis: The #RelentlessDamage from global #EconomicLockdown #CollapsesDemand in #Oil, triggering a #RippleEffect in #StockMarkets \nhttps://t.co/LGy1w9y78p\n\n#MarketFutures #OilPrices #WallStreet #Stocks #FridayThoughts #FridayReview #FridayMusings #FridayReads #FridayFeeling",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b11b8b4de778b6d50a",
-		"id": 507,
+		"_id": "5ea374f229e6a5e19eaa568b",
+		"id": 27,
 		"user": "samantha",
 		"annotation": "POS",
-		"tweet": "Defeat the common enemy.. Achieve the common goal..\nUnity is your best ally and,\nBigotry your worst enemy !\n\n#Covid19 #Corona #sonnetattempt #poem #എന്തരോന്തൊ #Unity https://t.co/OsEXjkaaUc",
+		"tweet": "BEST INTERNATIONAL ANALYSIS at @24horas_rne @adelgadoRne &amp; @SandraUrdin 24/04/20. A conversation about #COVIDー19 #USA #Ramadan2020 #Oil with @CarlosMalamud &amp; @PedroRodriguezW --- https://t.co/yQVdugWxUN vía @rtve --- @UCOMILLAS @IB_Franklin @FulbrightSpain @FundConEspEEUU https://t.co/JEOSAspVNj",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b11b8b4de778b6d50c",
-		"id": 508,
+		"_id": "5ea374f229e6a5e19eaa568f",
+		"id": 28,
 		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Only standalone shops are allowed to open.  Shops in a market complex will remain closed.\n\n#COVID19 https://t.co/7oqzA9issd",
+		"annotation": "NEG",
+		"tweet": "ON THE BRINK OF DEFAULT-Argentina's yield curve is inverted with high negative slope--&gt;short-term problems (within 1-2 years) #yield #Argentina #ArgentinaUnida #Argentinos #Argentine #Default #bonds #bond #markets #market #economy #economics #EconomicCrisis #Oil #Greece https://t.co/G9bVomidFI",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b11b8b4de778b6d510",
-		"id": 509,
+		"_id": "5ea374f229e6a5e19eaa5691",
+		"id": 29,
 		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "DT, 1&amp;1, O2 and Vodafone: COVID-19 impact in Germany...interesting report from MedUX...#covid19, #DT, #O2, #telefonica, #vodafone, #Germany, #1and1, #medux, #customerexpereince, #qos, #connectivity, #broadband, #deutschetelekom https://t.co/6PiQYMESoh",
+		"annotation": "NEG",
+		"tweet": "You won't believe what some states are paying for gas right now! Find out what you can expect to pay for your next fill-up... \n#oil #oilprices #oilandgas #gasoline https://t.co/U4d60fTdCn https://t.co/8XHrVnHM9B",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b11b8b4de778b6d514",
-		"id": 510,
+		"_id": "5ea374f229e6a5e19eaa5697",
+		"id": 30,
 		"user": "samantha",
 		"annotation": "NEU",
-		"tweet": ".@USNavy #USSKidd #destroyer #navy #coronavirus #COVID19 #USSTheodoreRoosevelt:: 18 Sailors of USS Kidd Destroyer Found Coronavirus-Positive, Navy Suspects More  https://t.co/OtJvqnZeXV https://t.co/7Ppjo1vjEW",
+		"tweet": "#Oil price update: $21.80 📉  \n(#Brent $Crude) #oilprice source https://t.co/p0TIqjN4Kc",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b11b8b4de778b6d51a",
-		"id": 511,
+		"_id": "5ea374f229e6a5e19eaa5699",
+		"id": 31,
 		"user": "samantha",
 		"annotation": "NEG",
-		"tweet": "Its interesting that so many folks I know think that once the #COVID19 crisis is over, we'll go back and pick up our lives just where we left off. I suspect the same folks likely think that the US will go back to being how it was, right after Trump leaves office #pathdependence",
+		"tweet": "lol this is epic #oil #markets #crypto #btc #bitcoin #wti #WTICrude https://t.co/RL5TVoDkoS",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b11b8b4de778b6d51c",
-		"id": 512,
+		"_id": "5ea374f229e6a5e19eaa569d",
+		"id": 32,
 		"user": "samantha",
 		"annotation": "POS",
-		"tweet": "@UnsignedChat Us and @aka_natrat @alyasa_gk @IAMWARFACE @minus_cube @The1Shez @wyattpauley for the #CovAID2020 #DesolateDays song to raise money for those affected by #COVID19  \nHere it is\n\nhttps://t.co/wDLwnr5Hux",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d6b11b8b4de778b6d522",
-		"id": 513,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "John (@realJohnJericho) &amp; I, light a flame for our #world! We light a flame 🔥 for all our brothers &amp; sisters 🌍. Faith 🙏🤲, Hope 🕊️, Love ❤️, &amp; Peace ☮️.  How's everybody? Feel free to check in. #StayAtHome #WeAreAllInThisTogether #WeAreAllOne #coronavirus #COVID19 #pandemic https://t.co/FaBL2GnbCg",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d6b11b8b4de778b6d526",
-		"id": 514,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "#Tanzania has a #Trumpian president. He has been calling for prayer gatherings for the prevention &amp; cure of #Covid19.   \nThis is what happens when #science &amp; scientists are relegated in public decision &amp; policy making. https://t.co/s7xr1gi35F",
+		"tweet": "Macquarie Infrastructure up 3.8% = $82.1 million gain. $MIC has made notable gains in 8 of the last 23 trading sessions. \nhttps://t.co/r6zZRETPDW\n\n#oil #refining #marketing #stockTips #stockMarket #trading #investing https://t.co/YvNw0O8ex0",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b11b8b4de778b6d52a",
-		"id": 515,
+		"_id": "5ea374f329e6a5e19eaa56a3",
+		"id": 33,
 		"user": "samantha",
 		"annotation": "NEU",
-		"tweet": "#CoronavirusUpdate | 70-year-old man from Tangmarg in Jammu and Kashmir dies; Union territory's death toll reaches six, say officials \n#COVID19 #coronaupdatesindia #Coronavirus https://t.co/DBjetaofBl",
+		"tweet": "US tight oil output \nNet Growth:\n2016   ⬇️479k b/d\n2017   ⬆️508k b/d\n2018   ⬆️1,564k b/d\n2019   ⬆️1,215k b/d\n2020 (upto May)  ⬆️189k b/d \n\n#OOTT #Shale #Oil https://t.co/Cnaerz1daC",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b11b8b4de778b6d52e",
-		"id": 516,
+		"_id": "5ea374f329e6a5e19eaa56a7",
+		"id": 34,
 		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Anyone else’s #covid19 cough taking a long time to disappear? https://t.co/A3EcSHD3Xi",
+		"annotation": "NEG",
+		"tweet": "@michaellebowitz The best way to help would be to end this damn #lockdown \n#oil #gas",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b11b8b4de778b6d530",
-		"id": 517,
+		"_id": "5ea374f329e6a5e19eaa56a9",
+		"id": 35,
 		"user": "samantha",
 		"annotation": "POS",
-		"tweet": "UPDATE #COVDATE \nState-wise footprint of #COVID19.\n\nThe wide gap between most affected State and other States shows that there is a factor in Maharashtra that has been successfully contained in other States.\n\nAny guesses on what that factor is?\n\nhttps://t.co/c0pWaHYsCr https://t.co/rrB1LJwFtQ",
+		"tweet": "🛢️ Get your oil “CAPPED OFF” at our service department! Schedule your service appointment  online TODAY ! 💻 #service #online #mazda #oil https://t.co/ivK75CBuc4",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b11b8b4de778b6d534",
-		"id": 518,
+		"_id": "5ea374f329e6a5e19eaa56af",
+		"id": 36,
 		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "The coronavirus pandemic has certainly stunned our generation.  As recommended by WHO and the CDC, enter to find tips that help prevent the spread of COVID-19. \nhttps://t.co/BIR81XuMFM\n\n#COVID19 #coronavirus #pandemic #socialdistancing #stayhome #selfisolation #quarantine https://t.co/ejHOPwtjjO",
+		"annotation": "NEU",
+		"tweet": "so... whats the difference?? #WTI #BRENT #OOTT #OIL https://t.co/NpTb2lany8",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b21b8b4de778b6d53a",
-		"id": 519,
+		"_id": "5ea374f329e6a5e19eaa56b3",
+		"id": 37,
 		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Wonderful session on Enabling Agile Manifesto in #RemoteAgility by #Anusuya Ended up with message #StayConnected #StayAware #StaySafe \n#Meetup #Xebia #Agile #Transformation #remoteworking #Covid19 #VirtualMeetup",
+		"annotation": "NEG",
+		"tweet": "North Dakota regulators confirmed reports that Continental Resources, the state’s top #oil producer, has shut in nearly all its Bakken output as it tries to navigate an unprecedented recent drop in #crude prices. \nRead the full story here (free): https://t.co/jSIi3p5zuM #OOTT",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b21b8b4de778b6d53c",
-		"id": 520,
+		"_id": "5ea374f329e6a5e19eaa56b5",
+		"id": 38,
 		"user": "samantha",
 		"annotation": "NEG",
-		"tweet": "@giles2905 @CharlieHicks90 @Rudy48053087 @kid_alabama @VeuveK @JamessReality @cathyby @quark15 @Jones85231187 @Holdstk @07glen @David_Vaporium @NielsOckelmann @butlerrichard2 @MattAdkin @BeowulfSchaefer @Swen28002 @thegrimbarian @Jag11814459 @chrisgregson123 @MattFingersArni @Chris_not_a_bot @Charlie_45uk @IanGianni @Davidmetroland @vpleasantries @WasOnceLoved @mindedmusically @dw2essex @JohnRya13591294 @lisamariahoenig @brianbloop2 @european_kate @resiguru @davidjamesrobe4 @MarkInNorthWest @CharithRuckmal @f505eb72b9cd493 @GentlemanGeorge @castradeva @d5_rss @Ciolfilicious1 @BrexitGone @Begentle50 @cretin_the @CONSMILITIA @obsessedmuch1 @geor97 @Lilyladles @bernerlap No, I’ve seen the polls. The GE result &amp; #COVID19 catastrophe have changed the narrative. But we are still in a sweet spot: still in transition; still with frictionless trade. People think if this is what Leaving feels like, then it’s fine with them.\n\nThe reality is yet to bite.",
+		"tweet": "Shedding Light on Russian #Oil Taxes \nEnergy Intelligence takes a close look at the new excise tax and \"buffer mechanism\" that Russia rolled out for motor fuels last year.\n\nRead the full story here (free): https://t.co/GAztZk2Glv #OOTT",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b21b8b4de778b6d540",
-		"id": 521,
+		"_id": "5ea374f329e6a5e19eaa56bb",
+		"id": 39,
 		"user": "samantha",
 		"annotation": "NEG",
-		"tweet": "@HbAlpaca Yes eradication of #COVID19 could take 2 years.. we should be aiming for 'control' of the virus and lifting resistrictions",
+		"tweet": "Alternative asset class returns update. For all the financial advisors allocating to #oil products as diversifiers while giggling at the #bitcoin advocates. Perhaps that wasn't the kind of diversification you were looking for. cc @RealityShares @BlockforceCap https://t.co/JxUWmGOsDo",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b21b8b4de778b6d544",
-		"id": 522,
+		"_id": "5ea374f329e6a5e19eaa56bd",
+		"id": 40,
 		"user": "samantha",
 		"annotation": "NEG",
-		"tweet": "@ramyz986 @UmarMv @niyaf @Faisalnaifaru Actually no. Not possible by the UV ray spectrum in sunlight (as far as current studies). UV spectrum must be modified to kill #COVID19",
+		"tweet": "Trinidad and Tobago's Natural Gas Reserves have been in steady decline since 2000. At the current rate of Production, Trinidad and Tobago has approximately 8 years of Natural Gas left, based on Proved Reserves alone. #TrinidadandTobago #naturalgas #gas #oil #gecf #opec https://t.co/zUrg4Mpi5K",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b21b8b4de778b6d54a",
-		"id": 523,
+		"_id": "5ea374f329e6a5e19eaa56c3",
+		"id": 41,
 		"user": "samantha",
 		"annotation": "NEU",
-		"tweet": "As we are adapting to #COVID19 quarantine measures, sharing household chores among partners becomes ever more important.  \n@unwomenmoldova https://t.co/xCHYJesvfy",
+		"tweet": "#Oil prices have peaked since the turn of the century due to falling demand https://t.co/HniiIjoEW2 https://t.co/MoQE9OhGp8",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b21b8b4de778b6d54c",
-		"id": 524,
+		"_id": "5ea374f329e6a5e19eaa56c5",
+		"id": 42,
 		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "\"CYBER SECURITY BEST PRACTICES\" - WORK FROM HOME  \nHome Network Security\n\n#CyberSecurity #networksecurity  #WorkFromHome #COVID19 #COVID19Lockdown  #StaySafe #cyberdefense #Stravacyberlabs https://t.co/HxTbeLpmrp",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d6b21b8b4de778b6d550",
-		"id": 525,
-		"user": "samantha",
 		"annotation": "NEG",
-		"tweet": "Trump’s Temporary Halt to Immigration is Part of Broader Plan, Stephen Miller Says: “The first and most important thing is to turn off the faucet of new immigrant labor — mission accomplished,’’ \n#immigrationpolicy #newimmigration #covid19\nhttps://t.co/epbjbPnfhe https://t.co/gYjXN6dqrI",
+		"tweet": "Watch \"America’s Radioactive Secret | Toxic Waste from Oil-and-Gas Wells | Extinction Rebellion\" on YouTube https://t.co/U3i64Wfe22  Oh dear, looks like many Americans are damned. #Trump is useless. We in the UK will be too if we allow #Fracking #oil #radioactivewaste",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b21b8b4de778b6d554",
-		"id": 526,
+		"_id": "5ea374f329e6a5e19eaa56c9",
+		"id": 43,
 		"user": "samantha",
 		"annotation": "POS",
-		"tweet": "Hope In The Worldwide Storm! Full video -&gt; ​https://t.co/cwChSPBrNO​ ​#30days30videos​ ​#MessageToChristians​ #MusicLov3rz\n#WW ​#Philippeans1v12​ ​#CoronaVirus​ ​#COVID19​ ​https://t.co/LnzMq8LN4O\n-",
+		"tweet": "Market Wrap by @CoinDesk  #Oil rebounds as #crypto makes gains, especially #ether\n\nhttps://t.co/FUDc7lnRdg\n\nhttps://t.co/LRO1ZuDzqt is the best platform to build NO-code #cryptocurrency #AutoTrading bots.\n\n#Bitcoin #BTC #Blockchain #Ethereum #ETH #Trading #Investing #Market #XRP",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b21b8b4de778b6d55a",
-		"id": 527,
+		"_id": "5ea374f329e6a5e19eaa56cf",
+		"id": 44,
 		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "#FactCheck 🔎 Was a man in Texas forcibly vaccinated against #COVID19? No ❌  https://t.co/gZKG3PtxJC",
+		"annotation": "POS",
+		"tweet": "Got some Burrito money thanks to @WolfOfWeedST options strategy. 2 for 2, no complaints \n$INO hit a nice lunch time trade from $0.30 to $0.50 based off a test of $15\n\n$OXY grabbed some Lottos@ $0.06 for EoD move; and sold at $0.13 $cl_f #oil https://t.co/Ek6eTWq0PS",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b21b8b4de778b6d55e",
-		"id": 528,
+		"_id": "5ea374f329e6a5e19eaa56d3",
+		"id": 45,
 		"user": "samantha",
 		"annotation": "NEU",
-		"tweet": "MHA clarifies on midnight order on sale of liquor, tobacco, cigarettes and on hotspots/containment zones; read full clarification \n@HMOIndia #MHA #Coronavirus #CoronavirusLockdown #COVID19 #LiquorBan #AlcoholSale #CigrettesBan #ECommerce @MoHFW_INDIA\n\nhttps://t.co/9Ko4TReA5W",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d6b21b8b4de778b6d562",
-		"id": 529,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "#ICYMI Chinese student donates masks to locals, police, hospitals in UK #COVID19 🇨🇳🇬🇧 https://t.co/HpkafunCK3",
+		"tweet": "https://t.co/I0q48G6Q8e - New Premium #DomainNameForSale Short  (5 letters), popular (.COM) \nAuction (buy now): https://t.co/z9h8CrhfwD\n\n#btc #gold #startup #business #cash #bank #Litecoin #cryptocurrency #finance #blockchain #bitcoin #oil #gas #digital #crypto #startups https://t.co/zgNHR1Vof4",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b21b8b4de778b6d566",
-		"id": 530,
+		"_id": "5ea374f329e6a5e19eaa56d7",
+		"id": 46,
 		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Chinese suppliers of faulty rapid kits say they are ready to cooperate with Indian agencies \n#COVID19 #Coronavirus \n\nhttps://t.co/kuCiWJgWMO https://t.co/OLLJ5H0W82",
+		"annotation": "NEG",
+		"tweet": "I had to “go out” for stuff today and ended up needing gas in the #MidWilshire area.. with #OilPrices in the #NEGATIVE👈🏽#WHY is it STILL $4.99 a gallon for fuel in the middle of L.A.⁉️Where, btw, WE FARM OUR OWN #OIL in #California🖕🏽👁",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b21b8b4de778b6d568",
-		"id": 531,
+		"_id": "5ea374f329e6a5e19eaa56d9",
+		"id": 47,
 		"user": "samantha",
 		"annotation": "POS",
-		"tweet": "#Trump signs $484-billion #coronavirus relief bill \n#COVID19 \n\nhttps://t.co/4vi451ug2M https://t.co/Qko308VuJ0",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d6b31b8b4de778b6d56e",
-		"id": 532,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Could genetics play a role in the severity of COVID-19?  https://t.co/uRhBFp2whG #COVID19 #COV_19 #coronavirus #Sundaymorning #23andme #genetics",
+		"tweet": "https://t.co/MeB7bqyfsi - Premium Domain Name for Sale! 12 years old Gambling domain name. \nAuction (buy now): https://t.co/cm0pNpKL0F \n\n#GrandBonus #DomainNameForSale #Casino #Poker #cryptocurrency #crypto #blockchain #Btc #oil #gas #Litecoin #Grand_Bonus #Grand #Bonus https://t.co/e6fRQqqd3W",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b31b8b4de778b6d570",
-		"id": 533,
+		"_id": "5ea374f429e6a5e19eaa56df",
+		"id": 48,
 		"user": "samantha",
 		"annotation": "NEG",
-		"tweet": "#US #COVID19 response is like 3rd world. https://t.co/zlpf0YvKFc",
+		"tweet": "@TheMuddySchmuck @travisc2003 @luismen1991 I am not anti-nuke. but a lot of people are. we cannot just say we can wait until everyone together agree to switch to full nuclear. the combo of 4 that I mentioned can power all humanity with out the deadly 3 #oil #gas #coal.",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b31b8b4de778b6d574",
-		"id": 534,
+		"_id": "5ea374f429e6a5e19eaa56e3",
+		"id": 49,
 		"user": "samantha",
 		"annotation": "NEG",
-		"tweet": "Young people with coronavirus are dying from strokes - The Washington Post #COVID19  https://t.co/ahMsBb4LCS",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d6b31b8b4de778b6d57a",
-		"id": 535,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "@washingtonpost Papers show that #covid19 started in the US since last November.",
+		"tweet": "GETAnalysis: #Oil #Futures contracts #DroppingLikeStones to #HistoricLows, taking #StockMarket sentiment with them \nhttps://t.co/WuqYjTymOP\n\n#FridayThoughts #FridayReview #FridayFeeling #WallStreet #JuneOilFutures #Trading #NegativePrice #FridayNight #FridayReads #FridayVibes",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b31b8b4de778b6d57e",
-		"id": 536,
+		"_id": "5ea374f429e6a5e19eaa56e5",
+		"id": 50,
 		"user": "samantha",
 		"annotation": "NEG",
-		"tweet": "@ReopenNY @NYGovCuomo ... #COVID19 in New York, not because children are being beaten to death in Texas (the state from which the data you are \"sharing\" is from), nor because you are all that concerned that children are dying from it in New York. If children's lives meant all that much to you, you ...",
+		"tweet": "Hmm. Storing oil on freighters at sea for weeks or months. I wonder what could happen? \n#Oil spill anyone? https://t.co/AXzmTZ3yxk",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b31b8b4de778b6d582",
-		"id": 537,
+		"_id": "5ea374f429e6a5e19eaa56e9",
+		"id": 51,
 		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Glad to see the narrative beginning to change, despite huge resistance still... #COVID #COVID19 https://t.co/CbVgcM0JBl",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d6b31b8b4de778b6d584",
-		"id": 538,
-		"user": "samantha",
 		"annotation": "NEG",
-		"tweet": "Remembering some of the 50K Americans killed by #COVID19  https://t.co/mqtPbRElZ9 #WeRemember",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d6b31b8b4de778b6d58a",
-		"id": 539,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Delhi: Union Group of Ministers (GoM) meeting over #COVID19 underway at Health Ministry. https://t.co/20QxnD00c9",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d6b31b8b4de778b6d58e",
-		"id": 540,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "More Podcasts: \nSteve Keen @ProfSteveKeen\nCorona bailouts – for main street or Wall Street?\nhttps://t.co/0RBA1YQkLQ\n\nMichael Hudson: US coronavirus ‘bailout’ scam is $6 trillion giveaway to Wall Street\nhttps://t.co/xGFszKmzdr\n\n#economiccrisis #Corona #Covid19 #Finance https://t.co/uowIcNpXQ7",
+		"tweet": "Shorting $OIL again at $17. \n#oil #oilprice #stocks #oilcrash #recession",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b31b8b4de778b6d592",
-		"id": 541,
+		"_id": "5ea374f429e6a5e19eaa56ef",
+		"id": 52,
 		"user": "samantha",
 		"annotation": "NEU",
-		"tweet": "Socially distant. \n📸 @singaporemaven \n\n#extendedcircuitbreaker\n#CCB #Circuitbreakersg #MySingapore #Singapore #SGUnited #COVID19 #stayhome #StayHomeMusings #seeninsingapore @ Marina Bay Singapore https://t.co/38BQ2MNABq",
+		"tweet": "How COVID-19 Caused the Oil Crash of 2020 https://t.co/s1On7useUq #oil #coronavirus",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b31b8b4de778b6d596",
-		"id": 542,
+		"_id": "5ea374f429e6a5e19eaa56f1",
+		"id": 53,
 		"user": "samantha",
 		"annotation": "POS",
-		"tweet": "In a tweet, @priyankagandhi said, \"Many people have expressed concerns about the method of testing in #UP. Transparency is a big thing in the fight against #Covid19. Society and the government together can defeat this epidemic. In this context, I am sharing some tips here.\" https://t.co/zHITXHjqPc",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d6b31b8b4de778b6d598",
-		"id": 543,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "@FredTJoseph #covid19 #rentrelief Hello. I'm a natural born US citizen. I'm a Respiratory Therapist. I'm still working but it is hard to make ends meet w/4 kids @ 🏠. We are ineligible for the stimulus check because we are a mixed migration status family! Please help if you can. $cnx217",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d6b41b8b4de778b6d59e",
-		"id": 544,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Today We are going to tell you that how can we perform #PrivilegeEscalation with #Zip command. #cybersecurity #BugBountyTips #infosec #linux #pentest #Covid_19 #COVID #COVID19 \nhttps://t.co/SYamkx8BTC",
+		"tweet": "#Bullish H&amp;S on $AGN. It is trading above a strong resistance after breaking out of a giant #bullish flag. \n#Futures #options #StockMarket #SPX500 #TSLA $NFLX #AAPL #googl #spy #oil #gas $spx $rut $comp $mu #bearish $BA $MSFT $GS $GLD $BAC $AAL $GC_f $DAL $DIA $AMZN https://t.co/CCWqmoaP59",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b41b8b4de778b6d5a2",
-		"id": 545,
+		"_id": "5ea374f429e6a5e19eaa56f7",
+		"id": 54,
 		"user": "samantha",
 		"annotation": "NEU",
-		"tweet": "Dissecting This Weeks S&amp;P 500 #Earnings - https://t.co/jNustGfnaC #UIX #Coronavirus #COVID19 #Economy #Investing #MARKETS #MidasLetter #MidasLetterLive #News #SP500 #Strategy #Tech #Trading https://t.co/Yb4RcRGNGf",
+		"tweet": "USA - possible partial #nationalization of #oil companies.  #OilMarketCrash https://t.co/Fr6yiVPaz4",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b41b8b4de778b6d5a6",
-		"id": 546,
+		"_id": "5ea374f429e6a5e19eaa56f9",
+		"id": 55,
 		"user": "samantha",
 		"annotation": "NEG",
-		"tweet": "This is how Muslims are being treated. I hear it from people close to me that they have no right to stay in India. I'm ashamed as hell! No politician to blame but just humanity which has cease to exist #Islamophobia_In_India #Islamphobia_In_India #COVID19 https://t.co/nLIIZMPgMx",
+		"tweet": "#Dow #jumps more than 200 points as #oil #extends #rebound from @CNBC  https://t.co/WaJX4p3gJB",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b41b8b4de778b6d5aa",
-		"id": 547,
+		"_id": "5ea374f429e6a5e19eaa56ff",
+		"id": 56,
 		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "📣📣 25 April 2020 -- An update from the Thai government regarding #Thailand #COVID19 situation, reporting from CCSA at Government House \nSpeaker: Mr. Natapanu Nopakun, MFA\n\n&gt;&gt;&gt; https://t.co/bEssz5Isyf &lt;&lt;&lt;\n\n#WashYourHands #StayAtHome",
+		"annotation": "NEG",
+		"tweet": "This #oil storage problem is growing fast. The inventories isnt just 1 big tank of oil, their spread all over the world, smal and big. In some parts of the world it could be full, others take longer. If its full some places there are already catastrophic problems.\n #tankers #oott",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b41b8b4de778b6d5ac",
-		"id": 548,
+		"_id": "5ea374f429e6a5e19eaa5701",
+		"id": 57,
 		"user": "samantha",
 		"annotation": "POS",
-		"tweet": "#covid19 #coronavirus #coronavirus2020  A global problem\n#stayhome #staystrong #protectnhs \n#protectkeyworkers #protecthealthworkers \n#protectfrontlineworkers \nSocial distancing save lives https://t.co/1m0IKfbeiO",
+		"tweet": "With the oil prices plummeting, it’s critical that #oil and gas companies have real-time insight across their business. Learn how Grupo R uses intelligent technologies to keep on top of its business https://t.co/WUswMbszJA via @Forbes https://t.co/JkUtjAjhoU",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b41b8b4de778b6d5b0",
-		"id": 549,
+		"_id": "5ea374f429e6a5e19eaa5707",
+		"id": 58,
 		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "😂😂😂😂 This is gold!\n#StolenFromFacebook #COVID19 #StayHome https://t.co/iftaiVgJBZ",
+		"annotation": "NEG",
+		"tweet": "Not sure where @smh business are getting their index numbers from, but they need a different source as they look like an almost total collapse : as in S&amp;P/ASX 200: 5068 (5243); A$ : 60.7(64); #gold : 1608 (1727) ; except for #oil almost 24(17) ....hmm early April ?? https://t.co/D6VsKq3K6R",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b41b8b4de778b6d5b6",
-		"id": 550,
+		"_id": "5ea374f429e6a5e19eaa570b",
+		"id": 59,
 		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Bought and paid for. Astroturfers. Sheesh. #COVID19 #COVIDIOTS https://t.co/un0rvoTmYD",
+		"annotation": "NEG",
+		"tweet": "Just A Few Weeks To Go Before We Are Full &amp; Back Down Again In #Oil Prices - Goldman Sees Global Oil Storage Full In 3-4 Weeks; Expects Another Oil Price Crash. https://t.co/DydTpd8TOv https://t.co/aXP8Qnrtcj",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b41b8b4de778b6d5ba",
-		"id": 551,
+		"_id": "5ea374f429e6a5e19eaa570f",
+		"id": 60,
 		"user": "samantha",
 		"annotation": "NEU",
-		"tweet": "Take a sneak peak from our Director of Sales and Marketing, @Derek__James, and one of his most recent interviews pertaining to #COVID19 and #Bitcoin. https://t.co/4kDhrlGByb",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d6b41b8b4de778b6d5bc",
-		"id": 552,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "This is the story to me.  If we don't sort out the \"animal\" part -- our relationship to animals, food, the environment -- we are right back here again... \"'We did it to ourselves': scientist says intrusion into nature led to pandemic\" #Covid19 #pandemic    https://t.co/Q3B7uD0RPi",
+		"tweet": "Looking at top 10 consumers of #oil $WTIC by country conceals the fact that many mature economies have managed to reduce oil consumption by considerable amounts: https://t.co/zIgfMrItMx",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b41b8b4de778b6d5c2",
-		"id": 553,
+		"_id": "5ea374f429e6a5e19eaa5713",
+		"id": 61,
 		"user": "samantha",
 		"annotation": "NEU",
-		"tweet": "Update: ranking of countries by total number of reported deaths from #COVID19, and growth of that in the 24 hours before midnight GMT.  China reporting 0%, Brazil 11%, all 10 other countries 2-4%. https://t.co/L7rlhrafBk",
+		"tweet": "#Oil price update: $22.00 📈  \n(#Brent $Crude) #oilprice source https://t.co/p0TIqjN4Kc",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b41b8b4de778b6d5c4",
-		"id": 554,
+		"_id": "5ea374f529e6a5e19eaa5717",
+		"id": 62,
 		"user": "samantha",
 		"annotation": "NEU",
-		"tweet": "●Sale by E-commerce companies will continue to be permitted for ESSENTIAL GOODS ONLY. ●Sale of liquor &amp; other items continues to be PROHIBITED as specified in the National Directives for #COVID19 management.\n\nNO SHOPS to be permitted to open in hotspots/containment zones https://t.co/NrkNDgHRll",
+		"tweet": "How #oil and #water create a complex #conflict in the #Niger Delta https://t.co/o2DwTNZfJ0",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b41b8b4de778b6d5ca",
-		"id": 555,
+		"_id": "5ea374f529e6a5e19eaa571b",
+		"id": 63,
 		"user": "samantha",
 		"annotation": "NEU",
-		"tweet": "Coronavirus Outbreak: Myths and Facts \n#COVID19 #COVID19Myth #COVID19Fact #Corona #CoronaVirus #StayAtHome #StayHome #HandWashing #HandWash #CoronaVirusMyths #CoronaVirusFacts https://t.co/xTtRAnuVQq",
+		"tweet": "Another section of BMO chief economist Doug Porter's note on #COVID19's #economic impacts, this time focusing on #inflation #QE #oil #fiscalstimulus #cdnecon #usecon #GlobalEconomy https://t.co/XC0fpx9AEt",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b41b8b4de778b6d5ce",
-		"id": 556,
+		"_id": "5ea374f529e6a5e19eaa571d",
+		"id": 64,
 		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "#COVID19 demands a united response, and delegates at the @UN are rising to the challenge, building on a strong tradition of dialogue and collaboration -- @UN Secretary-General @antonioguterres on International Delegates Day  \nhttps://t.co/yWma4Ygq0o",
+		"annotation": "NEG",
+		"tweet": "Latest news in the USO saga... #oil \nU.S. Oil Fund Says CME Ordered It to Limit Futures Positions\n\nhttps://t.co/AqxDU6LVuW",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b51b8b4de778b6d5d0",
-		"id": 557,
+		"_id": "5ea374f529e6a5e19eaa5721",
+		"id": 65,
 		"user": "samantha",
 		"annotation": "NEG",
-		"tweet": "925,758 #COVID19 cases in the United States as of 2 am, 4/25/20. 52,217 Americans are dead. And there's no end in sight. This is what you'll be known for @POTUS @realDonaldTrump. Much of it was brought on by your incompetence, egotism, ignorance, &amp; spite. You'll never escape it.",
+		"tweet": "China's Resumption of Air Travel Points to Tenuous Recovery \nFind this and our other top headlines on Covid-19 and Energy here: https://t.co/6UvtyZ5pga #energy #OOTT #oil #Covid_19",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b51b8b4de778b6d5d6",
-		"id": 558,
+		"_id": "5ea374f529e6a5e19eaa5727",
+		"id": 66,
 		"user": "samantha",
 		"annotation": "NEU",
-		"tweet": "Nationwide outbreaks of Leptospirosis, typhoid &amp; dengue have been reported in #Fiji. #COVID19 restrictions have been changed: there is a curfew from 10pm to 5am. Social gatherings are allowed, but only for 20 people or less. Places of worship are closed. https://t.co/8flCXLSe2R",
+		"tweet": "In Q1 US steel imports of total &amp; finished products down 21% &amp; 25% y/y 🏗But get this, finished steel products w/ major import growth were ones w/ #oil industry applications (+129%)\n\n#oil #mining #oott #stocks #energy #Commodities #metals #economy  https://t.co/fAInSgXIMM",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b51b8b4de778b6d5da",
-		"id": 559,
+		"_id": "5ea374f529e6a5e19eaa572b",
+		"id": 67,
 		"user": "samantha",
 		"annotation": "NEG",
-		"tweet": "Beyond being a lawless, corrupt President, he has totally screwed the pooch w/ his completely inept #COVID19 response.  \nThe GOP betrayed their #OathOfOffice by acquitting him. \n\n#VoteBlueNoMatterWho https://t.co/lHehopYsqN",
+		"tweet": "The old Middle-East-Trick of the #POTUS won't work for a long time. $Oil #Oilprice will decrease again...nobody needs the stuff and no one knows where to store it! #Oil #CoronavirusLockdown #DJI #Trump #Iran",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b51b8b4de778b6d5de",
-		"id": 560,
+		"_id": "5ea374f529e6a5e19eaa572d",
+		"id": 68,
 		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Allow wine shops, small hotels to open: Raj Thackeray “Important for state to earn revenues, remain self-reliant”\n.\nhttps://t.co/fJqMZNqMga\n.\n#economy #Maharashtra #Mumbai #relaxations   #lockdown #healthcare #epidemic #coronavirus #COVID19   #RajThackeray #UddhavThackeray #MNS",
+		"annotation": "POS",
+		"tweet": "Tonight, the CEO of Nordic American Tanker joins @JimCramer’s to discuss how the company is in a position to take advantage of the #oil surplus in a volatile energy market. https://t.co/1pWGMj19a0",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b51b8b4de778b6d5e0",
-		"id": 561,
+		"_id": "5ea374f529e6a5e19eaa5731",
+		"id": 69,
 		"user": "samantha",
 		"annotation": "NEG",
-		"tweet": "OSG claims inmates are better protected inside jails citing New Bilibid Prion Hospital's 500-bed capacity with a 1 bed to 60 population ration, better than outside. \nFACT-CHECK: NBP inmate who died of COVID was sent to RITM in Alabang after exhibiting #COVID19 symptoms.",
+		"tweet": "#Oil prices pulled #equities down boosting safe-haven assets like #preciousmetals, but stabilizing oil prices #Friday helped #stocks close in green while #gold &amp; #silver pulled back. #Unemployment data showed 4.3M new claims bringing total to over 26M since #coronavirus outbreak",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b51b8b4de778b6d5e4",
-		"id": 562,
+		"_id": "5ea374f529e6a5e19eaa5737",
+		"id": 70,
 		"user": "samantha",
 		"annotation": "NEG",
-		"tweet": "The real UK death toll is likely to be around 45,200. \n#coronavirus #COVID19 #BorisJohnson #Trump #indyref2 https://t.co/12JaE9mwIr",
+		"tweet": "One-third of North American #oil exploration and production is hedged at an implied sales price of $52 a barrel, our #energy &amp; #finance analyst Tom Wilson tells @WSJ. Where does that leave companies for the remainder of 2020? \nRead the full article: https://t.co/r8trnLLNis",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b51b8b4de778b6d5ea",
-		"id": 563,
+		"_id": "5ea374f529e6a5e19eaa5739",
+		"id": 71,
 		"user": "samantha",
 		"annotation": "NEG",
-		"tweet": "Makers of #Lysol Warn Against Ingesting #Disinfectants - The New York Times. This is necessary b/c #Trump theorized about these substances curing #COVID19. What a mess.  https://t.co/A7HTlTu4Uz",
+		"tweet": "Oil bounces after Trump uses the 'oldest Middle East oil trick in the book' to kickstart prices https://t.co/RkA1PHmMFt #oil #trump #news https://t.co/mTNIpvdp1O",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b51b8b4de778b6d5ee",
-		"id": 564,
+		"_id": "5ea374f529e6a5e19eaa573f",
+		"id": 72,
 		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Let us all extend our support and care towards the #HealthCareWorkers combating the #COVID19 risking thier own lives to save the people of this nation from the life-threatning #coronavirus https://t.co/BxNqpuv34M",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d6b51b8b4de778b6d5f0",
-		"id": 565,
-		"user": "samantha",
 		"annotation": "NEG",
-		"tweet": "Dettol tells people not to inject disinfectant after Trump suggestion #COVID19 #Dettol #DonaldTrump\nTwo top household brands in the UK and US, Dettol and Lysol, have issued a statement cautioning against the use of their cleaning products to treat coronav…https://t.co/58DuhFpD5F",
+		"tweet": "Did anyone not expect the #COVID19 pandemic to create a massive glut of #oil in the world? \nNext time there is a pandemic, cities are locked down &amp; travel restrictions are imposed. It might be a little smarter to cut production in advance knowing demand would eventually collapse. https://t.co/iOFIkDIZWe",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b51b8b4de778b6d5f4",
-		"id": 566,
+		"_id": "5ea374f529e6a5e19eaa5743",
+		"id": 73,
 		"user": "samantha",
 		"annotation": "NEG",
-		"tweet": "@Expedia has 263 #Complaints. I’m not surprised. Try another company next time. #AirlineCancelledFlights #COVID19 #Pandemic.",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d6b51b8b4de778b6d5fa",
-		"id": 567,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "As long as this quarantine is in place, the code COVIDFREE will be available. Take advantage and get that 15% off of any item on https://t.co/rk2KHHWWpa \nOrder online and #StayHome \n\n#COVID19 #smokers #sale #medicalmarijuana #cannabis #medicalcannabis #CannabisCommunity #weed",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d6b51b8b4de778b6d5fc",
-		"id": 568,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "You really can tell who didn't pay attention in their compulsory biology classes. #COVID19",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d6b51b8b4de778b6d600",
-		"id": 569,
-		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "'Its very worthwhile to consult your doctor when you have #Covid19 symptoms'#HelenRees Executive Director of the #WitsReproductiveHealthAndHIVInstitute at WitsUniversity  tackles #FrequentlyAskedQuestions about #Covid_19 on #SAfmJetSetBreakfast",
+		"tweet": "Oil-storage facilities are filling up at a “monster rate,” as producers race to shut down wells in face of crumbling demand  https://t.co/5tqeYdizpO via @WSJ #oil #economy",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b61b8b4de778b6d606",
-		"id": 570,
+		"_id": "5ea374f529e6a5e19eaa5745",
+		"id": 74,
 		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "Facebook   #covid19",
+		"annotation": "NEG",
+		"tweet": "#Oil’s Well that Ends Well #shippingindustry #energy https://t.co/CvbLHXGQy4",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b61b8b4de778b6d60a",
-		"id": 571,
+		"_id": "5ea374f529e6a5e19eaa574b",
+		"id": 75,
 		"user": "samantha",
 		"annotation": "NEG",
-		"tweet": "Your Leaders Are Corrupt and biggest hypocrites in history\n#COVID19 #Covid_19 #COVID #Biden2020 #BidenAbrams2020 #WuhanVirus #BlueIsPoo #BernieBros #BernieBrosForTrump #Bernie #StayAtHomeOrder #StayHomeStaySafe #lockdown #chloroquine #WalkAway https://t.co/BWY0ajbDDI",
+		"tweet": "Airplanes are grounded \nVechiles are in garages.\n\nRailways are closed.\n\nIs there any other option for #Oil to not dump?",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b61b8b4de778b6d60c",
-		"id": 572,
+		"_id": "5ea374f529e6a5e19eaa574f",
+		"id": 76,
 		"user": "samantha",
 		"annotation": "NEG",
-		"tweet": "#covid19: Say what @SpeakerPelosi? Intubation can be an acute airway emergency in itself. &amp; yet we have more ventilators than Imelda Marcos had 👠👟🥿 @CeliaFarber \n@Cernovich \n@RedPill78 \n@med1cinewoman \n@rsbellmedia \n@jonrappoport \n@santilli_pete \n@Jordan_Sather_ https://t.co/tK4IuNwKQb",
+		"tweet": "#Stocks Stall at #50DMA, #Gold Continues Record Move, #Oil Capitulates down... https://t.co/qH99TLqhYE via @YouTube $SPY $DIA $QQQQ $GLD $GDXJ",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b61b8b4de778b6d612",
-		"id": 573,
+		"_id": "5ea374f629e6a5e19eaa5753",
+		"id": 77,
 		"user": "samantha",
 		"annotation": "POS",
-		"tweet": "My clock is set! Yours should be too! @healthevoices We  represent pretty much every #ChronicIllness Including #HIV #Aging &amp; now we have #COVID19 adding challenges...I'm in Day 46 #StayHome Please Join Us! https://t.co/lgO1DbMD8l",
+		"tweet": "91.28% account gains after 10 days.  \nHandle: \"DreamStalker\"\n\nUnfortunately Beta test ended and accounts restart today. \n\nSame handle and created a new fund on PrimeXBT.\n\nSign up below to trade and/or track my progress!\n\nhttps://t.co/Q4PVcyw5Gx\n\n#bitcoin $btc #crypto #forex #oil https://t.co/uKzwKWIfGA https://t.co/MFRkilD0Dc",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b61b8b4de778b6d614",
-		"id": 574,
+		"_id": "5ea374f629e6a5e19eaa5755",
+		"id": 78,
 		"user": "samantha",
 		"annotation": "NEG",
-		"tweet": "@libijian2 @ipd_newsletter This blame game can end if UNESCO forms a panel of impartial scientists to ascertain  d origin &amp; nature of #COVID19 H/e #WHO seems 2 hv changed its tone a lot after US stopped its funds @WHO Chief now emphasizes lockdowns more than their economic fall out for poor states",
+		"tweet": "U.S. drillers cut most oil rigs in a month since 2015 https://t.co/c3NYgRweFj #Business https://t.co/eQQT8822Zi #U.S. #drillers #cut #most #oil #rigs #in #a #month #since #2015 #  664",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b61b8b4de778b6d618",
-		"id": 575,
+		"_id": "5ea374f629e6a5e19eaa5759",
+		"id": 79,
 		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "I know everyone is focused on #COVID19, we should also focus on the #ClimateCrisis, millions of people will be coming to Illinois, cities like Chicago. We need to prepare for this crisis and make sure that Black and Latino families don’t get displaced in the process. #BLM #Juntos",
+		"annotation": "NEU",
+		"tweet": "49 tankers laden with 245,000 barrels of oil stranded in Mexican ports https://t.co/VhNpPJdrWh #Business https://t.co/eQQT8822Zi #49 #tankers #laden #with #245000 #barrels #of #oil #stranded #in #Mexican #ports #  31",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b61b8b4de778b6d61c",
-		"id": 576,
+		"_id": "5ea374f629e6a5e19eaa575f",
+		"id": 80,
 		"user": "samantha",
 		"annotation": "NEG",
-		"tweet": "The ⁦@NationalAmc⁩’s ⁦@SfisoNtombelaDr⁩ writes in this free online issue of ⁦@FarmersWeeklySA⁩ that the impact of #COVID19 on agriculture will be worsened by the fact that the sector was already posting negative growth before the outbreak https://t.co/DOXYiQ57sb",
+		"tweet": "US oil rig count now only +46 (+14%) compared to 2016. Rate od weekly rig decline remains consistent. #OOTT #oil #WTI #OPEC https://t.co/NQemw49jy8",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b61b8b4de778b6d622",
-		"id": 577,
+		"_id": "5ea374f629e6a5e19eaa5763",
+		"id": 81,
 		"user": "samantha",
 		"annotation": "NEU",
-		"tweet": "🇸🇦 #PIF @FIIKSA Governor Yasir Al-Rumayyan gives his insight on the nature of the current #COVID19 crisis, during the FII Institute’s first virtual event. #ImpactOnHumanity  #MESP https://t.co/CKzWN0lsyp",
+		"tweet": "#petrolPrice update for #Traralgon  United - Princes St $1.00 \nCaltex - Princes St $1.10\nColes Express - $1.10 \nUnited - Shakespeare St - $1.00 \n#petrol #oil #OilPriceWar \n#OilMarketCrash #oilcrash \n#oilprice",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b61b8b4de778b6d626",
-		"id": 578,
+		"_id": "5ea374f629e6a5e19eaa5767",
+		"id": 82,
 		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Stuck indoors? Read 'Nature and Wellbeing in the Digital Age: How to feel better without logging off' #selfisolation #covid19 https://t.co/gKQNY0MO4I",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d6b61b8b4de778b6d62a",
-		"id": 579,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Wearing a face mask won’t protect you. \nBut it protects everyone around you.\n\nIf we all wear face masks in public, we save lives.\n\nWe save jobs.\n\nWe save America.\n\nWear a mask:  Become America’s protector.\n#YouAreTheSolution\n#BeACovid19Warrior #ProtectAmericans #Covid19 https://t.co/c2UAd7J5YY",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d6b61b8b4de778b6d62c",
-		"id": 580,
-		"user": "samantha",
 		"annotation": "NEG",
-		"tweet": "@Octomemes1 @Tractor444 Disinfectant has been injected into us for years!  @realDonaldTrump  check out the vaccine ingredients.  And they didn't even tell us what they were doing.\n#COVID19 https://t.co/Oc4qfO0xMM",
+		"tweet": "Continued problems with the #oil🛢️futures market could be on the horizon because there's a shortage of facilities. @CoinSharesCo's @dannylmasters discusses #OilPrice and volatility in @Sebsinclair1989's @CoinDesk article 👇 https://t.co/dmLtKWC4zw",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b61b8b4de778b6d632",
-		"id": 581,
+		"_id": "5ea374f629e6a5e19eaa576b",
+		"id": 83,
 		"user": "samantha",
 		"annotation": "NEG",
-		"tweet": "@WhiteHouse @realDonaldTrump Gov Cuomo said yesterday on national tv that antibody tests showed a 14% infection rate &amp; death rate is .5% in NY. In other states there has been similar results. WHY ARE WE STILL IN LOCKDOWN?! 😠 #CoronavirusPandemic #COVID19 #novelcoronavirus #pandemic #coronavirus #scamdemic",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d6b71b8b4de778b6d636",
-		"id": 582,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "Hey friends! Stuck in your restricted place during this critical time, do you think of helping the Front End Warriors of #COVID19? 750 Ad Healthcare is determined to donate necessary equipment to the hospitals/doctors/nurses and you can put in your share. https://t.co/Sjg75cnXOY",
+		"tweet": "The #Oil market pushed off the bottom: how long to wait for price recovery? https://t.co/xI89yY2jj4 https://t.co/gm9T0v3mc5",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b71b8b4de778b6d638",
-		"id": 583,
+		"_id": "5ea374f629e6a5e19eaa576f",
+		"id": 84,
 		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "@ericarhodes Can't really call anything under #COVID19 quarantine the \"Best,\" per se -esp. w/beach closed w/temps in 90's- but yr LIVE running commentary on @instagram while walking thru the forest/woods this wk was best/funniest original thing I've seen/heard the past 6 wks. So there's that! https://t.co/xItbml68WN",
+		"annotation": "NEG",
+		"tweet": "Trump criticized major banks' unwillingness to fund certain #fossilfuels projects, after two announced this week that they wouldn't directly support #oil and #gas #drilling in the #Arctic. https://t.co/HhqNMEbomc #Alaska",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b71b8b4de778b6d63e",
-		"id": 584,
+		"_id": "5ea374f629e6a5e19eaa5773",
+		"id": 85,
 		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "@UNEP A role to play. Let’s show kindness and unity.\n#COVID19 #coronavirus #UnitedNations #natureorbitfoundation https://t.co/aRZMxs2jrs",
+		"annotation": "NEU",
+		"tweet": "My bit on #oil after a wild week. https://t.co/papSZO6M9u",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b71b8b4de778b6d642",
-		"id": 585,
+		"_id": "5ea374f629e6a5e19eaa5775",
+		"id": 86,
 		"user": "samantha",
 		"annotation": "POS",
-		"tweet": "So cool 👍 Artificial Intelligence Bot answers questions on coronavirus issues with the help of the staff of the City of Espoo here in Finland.   #covid19 #ai  #staysafe #gotanyquestions https://t.co/UAdjWK9G8K",
+		"tweet": "Great picture as always @tonykarpinski one day #London will return to scenes like these #oil #oilpainting https://t.co/WKbv6PYC9o",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b71b8b4de778b6d644",
-		"id": 586,
+		"_id": "5ea374f629e6a5e19eaa577b",
+		"id": 87,
 		"user": "samantha",
 		"annotation": "NEG",
-		"tweet": "#COVID19 continues to perplex, with increasing stroke due to blood clots in young patients.... vitally important to get to hospital quickly.  @AmbulanceVic @normanswan @strokefdn @VSTprogram  https://t.co/GArg5FTYiV",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d6b71b8b4de778b6d64a",
-		"id": 587,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "*Distribution of cash prizes* Every category will have three winners each. 🎉\n\n☑️Register now at submit@thevisualhouse.in\n\n#TheVisualHouse #CreateAtHomeByTVH #WhereVisionariesWork #coronamemes #JantaCurfew #socialdistancing #covid #Covid19 https://t.co/9qmFjb2SNG",
+		"tweet": "#OIL #OOTT #WTI  I have given up the idea of trading WTI before 5/1 or even 6/1. When the brokers are scared to death like injured animals, it may take a long time for them to calm down. Usually, it's a good time to take a vacation but I cannot go anywhere now. https://t.co/xVF8THqCeo",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b71b8b4de778b6d64e",
-		"id": 588,
+		"_id": "5ea374f629e6a5e19eaa577f",
+		"id": 88,
 		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "This is excellent. A VERY quick way of recording learning/teaching/reflection during busy #COVID19 times when you might not be working in your current specialty. #OneNBT #TeachLearnReflect https://t.co/DA55CUZmf8",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d6b71b8b4de778b6d650",
-		"id": 589,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "An etymologist has clearly been quarantined too long. I am happy for the result.   \nYou probably won’t read the phrase “quell unrest” the same way again. Or a number of other #COVID19 words, either.\n\nhttps://t.co/rgS2s0T1M6",
+		"annotation": "NEG",
+		"tweet": "Evil 👿 911, 2002, 44”/48” unstretched. .\n.\n.\n#tminism #paint #earlywork #brigetbardot #art #artist #painting #canvas #artist #newyorkartist #oil #surrealism #faces #artistlife #911 #worldtrade #remember #tm #towers https://t.co/GJP9P431oR",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b71b8b4de778b6d656",
-		"id": 590,
+		"_id": "5ea374f629e6a5e19eaa5783",
+		"id": 89,
 		"user": "samantha",
 		"annotation": "NEU",
-		"tweet": "#COVID19 #PuertoRico🇵🇷 Deaths\nMarch=8\n\nWeekly April\nApril 1-7=23↗️65%\nApril 8-14=45↗️49%\n*April 15-21=43↘️4%\n\nDaily\n4/22=67↗️36%\n4/23=69↗️3%\n4/24=77↗️10%\n\n*Some #COVID19 patients had been double-counted: #NYTimes\n\n#StayHome",
+		"tweet": "Remember To Complete The #Fuel #Oil Quality And Safety Survey Before 6 May @BIMCONews #marinefueloil #maritime https://t.co/GHgb4s3Fdy",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b71b8b4de778b6d658",
-		"id": 591,
+		"_id": "5ea374f629e6a5e19eaa5787",
+		"id": 90,
 		"user": "samantha",
 		"annotation": "NEG",
-		"tweet": "While we’re distracted by the UK Government’s poor performance on #COVID19, they continue to drive for the hugely damaging #NoDeal #Brexit. One could almost believe the conspiracy theories Britain running down the clock in Brexit talks, says Michel Barnier https://t.co/7PT6vwibqu",
+		"tweet": "The price of crude is down 70%-plus just this year, and one #oil major has already cut its #dividend. Who's going to be next?  \nhttps://t.co/rTokjvy450",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6b71b8b4de778b6d65e",
-		"id": 592,
+		"_id": "5ea374f629e6a5e19eaa5789",
+		"id": 91,
 		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "\"Instead of murmuring and complaining, work to excel on the job and pray for favour.\" ~ @UCBMedia  \n#COVID19 #StayAtHomeAndStaySafe #WorkFromHome #Accelerate #BeDeliberate #HRwithEM",
+		"annotation": "NEG",
+		"tweet": "And if he does that, #GNA may quickly take control of not only west but also #oil fields in the south west which will provide the necessary funding &amp; speed up deployment of more #Turkish made weaponary + possibly even a #TSK military base (s.a. Watiya) \nhttps://t.co/UszKtVq7W3",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6ebe6ee37e787b25fbe",
-		"id": 593,
+		"_id": "5ea374f629e6a5e19eaa578f",
+		"id": 92,
 		"user": "samantha",
 		"annotation": "NEU",
-		"tweet": "Overall zone-wise detailed status of COVID-19 cases in Chennai ... #Chennai #TamilNadu #Covid19 \nhttps://t.co/eHaa32mV59",
+		"tweet": "Look at this: \n#OIL https://t.co/KSCpY4bmJW",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6ebe6ee37e787b25fc0",
-		"id": 594,
+		"_id": "5ea374f729e6a5e19eaa5793",
+		"id": 93,
 		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "China's inactivated #COVID19 vaccine entered the second phase of clinical trial on Friday, according to its developers. 96 persons in three age groups have received the vaccine in the first phase of clinical trial as of April 23 and the vaccine has shown good safety so far... https://t.co/d0JnnWKvG8",
+		"annotation": "NEU",
+		"tweet": "We aren't addicted to #oil, but our #cars are. - James Woolsey",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6ebe6ee37e787b25fc4",
-		"id": 595,
+		"_id": "5ea374f729e6a5e19eaa5795",
+		"id": 94,
 		"user": "samantha",
 		"annotation": "NEG",
-		"tweet": "🥴🥺 ? Global Economy 2020 ? 🤯 https://t.co/UhyTZnOX7h #coronavirus #covid19 ... WE TRIED TO ACHIEVE WORLD DOMINION, BUT WE BROKE THE WORLD! CAN WE PLEASE HAVE ANOTHER ONE?",
+		"tweet": "Is the #oil crash over? #OOTT https://t.co/YznZNKyT1x",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6ebe6ee37e787b25fc8",
-		"id": 596,
+		"_id": "5ea374f729e6a5e19eaa579b",
+		"id": 95,
 		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "For pandemic like #covid19, Prophet #Muhammad would underscore importance of compassion towards others, adhering to law of the land, exercising social distancing, service to humanity &amp; most importantly turning to God with renewed humility. https://t.co/qNYutMevoQ @muslimsforpeace",
+		"annotation": "NEG",
+		"tweet": "@Holy_Helicity @BadfishRanch @alghadouri_ That my friend is the right question .. I had the same question .. however I can hypothesize .. it seems that either a) many are worried about and #oil event during expiry (unlikely in my mind) or b) someone unwound huge phys / fin risk in their statarb portfolio and got 🤬!",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d6ebe6ee37e787b25fce",
-		"id": 597,
+		"_id": "5ea374f729e6a5e19eaa579f",
+		"id": 96,
 		"user": "samantha",
 		"annotation": "NEU",
-		"tweet": "Chartered Accountant and Financial News Commentator, Sinesipho Maninjwa joins @JacobMoshokoa to discuss oil, the stability of the rand and the global economy. \nTune into #DSTV channel 405 for more. We are also available on Showmax.\n\n#Covid19 #Newzroom405 #WeekendDawnOn405 https://t.co/O58JgsLEEx",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d705412579e794e3f9af",
-		"id": 598,
-		"user": "samantha",
-		"annotation": "POS",
-		"tweet": "@antonioguterres @MariaSTsehai if we can work together with other interested countries who works tirelessly to find #COVID19 vaccine we’ll be able to find a vaccine but by putting aside our ideologies and political affiliation especially Geo-politics and encouraging our scientist through technical support",
+		"tweet": "\"The administration is also considering taking financial stakes in exchange for some loans, and some firms might be asked to reduce production.\" I wonder how industry would feel about what it may be asked to do if administration changes &amp; feds have a stake #oott #oil #shale https://t.co/hZ4CGNqSgu",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d705412579e794e3f9b3",
-		"id": 599,
+		"_id": "5ea374f729e6a5e19eaa57a1",
+		"id": 97,
 		"user": "samantha",
-		"annotation": "NEU",
-		"tweet": "#Facebook’s #latest #ripoff #product is a #Zoom #clone called “#Rooms”   https://t.co/YJ2OCgBwD0 via @voxdotcom #News #Coronavirus #COVID19 #COVID #Testing #SocialDistancing #MessengerRooms #ZoomRipoff #VideoChat #Houseparty",
+		"annotation": "NEG",
+		"tweet": "Alaska Oil Take Huge Hit https://t.co/2okMwE0JJJ\n\n#alaska #oil #alaskapipeline #alaskaeconomy #oilprices #fueleconomy https://t.co/h4EokHR4qq",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d705412579e794e3f9b5",
-		"id": 600,
+		"_id": "5ea374f729e6a5e19eaa57a5",
+		"id": 98,
 		"user": "samantha",
 		"annotation": "NEG",
-		"tweet": "When the government was persuaded to change its policy and follow #SAGE advice the damage was already done. They'd already implemented a hard to stop herd immunity #covid19 policy.",
+		"tweet": "U.S. drillers cut most oil rigs in a month since 2015 https://t.co/c3NYgRweFj #Business https://t.co/eQQT8822Zi #U.S. #drillers #cut #most #oil #rigs #in #a #month #since #2015 #  451",
 		"__v": 0
 	  },
 	  {
-		"_id": "5ea3d705412579e794e3f9bb",
-		"id": 601,
+		"_id": "5ea374f729e6a5e19eaa57ab",
+		"id": 99,
 		"user": "samantha",
 		"annotation": "NEU",
-		"tweet": "Video @coview19 with us on YouTube Coview - A scratch from UTOPIA\nVideo contribution from https://t.co/2ZpL9ekDoM - workgroup feminist perspective\nhttps://t.co/bOw9awYFoA (English)\n\n#feminism #utopia #coview #covid19 #Feminismus #Utopie https://t.co/yfKIP2FF4Q",
-		"__v": 0
-	  },
-	  {
-		"_id": "5ea3d705412579e794e3f9bd",
-		"id": 602,
-		"user": "samantha",
-		"annotation": "NEG",
-		"tweet": "#HARD TALK UK  Pointless complication.\n#Conservatives are such dorks.\n#RedTape #Overcomplication #Covid19 https://t.co/C7bHrfUwny",
+		"tweet": "49 tankers laden with 245,000 barrels of oil stranded in Mexican ports https://t.co/VhNpPJdrWh #Business https://t.co/eQQT8822Zi #49 #tankers #laden #with #245000 #barrels #of #oil #stranded #in #Mexican #ports #  655",
 		"__v": 0
 	  }
 ]
