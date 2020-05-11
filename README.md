@@ -52,13 +52,13 @@ $ npm run run-test
 
 The test will run based on 100 annotated tweets data by ourselves. It will output a "output.json" in the main folder that contains:
 
-```json
+```jsonc
 [
   "tweets":[
   		{
   			"tweet": "A single Tweet",	// Tweet
-  			"annotation": "POS",	// Manual Annotation
-  			"programAnno": "POS"	// Computer Annotation
+  			"annotation": "POS",		// Manual Annotation
+  			"programAnno": "POS"		// Computer Annotation
   		}
 		...
 	],
@@ -74,13 +74,13 @@ The test will run based on 100 annotated tweets data by ourselves. It will outpu
 		"NEG_ACCU": 0.3178294573643411	// Negative Term Accuracy
   },
   "annotatorCount": {
-      "POS": 148,	// Positive Terms of manual annotation
-      "NEU": 132,	// Neutral Terms of manual annotation 
-      "NEG": 129	// Negative Terms of manual annotation
+      "POS": 148,					// Positive Terms of manual annotation
+      "NEU": 132,					// Neutral Terms of manual annotation 
+      "NEG": 129					// Negative Terms of manual annotation
     },
     "accuracy": {
-      "DIFF": 220,	// Different Terms 
-      "SCORE": 0.46210268948655253	// Total Accuracy
+      "DIFF": 220,					// Different Terms 
+      "SCORE": 0.46210268948655253			// Total Accuracy
     }
 ]
 ```
