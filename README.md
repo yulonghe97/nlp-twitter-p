@@ -15,7 +15,7 @@ This is the program souce code for the NLP final project. For detail about this 
 
 ##### This is a deployed website, please check 
 
-[NLP Twitter Analysis]: https://nlp.ratemyclass.io
+[NLP Twitter Sentiment Analysis](https://nlp.ratemyclass.io)
 
 
 
