@@ -31,7 +31,7 @@ $ npm install
 
 Database Configuration:
 ```
-	$ vi src/config.js
+$ vi src/config.js
 ```
 
 Replace @username and @password for our database, the username and password is upon request. 
