@@ -9,11 +9,9 @@ var tagger = posTagger();
 var myTokenizer = tokenizer();
 
 async function analysis(tweet) {
-  // Clean the Tweet
   const cleanObj = clean(tweet);
   const result = await find(cleanObj);
   result.tag = tagResult(result.sumScore);
-
   return result;
 }
 
@@ -27,7 +25,7 @@ function tagResult(score) {
   }
 }
 
-async function find(cleanObj, totalScore) {
+async function find(cleanObj) {
   let negation = [
     "not",
     "no",
@@ -72,34 +70,38 @@ async function find(cleanObj, totalScore) {
   const cleanArr = cleanObj.wordArr;
   let emojiString = "";
   let emojiScore = 0;
-  if (cleanObj.emojiArr.length !== 0) {
+  if (cleanObj.emojiArr.length !== 0){
     emojiString = cleanObj.emojiArr.join("");
-    emojiScore =
-      sentiment(emojiString).normalizedScore / (3 * cleanObj.emojiArr.length);
+    emojiScore = sentiment(emojiString).normalizedScore /(10);
   }
   let prev = "";
   let sentenceScore = 0;
+  let validCount = 0;
   for (let i = 1; i < cleanArr.length; i++) {
     prev = cleanArr[i - 1];
     try {
       const result = await findDB(cleanArr[i].toLowerCase());
       if (negation.includes(prev) && result.length !== 0) {
+        validCount += 1;
         sentenceScore = sentenceScore - getAverage(result);
       } else if (result.length !== 0) {
+        validCount += 1;
         sentenceScore += getAverage(result);
       }
     } catch (e) {
       console.log(e);
     }
   }
-
-  console.log("This is sentence score:  " + sentenceScore);
-  console.log("This is the emojiscore:  " + emojiScore);
-
+  if (validCount === 0) {
+    averageResult = 0;
+  }
+  else {
+    averageResult = sentenceScore / validCount;
+  }
   return {
-    sentenScore: sentenceScore,
+    sentenScore: averageResult,
     emojiScore: emojiScore,
-    sumScore: sentenceScore + emojiScore,
+    sumScore: averageResult + emojiScore,
   };
 }
 
@@ -117,7 +119,6 @@ function clean(sentence) {
 }
 
 async function findDB(word) {
-  // convert tree bank to senti-word-net
   const pos = tagger.tagSentence(word)[0].pos;
   const sentiTag = posToSenti(pos);
   let result = await clue.find({
