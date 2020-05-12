@@ -16,9 +16,9 @@ async function analysis(tweet) {
 }
 
 function tagResult(score) {
-  if (score < -0.125) {
+  if (score < -0.01) {
     return "NEGATIVE";
-  } else if (score > 0.125) {
+  } else if (score > 0.01) {
     return "POSITIVE";
   } else {
     return "NEUTRAL";
